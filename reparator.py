@@ -1,6 +1,6 @@
 import os
 import json
-import re
+import re#AAAAAAAAAAAAAA
 import random
 
 #Ignorar este codigo, su unico objetivo fue arreglar algunos numeros que fueron escritos con +53 u otros valores.
