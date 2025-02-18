@@ -1,0 +1,27 @@
+import sys
+import subprocess
+
+if __name__ == "__main__":
+    args = sys.argv
+    val = 0
+    if len(args) <=1:
+        try:
+            with open('.git/COMMIT_VERSION', 'r') as f:
+                val = f.read()
+        except FileNotFoundError:
+            val = 0
+    else:
+        val = args[-1]
+    try:
+        val = int(val)
+    except ValueError:
+        val = 0
+    val += 1
+    val_str = str(val).strip()
+    subprocess.run(['git', 'add', '.'])
+    subprocess.run(['git', 'commit', '-m', 'v' + '.'.join(map(str,val_str))])
+    subprocess.run(['git', 'push', 'origin', 'main'])
+    with open('.git/COMMIT_VERSION', 'w') as f:
+        f.write(val_str)
+
+    print('Version',val, 'Guardada satisfactoriamente...')
