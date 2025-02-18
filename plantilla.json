@@ -1,0 +1,134 @@
+{
+"type": ["Tipo1", "Tipo2"],
+
+"type_of_food": ["Tipo de Comida 1", "Tipo de Comida 2"],
+
+"municipality": "Municipio",
+
+"services": ["Servicio 1", "Servicio 2"],
+
+"address": "Dirección del Restaurante",
+
+"qualification": 0.0,
+
+"hours": {
+
+"monday": {"open": "HH:MM", "close": "HH:MM"},
+
+"tuesday": {"open": "HH:MM", "close": "HH:MM"},
+
+"wednesday": {"open": "HH:MM", "close": "HH:MM"},
+
+"thursday": {"open": "HH:MM", "close": "HH:MM"},
+
+"friday": {"open": "HH:MM", "close": "HH:MM"},
+
+"saturday": {"open": "HH:MM", "close": "HH:MM"},
+
+"sunday": {"open": "HH:MM", "close": "HH:MM"}
+},
+
+"contact": {
+
+"phone": "Numero de Teléfono",
+
+"email": true,
+
+"website": true,
+
+"facebook": "URL de Facebook",
+
+"instagram": "URL de Instagram"
+},
+
+"menu": {
+
+"starters": [
+
+    {"name": "Nombre del Plato", "price": 0},
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"salads": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"vegetables": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"meats": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"beef": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"seafood": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"burgers": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"desserts": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"cocktails": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"twist_cocktails": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"classic_cocktails": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"tiki_cocktails": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"tiki_author_cocktails": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+],
+
+"others": [
+
+    {"name": "Nombre del Plato", "price": 0}
+
+]
+}
+}
+
+

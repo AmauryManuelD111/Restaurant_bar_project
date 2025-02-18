@@ -1,0 +1,123 @@
+{
+    "name": "Bar Colina",
+    "type": [
+        "bar"
+    ],
+    "speciality": [
+        "italiana"
+    ],
+    "municipality": "San Miguel del Padron",
+    "services": [
+        "reservations"
+    ],
+    "address": "esquina b y calzada de guines reparto merceditas",
+    "qualification": 4.5,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "entremes de jamon y queso",
+                "price": 600
+            },
+            {
+                "name": "croquetas",
+                "price": 400
+            },
+            {
+                "name": "frituras de malanga",
+                "price": 550
+            },
+            {
+                "name": "tostones",
+                "price": 400
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 600
+            },
+            {
+                "name": "chicharrita",
+                "price": 300
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "espaguetti napolitano",
+                "price": 550
+            },
+            {
+                "name": "pizza napolitana grande",
+                "price": 650
+            },
+            {
+                "name": "pizza napolitana",
+                "price": 220
+            },
+            {
+                "name": "queso",
+                "price": 200
+            },
+            {
+                "name": "chorizo",
+                "price": 300
+            },
+            {
+                "name": "jamon",
+                "price": 300
+            },
+            {
+                "name": "pina",
+                "price": 150
+            }
+        ]
+    }
+}

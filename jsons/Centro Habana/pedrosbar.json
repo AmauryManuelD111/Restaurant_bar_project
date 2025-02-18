@@ -1,0 +1,194 @@
+{
+    "name": "Pedro's Bar",
+    "type": [
+        "bar"
+    ],
+    "speciality": [
+        "cocteleria",
+        "italiana"
+    ],
+    "municipality": "Centro Habana",
+    "services": [
+        "A la carta",
+        "A domicilio"
+    ],
+    "address": null,
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "tuesday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "wednesday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "thursday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "friday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "saturday": {
+            "open": "14:00",
+            "close": "02:00"
+        },
+        "sunday": {
+            "open": "14:00",
+            "close": "02:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "papas fritas",
+                "price": 1150
+            },
+            {
+                "name": "frituras de malanga",
+                "price": 800
+            },
+            {
+                "name": "croquetas",
+                "price": 1050
+            },
+            {
+                "name": "dados de queso",
+                "price": 1350
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 1450
+            },
+            {
+                "name": "tabla mixta",
+                "price": 4600
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "agua natural",
+                "price": 250
+            },
+            {
+                "name": "refresco",
+                "price": 500
+            },
+            {
+                "name": "energizante",
+                "price": 500
+            },
+            {
+                "name": "canchanchara",
+                "price": 1150
+            },
+            {
+                "name": "mojito",
+                "price": 1100
+            },
+            {
+                "name": "caipis",
+                "price": 1100
+            },
+            {
+                "name": "daiquiri",
+                "price": 1100
+            },
+            {
+                "name": "gin tonic",
+                "price": 1450
+            },
+            {
+                "name": "margarita",
+                "price": 1050
+            },
+            {
+                "name": "cubata",
+                "price": 1050
+            },
+            {
+                "name": "sangria",
+                "price": 1350
+            },
+            {
+                "name": "pina colada",
+                "price": 1100
+            },
+            {
+                "name": "jarra de cerveza",
+                "price": 350
+            },
+            {
+                "name": "cerveza",
+                "price": 600
+            },
+            {
+                "name": "vasos de cerveza",
+                "price": 200
+            },
+            {
+                "name": "servicio de michelada",
+                "price": 300
+            },
+            {
+                "name": "servicio de chelada",
+                "price": 400
+            }
+        ],
+        "others": [
+            {
+                "name": "pizza de queso",
+                "price": 1200
+            },
+            {
+                "name": "pizza hawaiana",
+                "price": 1500
+            },
+            {
+                "name": "pizza de vegetales",
+                "price": 1500
+            },
+            {
+                "name": "sandwich de jamon y queso",
+                "price": 1200
+            },
+            {
+                "name": "sandwich de pechuga",
+                "price": 1550
+            },
+            {
+                "name": "sandwich de atun",
+                "price": 1500
+            },
+            {
+                "name": "sandwich de lechon",
+                "price": 1550
+            }
+        ]
+    }
+}

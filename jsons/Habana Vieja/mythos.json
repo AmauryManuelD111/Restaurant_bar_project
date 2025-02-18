@@ -1,0 +1,216 @@
+{
+    "name": "Mythos",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario",
+        "Tiene bar"
+    ],
+    "address": "Calle Cuba No. 211 entre Empedrado y O'Reilly, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "63691718",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Hummus de Garbanzo",
+                "price": 700
+            },
+            {
+                "name": "Melitzanosalata",
+                "price": 800
+            },
+            {
+                "name": "Tzatziki",
+                "price": 600
+            },
+            {
+                "name": "Papas fritas con queso feta y oregano",
+                "price": 1300
+            },
+            {
+                "name": "Tyropitakias",
+                "price": 1000
+            },
+            {
+                "name": "Aceitunas marinadas con queso feta",
+                "price": 700
+            },
+            {
+                "name": "Griego pobre",
+                "price": 750
+            },
+            {
+                "name": "Saganaki",
+                "price": 1500
+            }
+        ],
+        "salads": [],
+        "vegetables": [
+            {
+                "name": "Imam",
+                "price": 2000
+            }
+        ],
+        "meats": [
+            {
+                "name": "Solomillo de cerdo en salsa de limon griega",
+                "price": 3500
+            }
+        ],
+        "beef": [
+            {
+                "name": "Souvlaki de res",
+                "price": 2800
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Saganaki de langosta o camaron",
+                "price": 3500
+            },
+            {
+                "name": "Saganaki de frutos del mar",
+                "price": 4000
+            },
+            {
+                "name": "Risotto de pulpo",
+                "price": 3700
+            },
+            {
+                "name": "Risotto de frutos del mar",
+                "price": 4100
+            },
+            {
+                "name": "Pulpo Grille",
+                "price": 4200
+            },
+            {
+                "name": "Pasta de Camaron al Anís",
+                "price": 3200
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Tarta de Yogurt Griego con reduccion de vino tinto",
+                "price": 1000
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [
+            {
+                "name": "Demeter",
+                "price": 1800
+            },
+            {
+                "name": "Afrodita",
+                "price": 2000
+            },
+            {
+                "name": "Persefone",
+                "price": 2100
+            },
+            {
+                "name": "Hades",
+                "price": 2500
+            },
+            {
+                "name": "Dionisio",
+                "price": 2800
+            },
+            {
+                "name": "Poseidon",
+                "price": 2500
+            },
+            {
+                "name": "Ares",
+                "price": 2400
+            },
+            {
+                "name": "Apolo",
+                "price": 2300
+            }
+        ],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Souvlaki de cerdo",
+                "price": 2500
+            },
+            {
+                "name": "Souvlaki de pechuga de pollo",
+                "price": 2100
+            },
+            {
+                "name": "Souvlaki vegano",
+                "price": 2000
+            },
+            {
+                "name": "Souvlaki de queso feta",
+                "price": 2500
+            },
+            {
+                "name": "Pastitsio",
+                "price": 2300
+            },
+            {
+                "name": "Risotto de yogurt griego",
+                "price": 3000
+            },
+            {
+                "name": "Pasta Mediterranea",
+                "price": 3000
+            },
+            {
+                "name": "Freddo Expresso",
+                "price": 450
+            },
+            {
+                "name": "Freddo Capucchino",
+                "price": 650
+            }
+        ]
+    }
+}

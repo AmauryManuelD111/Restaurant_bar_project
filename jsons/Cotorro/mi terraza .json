@@ -1,0 +1,233 @@
+{
+    "name": "mi terraza",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Italiana"
+    ],
+    "municipality": "Cotorro",
+    "services": [
+        "Parking",
+        "reservations",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator",
+        "delivery_areas"
+    ],
+    "address": "Calle 71 % 24 y 26, Las Brisas, Cotorro",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "76822381",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/miterraza_pizzeria"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Crema de queso",
+                "price": 850
+            },
+            {
+                "name": "Crema Virginia",
+                "price": 1100
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Limonada Frappe",
+                "price": 350
+            },
+            {
+                "name": "Malteada",
+                "price": 500
+            },
+            {
+                "name": "Chelada",
+                "price": 550
+            },
+            {
+                "name": "Batidos (mango, fruta bomba o guayaba)",
+                "price": 400
+            },
+            {
+                "name": "Batidos de Helado (fresa, chocolate, helado con galleta, mozcatel)",
+                "price": 600
+            },
+            {
+                "name": "Pica Pica Mi Terraza",
+                "price": 1700
+            },
+            {
+                "name": "Tostones de jamon y queso",
+                "price": 1000
+            },
+            {
+                "name": "Tostones de atun",
+                "price": 1200
+            },
+            {
+                "name": "Fajitas de pollo (con mayonesa)",
+                "price": 1000
+            },
+            {
+                "name": "Ensalada de pollo",
+                "price": 400
+            },
+            {
+                "name": "Frituras de malanga (con miel)",
+                "price": 400
+            },
+            {
+                "name": "Bolitas de queso (con miel)",
+                "price": 400
+            },
+            {
+                "name": "Croquetas (con mayonesa)",
+                "price": 400
+            },
+            {
+                "name": "Chicharritas",
+                "price": 300
+            },
+            {
+                "name": "Papas prefritas",
+                "price": 600
+            }
+        ],
+        "others": [
+            {
+                "name": "Sandwich de queso",
+                "price": 700
+            },
+            {
+                "name": "Sandwich de jamon",
+                "price": 650
+            },
+            {
+                "name": "Sandwich de jamon y queso",
+                "price": 900
+            },
+            {
+                "name": "Sandwich de atun",
+                "price": 1100
+            },
+            {
+                "name": "Sandwich Mi Terraza",
+                "price": 1100
+            },
+            {
+                "name": "Espaguetis Napolitanos",
+                "price": 1000
+            },
+            {
+                "name": "Espaguetis de jamon",
+                "price": 1250
+            },
+            {
+                "name": "Espaguetis de atun",
+                "price": 1400
+            },
+            {
+                "name": "Espaguetis a la Carbonara",
+                "price": 1600
+            },
+            {
+                "name": "Espaguetis doble queso",
+                "price": 1500
+            },
+            {
+                "name": "Canelos",
+                "price": 1500
+            },
+            {
+                "name": "Pizza Napolitana",
+                "price": 1200
+            },
+            {
+                "name": "Pizza Hawaiana",
+                "price": 1700
+            },
+            {
+                "name": "Pizza Mi Terraza",
+                "price": 1800
+            },
+            {
+                "name": "Doble queso (150g)",
+                "price": 500
+            },
+            {
+                "name": "Jamon (60g)",
+                "price": 300
+            },
+            {
+                "name": "Cebolla",
+                "price": 250
+            },
+            {
+                "name": "Pina",
+                "price": 200
+            },
+            {
+                "name": "Atun",
+                "price": 400
+            },
+            {
+                "name": "Aceitunas",
+                "price": 400
+            },
+            {
+                "name": "Chorizo",
+                "price": 200
+            },
+            {
+                "name": "Bacon",
+                "price": 700
+            }
+        ]
+    }
+}

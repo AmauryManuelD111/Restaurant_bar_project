@@ -1,0 +1,274 @@
+{
+    "name": "Pizzas Vip",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "italian",
+        "others"
+    ],
+    "municipality": "Guanabacoa",
+    "services": [
+        "A la carta",
+        "payment_methods",
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "Null",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "Null",
+        "website": "Null",
+        "facebook": "Null",
+        "instagram": "Null"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas de la Casa",
+                "price": 400
+            },
+            {
+                "name": "Fritura de Malanga",
+                "price": 300
+            },
+            {
+                "name": "Bolita de Queso",
+                "price": 650
+            },
+            {
+                "name": "Fajita de Pechuga",
+                "price": 1100
+            },
+            {
+                "name": "Ensalada Fria",
+                "price": 370
+            },
+            {
+                "name": "Papa Frita",
+                "price": 580
+            },
+            {
+                "name": "Fajita de Cerdo",
+                "price": 1200
+            },
+            {
+                "name": "Crema de Queso",
+                "price": 500
+            },
+            {
+                "name": "Crema Virginia",
+                "price": 550
+            },
+            {
+                "name": "Crema Aurora",
+                "price": 520
+            },
+            {
+                "name": "Crema Mixta",
+                "price": 600
+            },
+            {
+                "name": "Tacos de Jamon",
+                "price": 1030
+            },
+            {
+                "name": "Tacos de Res",
+                "price": 1350
+            },
+            {
+                "name": "Tacos de Cangrejo",
+                "price": 1380
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": "Null",
+            "price": "Null"
+        },
+        "others": [
+            {
+                "name": "Pizza de Queso",
+                "price": 800
+            },
+            {
+                "name": "Pizza de Cebolla",
+                "price": 1000
+            },
+            {
+                "name": "Pizza de Pimiento",
+                "price": 1000
+            },
+            {
+                "name": "Pizza de Jamon",
+                "price": 1100
+            },
+            {
+                "name": "Pizza de Chorizo",
+                "price": 1050
+            },
+            {
+                "name": "Pizza de Hawaiana",
+                "price": 1260
+            },
+            {
+                "name": "Pizza de Bacon",
+                "price": 1240
+            },
+            {
+                "name": "Pizza Doble Queso",
+                "price": 1250
+            },
+            {
+                "name": "Pizza de Camaron",
+                "price": 1700
+            },
+            {
+                "name": "Pizza de Res",
+                "price": 1300
+            },
+            {
+                "name": "Pizza de Atun con Cebolla",
+                "price": 1450
+            },
+            {
+                "name": "Pizza de Jamon Serrano",
+                "price": 1570
+            },
+            {
+                "name": "Pizza de Aceituna",
+                "price": 1200
+            },
+            {
+                "name": "Espaguetis Napolitano",
+                "price": 720
+            },
+            {
+                "name": "Espaguetis Bolonesa",
+                "price": 1350
+            },
+            {
+                "name": "Espaguetis Carbonara",
+                "price": 1350
+            },
+            {
+                "name": "Espaguetis Alfredo",
+                "price": 1150
+            },
+            {
+                "name": "Espaguetis de Atun",
+                "price": 1270
+            },
+            {
+                "name": "Espaguetis Pollo",
+                "price": 1120
+            },
+            {
+                "name": "Espaguetis de Camarones",
+                "price": 1400
+            },
+            {
+                "name": "Espaguetis Chorizo",
+                "price": 1150
+            },
+            {
+                "name": "Espaguetis Negro Di Mare",
+                "price": 1500
+            },
+            {
+                "name": "Heniken",
+                "price": 360
+            },
+            {
+                "name": "Cerveza Importada",
+                "price": 250
+            },
+            {
+                "name": "Cerveza de Lata Cristal",
+                "price": 300
+            },
+            {
+                "name": "Cerveza de Botella",
+                "price": 300
+            },
+            {
+                "name": "Pomitos de Agua",
+                "price": 150
+            },
+            {
+                "name": "Refresco de Pomito",
+                "price": 180
+            },
+            {
+                "name": "Refresco de Lata",
+                "price": 220
+            },
+            {
+                "name": "Malta",
+                "price": 300
+            },
+            {
+                "name": "Jugos de Lata",
+                "price": 280
+            },
+            {
+                "name": "Jugos de Cajita",
+                "price": 180
+            },
+            {
+                "name": "Tigon",
+                "price": 300
+            },
+            {
+                "name": "Refresco Importado",
+                "price": 280
+            },
+            {
+                "name": "Malta Importada",
+                "price": 270
+            }
+        ]
+    }
+}

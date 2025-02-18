@@ -1,0 +1,335 @@
+{
+    "name": "chicken_little",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "criolla"
+    ],
+    "municipality": "Habana del Este",
+    "services": [
+        "pets",
+        "wheelchair_ramp",
+        "infant_stool",
+        "smoking_area",
+        "parking",
+        "home_service",
+        "transferencia y efectivo"
+    ],
+    "address": "5ta. b y 5ta. c, 5b15 e 504, la habana",
+    "qualification": 4.5,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "ensalada de pollo",
+                "price": 825
+            },
+            {
+                "name": "coctel de camaron",
+                "price": 1300
+            },
+            {
+                "name": "coctel de langosta",
+                "price": 1300
+            },
+            {
+                "name": "tabla surtida chicken little",
+                "price": 1995
+            },
+            {
+                "name": "crudo de pescado",
+                "price": 995
+            },
+            {
+                "name": "sopa de pollo con fideos",
+                "price": 595
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 895
+            },
+            {
+                "name": "tostones rellenos mixtos",
+                "price": 925
+            },
+            {
+                "name": "tapas de pescado",
+                "price": 725
+            },
+            {
+                "name": "tapas mixtas",
+                "price": 995
+            }
+        ],
+        "salads": [
+            {
+                "name": "ensalada mixta",
+                "price": 400
+            }
+        ],
+        "vegetables": null,
+        "meats": [
+            {
+                "name": "bistec uruguayo",
+                "price": 2795
+            },
+            {
+                "name": "bistec de cerdo grille",
+                "price": 2050
+            },
+            {
+                "name": "masas fritas",
+                "price": 2395
+            },
+            {
+                "name": "masas hawaianas",
+                "price": 2550
+            },
+            {
+                "name": "costillas de cerdo fritas",
+                "price": 1525
+            }
+        ],
+        "beef": null,
+        "seafood": [
+            {
+                "name": "filete de pescado grille",
+                "price": 1995
+            },
+            {
+                "name": "pescado con vegetales",
+                "price": 2095
+            },
+            {
+                "name": "dados de pescado al ajillo",
+                "price": 2095
+            },
+            {
+                "name": "filete jon ville",
+                "price": 2795
+            },
+            {
+                "name": "filete canciller",
+                "price": 2695
+            },
+            {
+                "name": "filete costa sur",
+                "price": 2795
+            },
+            {
+                "name": "filete princesa",
+                "price": 2395
+            },
+            {
+                "name": "camaron grille",
+                "price": 2495
+            },
+            {
+                "name": "camaron al ajillo",
+                "price": 2595
+            },
+            {
+                "name": "camarones enchilados",
+                "price": 2595
+            },
+            {
+                "name": "camarones empanados",
+                "price": 2595
+            },
+            {
+                "name": "langosta grille",
+                "price": 2595
+            },
+            {
+                "name": "langosta enchilada",
+                "price": 2595
+            },
+            {
+                "name": "langosta al ajillo",
+                "price": 2595
+            },
+            {
+                "name": "tres delicias",
+                "price": 2900
+            },
+            {
+                "name": "gran plato del mar",
+                "price": 3300
+            },
+            {
+                "name": "cazuela marinera",
+                "price": 2995
+            }
+        ],
+        "burgers": null,
+        "desserts": [
+            {
+                "name": "flan de caramelo",
+                "price": 325
+            },
+            {
+                "name": "helados",
+                "price": 450
+            },
+            {
+                "name": "copa lolita",
+                "price": 550
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "mojito",
+                "price": 395
+            },
+            {
+                "name": "daiquiri",
+                "price": 400
+            },
+            {
+                "name": "cuba libre",
+                "price": 450
+            },
+            {
+                "name": "gin tonic",
+                "price": 525
+            },
+            {
+                "name": "caipirina",
+                "price": 375
+            },
+            {
+                "name": "caipiroska",
+                "price": 650
+            }
+        ],
+        "twist_cocktails": null,
+        "classic_cocktails": null,
+        "tiki_cocktails": null,
+        "tiki_author_cocktails": null,
+        "drinks": [
+            {
+                "name": "ron havana club 7 anos",
+                "price": 325
+            },
+            {
+                "name": "ballantine finest",
+                "price": 800
+            },
+            {
+                "name": "ballantine 12",
+                "price": 600
+            },
+            {
+                "name": "limonada frappe",
+                "price": 650
+            },
+            {
+                "name": "agua nacional",
+                "price": 250
+            },
+            {
+                "name": "agua tonica",
+                "price": 250
+            },
+            {
+                "name": "sodas nacionales",
+                "price": 325
+            },
+            {
+                "name": "sodas importadas",
+                "price": 350
+            },
+            {
+                "name": "malta",
+                "price": 400
+            },
+            {
+                "name": "cerveza nacional",
+                "price": 345
+            },
+            {
+                "name": "cerveza corona",
+                "price": 495
+            }
+        ],
+        "others": [
+            {
+                "name": "pollo grille",
+                "price": 1650
+            },
+            {
+                "name": "pollo al ajillo",
+                "price": 1795
+            },
+            {
+                "name": "pollo salteado con pina",
+                "price": 1675
+            },
+            {
+                "name": "pollo a la mostaza",
+                "price": 1795
+            },
+            {
+                "name": "suprema especial de pollo",
+                "price": 2150
+            },
+            {
+                "name": "pollo tropical",
+                "price": 2295
+            },
+            {
+                "name": "pollo princesa",
+                "price": 1995
+            },
+            {
+                "name": "pollo salteado con vegetales",
+                "price": 1795
+            },
+            {
+                "name": "arroz blanco",
+                "price": 195
+            },
+            {
+                "name": "arroz moro",
+                "price": 295
+            }
+        ]
+    }
+}

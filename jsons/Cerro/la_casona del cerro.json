@@ -1,0 +1,145 @@
+{
+    "name": "la casona del cerro",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Comida Criolla"
+    ],
+    "municipality": "Cerro",
+    "services": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+    "address": "Calzada del Cerro entre Alzobispo y Penon",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "14:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "flan",
+                "price": 350
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "pizza napolitana c/queso gouda",
+                "price": 450
+            },
+            {
+                "name": "pizza doble queso",
+                "price": 650
+            },
+            {
+                "name": "pizza de jamon y queso gouda",
+                "price": 500
+            },
+            {
+                "name": "pizza mixta c/queso gouda",
+                "price": 550
+            },
+            {
+                "name": "pizza familiar c/queso gouda",
+                "price": 900
+            },
+            {
+                "name": "pizza familiar doble queso",
+                "price": 1200
+            },
+            {
+                "name": "pizza familiar de jamon y queso gouda",
+                "price": 1000
+            },
+            {
+                "name": "pizza familiar mixta c/queso gouda",
+                "price": 1050
+            },
+            {
+                "name": "spaghetti c/queso gouda",
+                "price": 450
+            },
+            {
+                "name": "spaghetti c/ jamon y queso gouda",
+                "price": 500
+            },
+            {
+                "name": "spaghetti doble queso gouda",
+                "price": 650
+            },
+            {
+                "name": "spaghetti mixto",
+                "price": 550
+            },
+            {
+                "name": "pollo asado",
+                "price": 1100
+            },
+            {
+                "name": "masa frita",
+                "price": 900
+            },
+            {
+                "name": "bistec de cerdo",
+                "price": 850
+            },
+            {
+                "name": "fricase de cerdo",
+                "price": 850
+            },
+            {
+                "name": "chuleta",
+                "price": 1000
+            }
+        ]
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "name": "el desafio",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Cotorro",
+    "services": [
+        "Parking",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator"
+    ],
+    "address": "calle 58 numero 6712 % 67 y 69",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": "63510685",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Tostones campesinos",
+                "price": 435
+            },
+            {
+                "name": "Eperlan",
+                "price": 985
+            },
+            {
+                "name": "Croquetas",
+                "price": 575
+            },
+            {
+                "name": "Coctel de langosta",
+                "price": 1135
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Langosta",
+                "price": 1985
+            },
+            {
+                "name": "Enchilado de langosta",
+                "price": 2235
+            },
+            {
+                "name": "Langoston",
+                "price": 2685
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Dulce de leche",
+                "price": 795
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Cerveza Heineken",
+                "price": 325
+            },
+            {
+                "name": "Cerveza unlager",
+                "price": 295
+            },
+            {
+                "name": "Cerveza Hollandia",
+                "price": 270
+            },
+            {
+                "name": "Cerveza Ashe",
+                "price": 270
+            },
+            {
+                "name": "Cerveza Kiss",
+                "price": 265
+            },
+            {
+                "name": "Refresco de Cola",
+                "price": 270
+            },
+            {
+                "name": "Refresco de limon",
+                "price": 270
+            },
+            {
+                "name": "Malta Morena",
+                "price": 325
+            },
+            {
+                "name": "Yogurt de sabor",
+                "price": 225
+            },
+            {
+                "name": "Agua natural",
+                "price": 225
+            },
+            {
+                "name": "Energizante",
+                "price": 295
+            }
+        ],
+        "others": [
+            {
+                "name": "Filete de pescado empanado",
+                "price": 1995
+            },
+            {
+                "name": "Masa frita",
+                "price": 1885
+            },
+            {
+                "name": "Bistec de Cerdo",
+                "price": 1885
+            },
+            {
+                "name": "Lomo deshuesado",
+                "price": 1885
+            },
+            {
+                "name": "Pierna ahumada",
+                "price": 1945
+            },
+            {
+                "name": "Filete de cerdo",
+                "price": 2995
+            },
+            {
+                "name": "Costilla",
+                "price": 1935
+            },
+            {
+                "name": "Pechuga a la brasa",
+                "price": 1535
+            },
+            {
+                "name": "Lomo al carbon",
+                "price": 4440
+            },
+            {
+                "name": "Chuleta",
+                "price": 1935
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 155
+            },
+            {
+                "name": "Arroz Moro",
+                "price": 270
+            }
+        ]
+    }
+}

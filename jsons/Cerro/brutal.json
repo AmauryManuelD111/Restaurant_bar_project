@@ -1,0 +1,316 @@
+{
+    "name": "brutal habana",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "hamburgueseria"
+    ],
+    "municipality": "Cerro",
+    "services": [
+        "Sanitario"
+    ],
+    "address": "Infanta esquina Calle Universidad, Cerro, La Habana",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": "50989151",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/brutal_habana?igsh=aGtpOXVkdnlpaTA="
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Papas Fritas (Medias) 100g",
+                "price": 300
+            },
+            {
+                "name": "Papas Fritas (Normal) 200g",
+                "price": 600
+            },
+            {
+                "name": "SalchiPapas",
+                "price": 500
+            },
+            {
+                "name": "SalchiPapas BRUTAL",
+                "price": 1400
+            },
+            {
+                "name": "Croquetas de Pollo x 5",
+                "price": 175
+            },
+            {
+                "name": "Croquetas de Pollo x 10",
+                "price": 350
+            }
+        ],
+        "salads": [],
+        "vegetables": [
+            {
+                "name": "Cebolla",
+                "price": 100
+            },
+            {
+                "name": " Pepinillo",
+                "price": 100
+            },
+            {
+                "name": "Pimiento",
+                "price": 100
+            },
+            {
+                "name": "Tomate",
+                "price": 100
+            },
+            {
+                "name": "Aceituna",
+                "price": 100
+            },
+            {
+                "name": "Lechuga",
+                "price": 50
+            }
+        ],
+        "meats": [
+            {
+                "name": "Fajitas de Pechuga con Papas Fritas",
+                "price": 1500
+            },
+            {
+                "name": "Croquetas de Pollo (5 unidades)",
+                "price": 175
+            },
+            {
+                "name": "Croquetas de Pollo (10 unidades)",
+                "price": 350
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "Hamburguesa Sencilla",
+                "price": 1100
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Batido de Helado",
+                "price": 1000
+            },
+            {
+                "name": "Batido de Helado con Gomitas",
+                "price": 1400
+            },
+            {
+                "name": "Batido de Helado BRUTAL",
+                "price": 2000
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Batido de Helado",
+                "price": 1000
+            },
+            {
+                "name": "Batido de Helado con Gomitas",
+                "price": 1400
+            },
+            {
+                "name": "Batido de Helado BRUTAL",
+                "price": 2000
+            }
+        ],
+        "others": [
+            {
+                "name": "Brutal Junior",
+                "price": 550
+            },
+            {
+                "name": "Combo Brutal Junior",
+                "price": 2550
+            },
+            {
+                "name": "Baguette",
+                "price": 5150
+            },
+            {
+                "name": "Suave",
+                "price": 120
+            },
+            {
+                "name": "Croissant",
+                "price": 450
+            },
+            {
+                "name": "Pan de Hamburguesa",
+                "price": 150
+            },
+            {
+                "name": "Hamburguesa Brutal",
+                "price": 3200
+            },
+            {
+                "name": "Baguette Brutal",
+                "price": 2000
+            },
+            {
+                "name": "SalchiPapas Brutal",
+                "price": 1400
+            },
+            {
+                "name": "Papas Fritas Brutal",
+                "price": 1100
+            },
+            {
+                "name": "Agrego de Nutella",
+                "price": 50
+            },
+            {
+                "name": "Agrego de Gomita",
+                "price": 400
+            },
+            {
+                "name": "Papas Fritas Medias",
+                "price": 300
+            },
+            {
+                "name": "Papas Fritas Normales",
+                "price": 600
+            },
+            {
+                "name": "SalchiPapas",
+                "price": 500
+            },
+            {
+                "name": "Fajitas de Pechuga con Papas Fritas",
+                "price": 1500
+            },
+            {
+                "name": "Croquetas de Pollo (5 unidades)",
+                "price": 175
+            },
+            {
+                "name": "Croquetas de Pollo (10 unidades)",
+                "price": 350
+            },
+            {
+                "name": "Jamon Barra York",
+                "price": 240
+            },
+            {
+                "name": "Bacon",
+                "price": 260
+            },
+            {
+                "name": "Jamon Ahumado 1964",
+                "price": 350
+            },
+            {
+                "name": "Chorizo Iberico",
+                "price": 350
+            },
+            {
+                "name": "Salchichon Natural",
+                "price": 370
+            },
+            {
+                "name": "Jamon Serrano",
+                "price": 500
+            },
+            {
+                "name": "Jamon Pastrami de Ternera",
+                "price": 500
+            },
+            {
+                "name": "Jamon de Pechuga de Pollo",
+                "price": 500
+            },
+            {
+                "name": "Lomo de Cerdo Disco",
+                "price": 500
+            },
+            {
+                "name": "Pasta de Atun",
+                "price": 820
+            },
+            {
+                "name": "Queso Blanco",
+                "price": 135
+            },
+            {
+                "name": "Queso Cheddar",
+                "price": 190
+            },
+            {
+                "name": "Queso Cheddar Fundido",
+                "price": 210
+            },
+            {
+                "name": "Queso Curado con Trufas",
+                "price": 240
+            },
+            {
+                "name": "Queso Azul Gorg onzola",
+                "price": 300
+            },
+            {
+                "name": "Queso Gouda",
+                "price": 350
+            },
+            {
+                "name": "Queso Cheddar",
+                "price": 350
+            },
+            {
+                "name": "Queso Blanco Lombardo",
+                "price": 650
+            },
+            {
+                "name": "Pozuelo, T enedor",
+                "price": 120
+            },
+            {
+                "name": "Termopack",
+                "price": 100
+            }
+        ]
+    }
+}

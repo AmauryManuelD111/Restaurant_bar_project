@@ -1,0 +1,165 @@
+{
+    "name": "Esto No Es Un Cafe",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Cuban"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario",
+        "Servicio de mesa"
+    ],
+    "address": "Calle Ignacio #58-A entre OReilly y Empedrado, Callejon del Chorro, Plaza de la Catedral, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": "78013109",
+        "email": "estonoesuncafe@gmail.com",
+        "website": "https://estonoesuncafe.wordpress.com",
+        "facebook": "https://www.facebook.com/estonoesuncafe",
+        "instagram": "https://www.instagram.com/estonoesuncafe"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas de la casa / Homemade rissole",
+                "price": 1050
+            },
+            {
+                "name": "Tostones rellenos / Stuffed tostones",
+                "price": 1050
+            },
+            {
+                "name": "Ratatouille / Vegetable Ratatouille",
+                "price": 1200
+            },
+            {
+                "name": "Cuarteto de camarones / Shrimp quartet",
+                "price": 2100
+            },
+            {
+                "name": "Pimientos rellenos con farsa de atún / Peppers with tuna paste",
+                "price": 1350
+            },
+            {
+                "name": "Bruschettas de berenjena, tomate y mozzarella / Bruschettas with eggplant, tomatoes, and mozzarella",
+                "price": 1200
+            },
+            {
+                "name": "Tempura de vegetales / Vegetables tempura",
+                "price": 1350
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [
+            {
+                "name": "Filete de Res / Beef Fillet",
+                "price": 4500
+            }
+        ],
+        "seafood": [
+            {
+                "name": "El Pez de la Casa / House Fish",
+                "price": 3500
+            },
+            {
+                "name": "Langosta a la Parrilla / Grilled Lobster",
+                "price": 6000
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Flan de Coco / Coconut Flan",
+                "price": 800
+            },
+            {
+                "name": "Tarta de Chocolate / Chocolate Cake",
+                "price": 1000
+            },
+            {
+                "name": "Helado de Vainilla / Vanilla Ice Cream",
+                "price": 600
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "Cocteles / Cocktails",
+                "price": 1500
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Cerveza Nacional / National Beer",
+                "price": 500
+            },
+            {
+                "name": "Cerveza Importada / Imported Beer",
+                "price": 800
+            },
+            {
+                "name": "Ron Cubano / Cuban Rum",
+                "price": 1200
+            },
+            {
+                "name": "Refrescos / Soft Drinks",
+                "price": 300
+            }
+        ],
+        "others": [
+            {
+                "name": "La Fuente de Duchamp / Duchamp's Fontain",
+                "price": 2400
+            },
+            {
+                "name": "Pollo Pollock / Pollock's Chicken",
+                "price": 2550
+            },
+            {
+                "name": "Tercer Mundo de Lam / Lam's Third World",
+                "price": 3150
+            },
+            {
+                "name": "Ropa Vieja / Old Clothes",
+                "price": 3000
+            }
+        ]
+    }
+}

@@ -1,0 +1,329 @@
+{
+    "name": "Mar Adentro",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "mediterranean",
+        "fusion",
+        "cuban"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "delivery",
+        "take_away",
+        "reserve",
+        "parking"
+    ],
+    "address": "Calle C, #15, entre 1ª y 3ª, Havana, Cuba",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "00:30"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "00:30"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "00:30"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "00:30"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "00:30"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "00:30"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "00:30"
+        }
+    },
+    "contact": {
+        "phone": "78332060",
+        "email": "maradentrohabana@gmail.com",
+        "website": "https://bio.site/maradentro",
+        "facebook": "https://www.facebook.com/maradentrohabana",
+        "instagram": "https://www.instagram.com/maradentrohabana"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "cesta de pan",
+                "price": 750
+            },
+            {
+                "name": "focaccia al romero",
+                "price": 700
+            },
+            {
+                "name": "focaccia de jamon serrano, tomate y rucula",
+                "price": 2000
+            },
+            {
+                "name": "bruchettas",
+                "price": 1800
+            },
+            {
+                "name": "empanadillas de cangrejo o piña y queso",
+                "price": 1200
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 1300
+            },
+            {
+                "name": "chispitas de malanga con camarones",
+                "price": 1100
+            },
+            {
+                "name": "croquetas de pescados o pollo",
+                "price": 1200
+            },
+            {
+                "name": "casabe taino",
+                "price": 990
+            },
+            {
+                "name": "tacos de vaca frita o pescado",
+                "price": 1900
+            },
+            {
+                "name": "ceviche maradentro",
+                "price": 2100
+            },
+            {
+                "name": "rollitos de salmon",
+                "price": 2200
+            },
+            {
+                "name": "carpaccio de tuna",
+                "price": 2300
+            },
+            {
+                "name": "sushi/nigiri",
+                "price": 2000
+            },
+            {
+                "name": "dumplings de carne",
+                "price": 1800
+            },
+            {
+                "name": "carpaccio de res",
+                "price": 2800
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "pollo horneado",
+                "price": 2600
+            },
+            {
+                "name": "pechuga de pollo grillada",
+                "price": 2800
+            },
+            {
+                "name": "chilindron de cordero al tinto",
+                "price": 3500
+            },
+            {
+                "name": "masas de cerdo confitadas",
+                "price": 3200
+            },
+            {
+                "name": "lonjas de cerdo asadas en cazuela",
+                "price": 3400
+            },
+            {
+                "name": "costillas guajiras",
+                "price": 3800
+            },
+            {
+                "name": "ropa vieja frita",
+                "price": 2700
+            }
+        ],
+        "beef": [
+            {
+                "name": "bistec de palomilla",
+                "price": 6800
+            },
+            {
+                "name": "chivito uruguayo",
+                "price": 8200
+            }
+        ],
+        "seafood": [
+            {
+                "name": "camarones",
+                "price": 3600
+            },
+            {
+                "name": "langosta",
+                "price": 4300
+            },
+            {
+                "name": "pesca del dia",
+                "price": 3200
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "copa de helado",
+                "price": 800
+            },
+            {
+                "name": "brownie y helado",
+                "price": 1300
+            },
+            {
+                "name": "cheesecake de guayaba",
+                "price": 1200
+            },
+            {
+                "name": "casquitos de guayaba con queso guajiro",
+                "price": 900
+            },
+            {
+                "name": "flan licuado",
+                "price": 1200
+            },
+            {
+                "name": "tarta de limon",
+                "price": 1000
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "limonada natural",
+                "price": 950
+            },
+            {
+                "name": "limonada frescura",
+                "price": 950
+            },
+            {
+                "name": "maradentro",
+                "price": 950
+            },
+            {
+                "name": "clarete",
+                "price": 950
+            },
+            {
+                "name": "vino blanco de verano",
+                "price": 950
+            },
+            {
+                "name": "licor marejada",
+                "price": 950
+            },
+            {
+                "name": "rubi",
+                "price": 950
+            },
+            {
+                "name": "limonada pepino y jengibre",
+                "price": 950
+            },
+            {
+                "name": "agua nacional",
+                "price": 450
+            },
+            {
+                "name": "agua importada",
+                "price": 500
+            },
+            {
+                "name": "agua tonica nacional",
+                "price": 700
+            },
+            {
+                "name": "agua tonica importada",
+                "price": 800
+            },
+            {
+                "name": "refresco nacional",
+                "price": 450
+            },
+            {
+                "name": "refresco importado",
+                "price": 600
+            },
+            {
+                "name": "malta",
+                "price": 500
+            },
+            {
+                "name": "energizantes",
+                "price": 600
+            },
+            {
+                "name": "batido de frutas",
+                "price": 750
+            },
+            {
+                "name": "batido de helado",
+                "price": 900
+            }
+        ],
+        "others": [
+            {
+                "name": "ingles",
+                "price": 2000
+            },
+            {
+                "name": "continental",
+                "price": 2000
+            },
+            {
+                "name": "americano",
+                "price": 2200
+            },
+            {
+                "name": "arroz blanco",
+                "price": 700
+            },
+            {
+                "name": "arroz verde",
+                "price": 700
+            },
+            {
+                "name": "frijoles dormidos",
+                "price": 700
+            },
+            {
+                "name": "moros y cristianos",
+                "price": 700
+            },
+            {
+                "name": "tostones",
+                "price": 700
+            },
+            {
+                "name": "maduros",
+                "price": 700
+            },
+            {
+                "name": "pure de boniato",
+                "price": 700
+            }
+        ]
+    }
+}

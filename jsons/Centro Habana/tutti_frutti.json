@@ -1,0 +1,180 @@
+{
+    "name": "Tutti Frutti",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Desayunos"
+    ],
+    "municipality": "Centro Habana",
+    "services": [],
+    "address": "San Lazaro entre San Fransico y Espada",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "20:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Copa de frutas",
+                "price": 400
+            },
+            {
+                "name": "Tutti Frutti",
+                "price": 500
+            },
+            {
+                "name": "Frutas dulces",
+                "price": 300
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": "Jugo Natural",
+            "price": 400
+        },
+        "others": [
+            {
+                "name": "Desayuno completo",
+                "price": 1200
+            },
+            {
+                "name": "Dulce de fruta",
+                "price": 600
+            },
+            {
+                "name": "Sandwiche Cubano",
+                "price": 1200
+            },
+            {
+                "name": "Sandwiches Aguacate",
+                "price": 1200
+            },
+            {
+                "name": "Huevo",
+                "price": 250
+            },
+            {
+                "name": "Atun",
+                "price": 800
+            },
+            {
+                "name": "Jamon",
+                "price": 300
+            },
+            {
+                "name": "Pollo",
+                "price": 500
+            },
+            {
+                "name": "Cebolla",
+                "price": 200
+            },
+            {
+                "name": "Batidos",
+                "price": 600
+            },
+            {
+                "name": "Champola",
+                "price": 600
+            },
+            {
+                "name": "Smoothies",
+                "price": 800
+            },
+            {
+                "name": "Leche",
+                "price": 400
+            },
+            {
+                "name": "Cafe",
+                "price": 900
+            },
+            {
+                "name": "Mojito",
+                "price": 700
+            },
+            {
+                "name": "Mojito Tutti Frutti",
+                "price": 800
+            },
+            {
+                "name": "Daiquiri",
+                "price": 700
+            },
+            {
+                "name": "Daiquiri Tutti Frutti",
+                "price": 800
+            },
+            {
+                "name": "Santiago",
+                "price": 900
+            },
+            {
+                "name": "Cuba Libre",
+                "price": 700
+            },
+            {
+                "name": "Pina Colada",
+                "price": 900
+            },
+            {
+                "name": "Canchanchara",
+                "price": 800
+            },
+            {
+                "name": "Caribbean",
+                "price": 900
+            },
+            {
+                "name": "Emma",
+                "price": 900
+            }
+        ]
+    }
+}

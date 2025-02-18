@@ -1,0 +1,131 @@
+{
+    "name": "El portico",
+    "type": [
+        "bar"
+    ],
+    "speciality": [
+        "cuban"
+    ],
+    "municipality": "Centro Habana",
+    "services": [
+        "vip_zone"
+    ],
+    "address": "Null",
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": null,
+            "close": null
+        },
+        "tuesday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "00:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "pollo chiflado",
+                "price": 400
+            },
+            {
+                "name": "chuleton",
+                "price": 950
+            },
+            {
+                "name": "papas fritas",
+                "price": 350
+            },
+            {
+                "name": "croquetas",
+                "price": 350
+            },
+            {
+                "name": "tostones",
+                "price": 250
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "cerveza dispensada (jarra)",
+                "price": 300
+            },
+            {
+                "name": "cerveza dispensada (termo)",
+                "price": 2000
+            },
+            {
+                "name": "cerveza parranda",
+                "price": 400
+            },
+            {
+                "name": "cerveza hollandia",
+                "price": 200
+            },
+            {
+                "name": "cerveza cacique",
+                "price": 240
+            },
+            {
+                "name": "cerveza unlaguer",
+                "price": 200
+            },
+            {
+                "name": "cerveza La Fria",
+                "price": 180
+            },
+            {
+                "name": "cerveza almara",
+                "price": 180
+            },
+            {
+                "name": "cerveza bucanero",
+                "price": 240
+            },
+            {
+                "name": "cerveza cristal",
+                "price": 250
+            }
+        ],
+        "others": []
+    }
+}

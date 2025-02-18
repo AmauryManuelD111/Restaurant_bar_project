@@ -1,0 +1,469 @@
+{
+    "name": "El Farallon",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Italian",
+        "Mediterranean",
+        "Fusion",
+        "Healthy"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "Reservations",
+        "Cash National",
+        "Digital Transfer National"
+    ],
+    "address": "Calle 22 # 361, esq. 23, Vedado.",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": "78305187",
+        "email": "farallonrestaurante@gmail.com",
+        "website": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/restaurantefarallon/"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "mariposas chinas",
+                "price": 400
+            },
+            {
+                "name": "frituras de malanga",
+                "price": 430
+            },
+            {
+                "name": "croquetas de la casa",
+                "price": 530
+            },
+            {
+                "name": "tostones naturales",
+                "price": 380
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 950
+            },
+            {
+                "name": "bolitas de queso",
+                "price": 750
+            },
+            {
+                "name": "eperlan de pescado",
+                "price": 950
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 1250
+            },
+            {
+                "name": "coctel de langosta",
+                "price": 1200
+            },
+            {
+                "name": "coctel de camarones",
+                "price": 1200
+            },
+            {
+                "name": "ensalada fria",
+                "price": 950
+            },
+            {
+                "name": "cebiche",
+                "price": 1080
+            },
+            {
+                "name": "picadera farallon",
+                "price": 2200
+            },
+            {
+                "name": "tabla de jamon serrano",
+                "price": 2500
+            },
+            {
+                "name": "crema de queso",
+                "price": 400
+            },
+            {
+                "name": "crema de virginia",
+                "price": 500
+            },
+            {
+                "name": "crema de aurora",
+                "price": 420
+            },
+            {
+                "name": "crema de reina",
+                "price": 500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "postres de la casa",
+                "price": 400
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "espagueti napolitano",
+                "price": 900
+            },
+            {
+                "name": "espagueti de atun",
+                "price": 1450
+            },
+            {
+                "name": "espagueti de jamon",
+                "price": 1100
+            },
+            {
+                "name": "espagueti de camarones",
+                "price": 1450
+            },
+            {
+                "name": "espagueti a la bolonesa",
+                "price": 1000
+            },
+            {
+                "name": "espagueti al pesto",
+                "price": 1000
+            },
+            {
+                "name": "espagueti a la carbonara",
+                "price": 1300
+            },
+            {
+                "name": "espagueti frutti de mare",
+                "price": 1900
+            },
+            {
+                "name": "pizza napolitana",
+                "price": 1250
+            },
+            {
+                "name": "pizza de jamon",
+                "price": 1450
+            },
+            {
+                "name": "pizza de bacon",
+                "price": 1690
+            },
+            {
+                "name": "pizza de chorizo",
+                "price": 1590
+            },
+            {
+                "name": "pizza de cebolla",
+                "price": 1540
+            },
+            {
+                "name": "pizza de pimiento",
+                "price": 1540
+            },
+            {
+                "name": "pizza de aceituna",
+                "price": 1610
+            },
+            {
+                "name": "pizza de vegetales",
+                "price": 1610
+            },
+            {
+                "name": "pizza de champinones",
+                "price": 1680
+            },
+            {
+                "name": "pizza hawaiana",
+                "price": 1570
+            },
+            {
+                "name": "pizza de camarones",
+                "price": 1850
+            },
+            {
+                "name": "pizza de atun",
+                "price": 1850
+            },
+            {
+                "name": "pizza a la bolonesa",
+                "price": 1550
+            },
+            {
+                "name": "pizza desnuda",
+                "price": 2350
+            },
+            {
+                "name": "pizza calzone",
+                "price": 1980
+            },
+            {
+                "name": "pizza farollon",
+                "price": 2250
+            },
+            {
+                "name": "pizzaghetti",
+                "price": 1540
+            },
+            {
+                "name": "pizza doble queso",
+                "price": 2330
+            },
+            {
+                "name": "lasana farallon",
+                "price": 4000
+            },
+            {
+                "name": "lasana a la bolonesa",
+                "price": 2500
+            },
+            {
+                "name": "lasana de jamon",
+                "price": 2700
+            },
+            {
+                "name": "lasana de atun",
+                "price": 4300
+            },
+            {
+                "name": "canelones a la bolonesa",
+                "price": 2100
+            },
+            {
+                "name": "canelones de jamon",
+                "price": 1650
+            },
+            {
+                "name": "paella de mariscos",
+                "price": 2400
+            },
+            {
+                "name": "arroz c/ pollo a la chorrera",
+                "price": 1200
+            },
+            {
+                "name": "arroz frito especial",
+                "price": 1500
+            },
+            {
+                "name": "arroz moro",
+                "price": 300
+            },
+            {
+                "name": "arroz blanco",
+                "price": 210
+            },
+            {
+                "name": "filete de pescado grille",
+                "price": 1800
+            },
+            {
+                "name": "filete de pescado c/ J y Q gratinado",
+                "price": 2380
+            },
+            {
+                "name": "filete de pescado john ville",
+                "price": 2450
+            },
+            {
+                "name": "camaron al gusto",
+                "price": 2550
+            },
+            {
+                "name": "pulpo al gusto",
+                "price": 2600
+            },
+            {
+                "name": "grillada mar",
+                "price": 4100
+            },
+            {
+                "name": "grillada mar y tierra",
+                "price": 5200
+            },
+            {
+                "name": "ropa vieja",
+                "price": 2100
+            },
+            {
+                "name": "vaca frita",
+                "price": 2100
+            },
+            {
+                "name": "bistec de cerdo grille",
+                "price": 2100
+            },
+            {
+                "name": "bistec c/ J y Q gratinado",
+                "price": 2760
+            },
+            {
+                "name": "bistec de cerdo tropical",
+                "price": 2220
+            },
+            {
+                "name": "masa de cerdo frita",
+                "price": 2340
+            },
+            {
+                "name": "fricase de cerdo",
+                "price": 2530
+            },
+            {
+                "name": "pechuga de pollo grille",
+                "price": 2100
+            },
+            {
+                "name": "pechuga c/ J y Q gratinado",
+                "price": 2760
+            },
+            {
+                "name": "pechuga a la crema",
+                "price": 2650
+            },
+            {
+                "name": "fajitas de pollo salteadas",
+                "price": 2180
+            },
+            {
+                "name": "bistec de pollo deshuesado",
+                "price": 1320
+            },
+            {
+                "name": "pollo a la barbacoa (1/4)",
+                "price": 1710
+            },
+            {
+                "name": "pollo asado (1/4)",
+                "price": 1750
+            },
+            {
+                "name": "mojito",
+                "price": 460
+            },
+            {
+                "name": "cuba libre",
+                "price": 590
+            },
+            {
+                "name": "cubata",
+                "price": 450
+            },
+            {
+                "name": "daiquiri",
+                "price": 490
+            },
+            {
+                "name": "canchanchara",
+                "price": 400
+            },
+            {
+                "name": "sangria",
+                "price": 610
+            },
+            {
+                "name": "tinto de verano",
+                "price": 570
+            },
+            {
+                "name": "pina colada",
+                "price": 580
+            },
+            {
+                "name": "screw driver",
+                "price": 400
+            },
+            {
+                "name": "caipirinha",
+                "price": 450
+            },
+            {
+                "name": "caipisisima",
+                "price": 550
+            },
+            {
+                "name": "caiporoska",
+                "price": 450
+            },
+            {
+                "name": "michelada base",
+                "price": 430
+            },
+            {
+                "name": "agua natural",
+                "price": 200
+            },
+            {
+                "name": "refrescos gaseados",
+                "price": 370
+            },
+            {
+                "name": "cerveza nacional",
+                "price": 480
+            },
+            {
+                "name": "cerveza importada",
+                "price": 480
+            },
+            {
+                "name": "malta",
+                "price": 400
+            },
+            {
+                "name": "jugo de frutas naturales",
+                "price": 300
+            },
+            {
+                "name": "limonada frescura",
+                "price": 500
+            },
+            {
+                "name": "sorpresade limon al coco",
+                "price": 600
+            }
+        ]
+    }
+}

@@ -1,0 +1,461 @@
+{
+    "name": "Wapa",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Cuban",
+        "Centroamerican"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "delivery",
+        "take_away",
+        "reserve",
+        "parking"
+    ],
+    "address": "Calle 4 entre 15 y 17, Vedado, Plaza",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "78314553",
+        "email": "info@wapacafeteria.com",
+        "website": null,
+        "facebook": "https://www.facebook.com/Wapa537/?locale=es_LA",
+        "instagram": "https://www.instagram.com/wapa537/?hl=es"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "croquetas de la abuela",
+                "price": 700
+            },
+            {
+                "name": "croquetas de jamon serrano",
+                "price": 1000
+            },
+            {
+                "name": "bolitas de queso",
+                "price": 1000
+            },
+            {
+                "name": "crema de queso",
+                "price": 600
+            },
+            {
+                "name": "ceviche de pescado",
+                "price": 2000
+            },
+            {
+                "name": "ceviche mixto tropical",
+                "price": 2600
+            },
+            {
+                "name": "ceviche de camaron",
+                "price": 2900
+            },
+            {
+                "name": "coctel de camaron",
+                "price": 2000
+            },
+            {
+                "name": "baston de pollo",
+                "price": 1900
+            },
+            {
+                "name": "daditos de pescado",
+                "price": 2100
+            },
+            {
+                "name": "fritura de malanga",
+                "price": 500
+            },
+            {
+                "name": "brusquetas",
+                "price": 900
+            },
+            {
+                "name": "tartaleta de jamon y queso",
+                "price": 900
+            },
+            {
+                "name": "tartaleta de pollo",
+                "price": 1350
+            },
+            {
+                "name": "tartaleta de atún",
+                "price": 1100
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "wapeton",
+                "price": 2000
+            },
+            {
+                "name": "wapeton dinamita",
+                "price": 2000
+            },
+            {
+                "name": "wapeton volcan",
+                "price": 2000
+            },
+            {
+                "name": "wapito",
+                "price": 1200
+            },
+            {
+                "name": "batidos de frutas naturales",
+                "price": 700
+            },
+            {
+                "name": "batidos de helados",
+                "price": 1200
+            },
+            {
+                "name": "copa de helado",
+                "price": 1000
+            },
+            {
+                "name": "tartaleta",
+                "price": 1000
+            },
+            {
+                "name": "bola de helado",
+                "price": 300
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "agua natural",
+                "price": 300
+            },
+            {
+                "name": "refresco importado",
+                "price": 400
+            },
+            {
+                "name": "malta",
+                "price": 500
+            },
+            {
+                "name": "malteada",
+                "price": 800
+            },
+            {
+                "name": " cerveza importada",
+                "price": 450
+            },
+            {
+                "name": "cerveza nacional",
+                "price": 550
+            },
+            {
+                "name": "michelada",
+                "price": 600
+            },
+            {
+                "name": "sangria",
+                "price": 1000
+            },
+            {
+                "name": "copa de vino",
+                "price": 800
+            },
+            {
+                "name": "cuba libre",
+                "price": 800
+            },
+            {
+                "name": "cubata",
+                "price": 850
+            },
+            {
+                "name": "mojito",
+                "price": 800
+            },
+            {
+                "name": "caipirina",
+                "price": 500
+            },
+            {
+                "name": "caipiroska",
+                "price": 500
+            },
+            {
+                "name": "caipirisima",
+                "price": 550
+            },
+            {
+                "name": "ron collins",
+                "price": 850
+            },
+            {
+                "name": "pina colada",
+                "price": 850
+            },
+            {
+                "name": "barbie",
+                "price": 700
+            },
+            {
+                "name": "canchanchara",
+                "price": 550
+            },
+            {
+                "name": "daiquiri",
+                "price": 650
+            }
+        ],
+        "others": [
+            {
+                "name": "combo 1",
+                "price": 1500
+            },
+            {
+                "name": "combo 2",
+                "price": 1900
+            },
+            {
+                "name": "combo 3 infantil",
+                "price": 1100
+            },
+            {
+                "name": "omelette jardinera",
+                "price": 1200
+            },
+            {
+                "name": "omelette tentacion",
+                "price": 1200
+            },
+            {
+                "name": "omelette del campo",
+                "price": 1100
+            },
+            {
+                "name": "omelette",
+                "price": 600
+            },
+            {
+                "name": "pizza",
+                "price": 1200
+            },
+            {
+                "name": "lasana",
+                "price": 1300
+            },
+            {
+                "name": "canelon de jamon",
+                "price": 1200
+            },
+            {
+                "name": "canelon bolonesa",
+                "price": 1750
+            },
+            {
+                "name": "agua natural",
+                "price": 300
+            },
+            {
+                "name": "refresco importado",
+                "price": 400
+            },
+            {
+                "name": "malta",
+                "price": 500
+            },
+            {
+                "name": "malteada",
+                "price": 800
+            },
+            {
+                "name": " cerveza importada",
+                "price": 450
+            },
+            {
+                "name": "cerveza nacional",
+                "price": 550
+            },
+            {
+                "name": "michelada",
+                "price": 600
+            },
+            {
+                "name": "sangria",
+                "price": 1000
+            },
+            {
+                "name": "copa de vino",
+                "price": 800
+            },
+            {
+                "name": "cuba libre",
+                "price": 800
+            },
+            {
+                "name": "cubata",
+                "price": 850
+            },
+            {
+                "name": "mojito",
+                "price": 800
+            },
+            {
+                "name": "caipirina",
+                "price": 500
+            },
+            {
+                "name": "caipiroska",
+                "price": 500
+            },
+            {
+                "name": "caipirisima",
+                "price": 550
+            },
+            {
+                "name": "ron collins",
+                "price": 850
+            },
+            {
+                "name": "pina colada",
+                "price": 850
+            },
+            {
+                "name": "barbie",
+                "price": 700
+            },
+            {
+                "name": "canchanchara",
+                "price": 550
+            },
+            {
+                "name": "daiquiri",
+                "price": 650
+            },
+            {
+                "name": "expresso",
+                "price": 220
+            },
+            {
+                "name": "americano",
+                "price": 360
+            },
+            {
+                "name": "cortadito",
+                "price": 250
+            },
+            {
+                "name": "cappuccino",
+                "price": 550
+            },
+            {
+                "name": "cappuccino wapa",
+                "price": 600
+            },
+            {
+                "name": "bombon",
+                "price": 600
+            },
+            {
+                "name": "mocaccino",
+                "price": 550
+            },
+            {
+                "name": "frappuccino",
+                "price": 950
+            },
+            {
+                "name": "Q locura",
+                "price": 850
+            },
+            {
+                "name": "cafe con leche",
+                "price": 550
+            },
+            {
+                "name": "chocolate caliente",
+                "price": 350
+            },
+            {
+                "name": "te",
+                "price": 100
+            },
+            {
+                "name": "wapeton",
+                "price": 2000
+            },
+            {
+                "name": "wapeton dinamita",
+                "price": 2000
+            },
+            {
+                "name": "wapeton volcan",
+                "price": 2000
+            },
+            {
+                "name": "wapito",
+                "price": 1200
+            },
+            {
+                "name": "batidos de frutas naturales",
+                "price": 700
+            },
+            {
+                "name": "batidos de helados",
+                "price": 1200
+            },
+            {
+                "name": "copa de helado",
+                "price": 1000
+            },
+            {
+                "name": "tartaleta",
+                "price": 1000
+            },
+            {
+                "name": "bola de helado",
+                "price": 300
+            }
+        ]
+    }
+}

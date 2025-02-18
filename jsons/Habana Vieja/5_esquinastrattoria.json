@@ -1,0 +1,528 @@
+{
+    "name": "5 Esquinas Trattoria",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Italiana",
+        "Mediterranea"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Reservations",
+        "Outdoor Seating"
+    ],
+    "address": "Calle Habana #104 Esquina Cuarteles, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "22:30"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "22:30"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "22:30"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "22:30"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "22:30"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "22:30"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "22:30"
+        }
+    },
+    "contact": {
+        "phone": "78606295",
+        "email": "trattoria5esquinashabana@gmail.com",
+        "website": null,
+        "facebook": "https://www.facebook.com/5esquinastrattoria/",
+        "instagram": "https://www.instagram.com/5esquinastrattoria?igsh=MXc0c3BjemhhbjZzaA=="
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Brusqueta Mixta",
+                "price": 1200
+            },
+            {
+                "name": "Ensalada de Pulpo y Vegetales en Pesto de Hierbabuena",
+                "price": 2500
+            },
+            {
+                "name": "Croquetas de la Casa",
+                "price": 1200
+            },
+            {
+                "name": "Tabla de Jamon Serrano y Salami al Olivo",
+                "price": 6000
+            },
+            {
+                "name": "Carpaccio de Res al Parmesano y Alcaparras",
+                "price": 2500
+            }
+        ],
+        "salads": [
+            {
+                "name": "Ensalada Griega",
+                "price": 2000
+            },
+            {
+                "name": "Ensalada Cesar",
+                "price": 2000
+            },
+            {
+                "name": "Ensalada de Vegetales Frescos",
+                "price": 1000
+            },
+            {
+                "name": "Ensalada Caprese",
+                "price": 2000
+            }
+        ],
+        "vegetables": [
+            {
+                "name": "Sopa de Verduras",
+                "price": 1200
+            }
+        ],
+        "meats": [
+            {
+                "name": "Solomillo de Cerdo en Salsa de Vinagre Balsamico, Rucula y Tomate",
+                "price": 3900
+            }
+        ],
+        "beef": [
+            {
+                "name": "Filete de Res a la Milanesa",
+                "price": 4500
+            },
+            {
+                "name": "Filete de Res a la Pimienta Verde",
+                "price": 4500
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Filete de Pescado en Salsa Verde",
+                "price": 3500
+            },
+            {
+                "name": "Suprema de Pescado al Limon",
+                "price": 3500
+            },
+            {
+                "name": "Filete de Pescado a la Milanesa",
+                "price": 3500
+            },
+            {
+                "name": "Camarones a su Gusto",
+                "price": 4500
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Tiramisu de la Casa",
+                "price": 800
+            },
+            {
+                "name": "Cheesecake",
+                "price": 800
+            },
+            {
+                "name": "Selva Negra",
+                "price": 800
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Mojito",
+                "price": 1200
+            },
+            {
+                "name": "Pina Colada",
+                "price": 1200
+            },
+            {
+                "name": "Daiquiri",
+                "price": 1200
+            },
+            {
+                "name": "Havana Special",
+                "price": 1200
+            },
+            {
+                "name": "Cubalibre",
+                "price": 1200
+            },
+            {
+                "name": "Cubata",
+                "price": 1400
+            },
+            {
+                "name": "Caipirina",
+                "price": 1200
+            },
+            {
+                "name": "Caipiroska",
+                "price": 1200
+            },
+            {
+                "name": "Sangria",
+                "price": 1400
+            },
+            {
+                "name": "Tinto de Verano",
+                "price": 1400
+            },
+            {
+                "name": "Gin Tonic",
+                "price": 1600
+            },
+            {
+                "name": "Vodka Tonic",
+                "price": 1600
+            },
+            {
+                "name": "Cubanito",
+                "price": 1200
+            },
+            {
+                "name": "Bloddy Mary",
+                "price": 1200
+            },
+            {
+                "name": "Margarita",
+                "price": 1200
+            },
+            {
+                "name": "Copa de Vino Tinto",
+                "price": 1200
+            },
+            {
+                "name": "Copa de Vino Blanco",
+                "price": 1200
+            },
+            {
+                "name": "Cervezas Nacionales",
+                "price": 600
+            },
+            {
+                "name": "Cervezas Importadas",
+                "price": 550
+            },
+            {
+                "name": "Michelada (Nacional)",
+                "price": 900
+            },
+            {
+                "name": "Michelada (Importada)",
+                "price": 800
+            },
+            {
+                "name": "Agua Natural",
+                "price": 400
+            },
+            {
+                "name": "Agua Gaseada",
+                "price": 400
+            },
+            {
+                "name": "Agua Tonica Nacional",
+                "price": 400
+            },
+            {
+                "name": "Agua Tonica Importada",
+                "price": 600
+            },
+            {
+                "name": "Refrescos Importados",
+                "price": 500
+            },
+            {
+                "name": "Jugos Naturales",
+                "price": 400
+            },
+            {
+                "name": "Limonada Natural",
+                "price": 500
+            },
+            {
+                "name": "Limonada Frappe",
+                "price": 500
+            },
+            {
+                "name": "Cafe Expreso",
+                "price": 300
+            },
+            {
+                "name": "Cafe con Leche",
+                "price": 500
+            },
+            {
+                "name": "Cafe Americano",
+                "price": 350
+            },
+            {
+                "name": "Cafe Carajillo",
+                "price": 800
+            },
+            {
+                "name": "Capuccino",
+                "price": 350
+            },
+            {
+                "name": "Cafe Rocio de Gallo",
+                "price": 700
+            },
+            {
+                "name": "Cafe Cortado",
+                "price": 350
+            }
+        ],
+        "others": [
+            {
+                "name": "Focaccia de la Casa",
+                "price": 1200
+            },
+            {
+                "name": "Cesta de Panecillos",
+                "price": 300
+            },
+            {
+                "name": "Combinacion Francoise (Focaccia + Berenjena Parmesana)",
+                "price": 3000
+            },
+            {
+                "name": "Crema de Queso Azul con Frutas Confitadas",
+                "price": 1600
+            },
+            {
+                "name": "Sopa de Vegetales y Mariscos",
+                "price": 2000
+            },
+            {
+                "name": "Margarita (Queso, Tomate y Albahaca)",
+                "price": 2000
+            },
+            {
+                "name": "Marinara (Tomate, Ajo y Oregano)",
+                "price": 2000
+            },
+            {
+                "name": "Cuatro Estaciones (Queso, Aceitunas Negras y Verdes, Champinones, Pimientos)",
+                "price": 2500
+            },
+            {
+                "name": "Charcuteria (Queso, Blanqueta, Jamon Serrano, Jamon Pierna y Chorizo)",
+                "price": 2700
+            },
+            {
+                "name": "Napolitana (Queso, Tomate, Anchoa y Oregano)",
+                "price": 2600
+            },
+            {
+                "name": "Calzone (Queso, Vegetales, Champinones y Jamon Pierna)",
+                "price": 2700
+            },
+            {
+                "name": "Gustosa (Queso, Anchoas, Calamares y Camarones)",
+                "price": 3200
+            },
+            {
+                "name": "5 Esquinas (Cinco Quesos)",
+                "price": 2800
+            },
+            {
+                "name": "Pepperoni",
+                "price": 2800
+            },
+            {
+                "name": "Aceitunas",
+                "price": 400
+            },
+            {
+                "name": "Queso Mozzarella",
+                "price": 700
+            },
+            {
+                "name": "Chorizo",
+                "price": 600
+            },
+            {
+                "name": "Champignones",
+                "price": 400
+            },
+            {
+                "name": "Aji",
+                "price": 350
+            },
+            {
+                "name": "Berenjena",
+                "price": 350
+            },
+            {
+                "name": "Cebolla",
+                "price": 350
+            },
+            {
+                "name": "Rucula",
+                "price": 350
+            },
+            {
+                "name": "Pina",
+                "price": 350
+            },
+            {
+                "name": "Huevo",
+                "price": 350
+            },
+            {
+                "name": "Jamon Pierna",
+                "price": 600
+            },
+            {
+                "name": "Atun",
+                "price": 600
+            },
+            {
+                "name": "Queso Parmesano",
+                "price": 700
+            },
+            {
+                "name": "Jamon Serrano",
+                "price": 800
+            },
+            {
+                "name": "Camarones",
+                "price": 800
+            },
+            {
+                "name": "Anchoas",
+                "price": 600
+            },
+            {
+                "name": "Pepperoni",
+                "price": 600
+            },
+            {
+                "name": "Bacon",
+                "price": 600
+            },
+            {
+                "name": "Queso Azul",
+                "price": 700
+            },
+            {
+                "name": "Tomate",
+                "price": 2200
+            },
+            {
+                "name": "Pesto a la Genovesa",
+                "price": 2500
+            },
+            {
+                "name": "Ajo, Aceite de Oliva y Peperonchini",
+                "price": 2500
+            },
+            {
+                "name": "Alfredo (Jamon Pierna, Cebolla, Crema de Leche)",
+                "price": 2600
+            },
+            {
+                "name": "Sorrentina (Mozzarella, Tomate, Albahaca)",
+                "price": 2500
+            },
+            {
+                "name": "Arrabiata (Tomate y Peperonchini)",
+                "price": 2500
+            },
+            {
+                "name": "Amatriciana (Bacon, Cebolla, Tomate, Vino Tinto y Peperonchini)",
+                "price": 2600
+            },
+            {
+                "name": "Bolonesa",
+                "price": 2700
+            },
+            {
+                "name": "Carbonara",
+                "price": 2700
+            },
+            {
+                "name": "Mariscos",
+                "price": 3200
+            },
+            {
+                "name": "Salsa Puttanesca",
+                "price": 2800
+            },
+            {
+                "name": "Lasana de Mejillones y Perejil",
+                "price": 3000
+            },
+            {
+                "name": "Lasana de Mariscos",
+                "price": 3500
+            },
+            {
+                "name": "Lasana de Frutos Secos y Judias Blancas",
+                "price": 3000
+            },
+            {
+                "name": "Lasana a la Bolonesa",
+                "price": 3000
+            },
+            {
+                "name": "Noquis a los Cuatro Quesos",
+                "price": 3000
+            },
+            {
+                "name": "Raviolis a la Mantequilla y Ajo",
+                "price": 2800
+            },
+            {
+                "name": "Raviolis al Pesto",
+                "price": 2800
+            },
+            {
+                "name": "Raviolis a la Bolonesa",
+                "price": 2800
+            },
+            {
+                "name": "Berenjena Parmesana",
+                "price": 2800
+            },
+            {
+                "name": "Risotto con Hongos",
+                "price": 3500
+            },
+            {
+                "name": "Risotto Marinero",
+                "price": 3500
+            },
+            {
+                "name": "Risotto 5 Esquinas",
+                "price": 3500
+            }
+        ]
+    }
+}

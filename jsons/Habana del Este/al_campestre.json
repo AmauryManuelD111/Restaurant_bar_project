@@ -1,0 +1,466 @@
+{
+    "name": "AlCampestre",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Comida mixta"
+    ],
+    "municipality": "Habana del Este",
+    "services": [
+        "Reservations",
+        "Delivery",
+        "PaymentMethod",
+        "Parking"
+    ],
+    "address": "El Intermitente, Via Blanca, Alamar",
+    "qualification": 3.4,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "53236469",
+        "email": null,
+        "website": null,
+        "facebook": "Alcampestre. (Facebook)",
+        "instagram": "alcampestre (Instagram)"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Vianda hervida",
+                "price": 180
+            },
+            {
+                "name": "Vianda frita",
+                "price": 350
+            },
+            {
+                "name": "Tostones criollos",
+                "price": 350
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 400
+            },
+            {
+                "name": "Tostones en tapas",
+                "price": 560
+            },
+            {
+                "name": "Fritura de malanga",
+                "price": 450
+            },
+            {
+                "name": "Ensalada fria",
+                "price": 650
+            },
+            {
+                "name": "Papas fritas",
+                "price": 700
+            },
+            {
+                "name": "Ceviche",
+                "price": 1000
+            },
+            {
+                "name": "Crema de queso",
+                "price": 400
+            },
+            {
+                "name": "Crema aurora",
+                "price": 450
+            },
+            {
+                "name": "Crema Virginia",
+                "price": 470
+            },
+            {
+                "name": "Fajitas de pollo",
+                "price": 1560
+            },
+            {
+                "name": "Eperlan",
+                "price": 2100
+            },
+            {
+                "name": "Coctel de camarones",
+                "price": 2200
+            },
+            {
+                "name": "Brusquetas",
+                "price": 650
+            },
+            {
+                "name": "Tabla Charcutera",
+                "price": 1750
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [
+            {
+                "name": "Ropa vieja de res",
+                "price": 2450
+            },
+            {
+                "name": "Vaca Frita",
+                "price": 2560
+            },
+            {
+                "name": "Filete de res a la Deuch",
+                "price": 2560
+            },
+            {
+                "name": "Entrecot",
+                "price": 4150
+            },
+            {
+                "name": "Churrasco de res",
+                "price": 4150
+            },
+            {
+                "name": "Chuleton de res",
+                "price": 5500
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Calamar al ajillo",
+                "price": 4500
+            },
+            {
+                "name": "Calamar grille",
+                "price": 4500
+            },
+            {
+                "name": "Calamar en salsa de tomate",
+                "price": 4500
+            },
+            {
+                "name": "Pulpo grille",
+                "price": 5200
+            },
+            {
+                "name": "Pulpo enchilado",
+                "price": 5200
+            },
+            {
+                "name": "Pulpo al ajillo",
+                "price": 5200
+            },
+            {
+                "name": "Langosta grille",
+                "price": 4860
+            },
+            {
+                "name": "Langosta americana",
+                "price": 4860
+            },
+            {
+                "name": "Langosta termidor",
+                "price": 5000
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Dulces caseros",
+                "price": 380
+            },
+            {
+                "name": "Torrejas de la casa",
+                "price": 500
+            },
+            {
+                "name": "Cuna de Mousse",
+                "price": 570
+            },
+            {
+                "name": "Tarta de Mousse",
+                "price": 4500
+            },
+            {
+                "name": "Cuna Cheesecake",
+                "price": 650
+            },
+            {
+                "name": "Tarta Cheesecake",
+                "price": 5000
+            },
+            {
+                "name": "Tarta Tiramisu",
+                "price": 5000
+            },
+            {
+                "name": "Cuna Tiramisu",
+                "price": 650
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Alexander",
+                "price": 450
+            },
+            {
+                "name": "Bloddy Marry",
+                "price": 450
+            },
+            {
+                "name": "Cubanito",
+                "price": 450
+            },
+            {
+                "name": "Daiquiri",
+                "price": 460
+            },
+            {
+                "name": "Daiquiri rebelde",
+                "price": 500
+            },
+            {
+                "name": "Martin",
+                "price": 450
+            },
+            {
+                "name": "Mojito",
+                "price": 750
+            },
+            {
+                "name": "Pina Colada",
+                "price": 720
+            },
+            {
+                "name": "Sangria",
+                "price": 850
+            },
+            {
+                "name": "Virgen Colada",
+                "price": 450
+            },
+            {
+                "name": "Caipirina",
+                "price": 400
+            },
+            {
+                "name": "Caipiroska",
+                "price": 400
+            },
+            {
+                "name": "Caipirisima",
+                "price": 400
+            },
+            {
+                "name": "Canchanchara",
+                "price": 400
+            },
+            {
+                "name": "Margarita",
+                "price": 650
+            },
+            {
+                "name": "Tinto Verano",
+                "price": 1100
+            }
+        ],
+        "others": [
+            {
+                "name": "Pizza Napolitana",
+                "price": 970
+            },
+            {
+                "name": "Pizza Bambina",
+                "price": 550
+            },
+            {
+                "name": "Pizza Al Campestre",
+                "price": 1960
+            },
+            {
+                "name": "Spaghetti con queso",
+                "price": 820
+            },
+            {
+                "name": "Spaghetti Frutti di Mare",
+                "price": 2400
+            },
+            {
+                "name": "Spaghetti Aioli",
+                "price": 960
+            },
+            {
+                "name": "Spaghetti Al Pesto",
+                "price": 1200
+            },
+            {
+                "name": "Spaghetti Bolonesa",
+                "price": 1890
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "price": 1450
+            },
+            {
+                "name": "Spaghetti Alfredo",
+                "price": 930
+            },
+            {
+                "name": "Spaghetti Primavera",
+                "price": 1000
+            },
+            {
+                "name": "Tacos al chili",
+                "price": 1600
+            },
+            {
+                "name": "Tacos de res",
+                "price": 2450
+            },
+            {
+                "name": "Tacos de pollo",
+                "price": 1960
+            },
+            {
+                "name": "Tacos de cerdo",
+                "price": 2500
+            },
+            {
+                "name": "Tacos del mar",
+                "price": 2650
+            },
+            {
+                "name": "Tacos de queso",
+                "price": 1400
+            },
+            {
+                "name": "Arroz frito",
+                "price": 1300
+            },
+            {
+                "name": "Estofado de conejo",
+                "price": 2750
+            },
+            {
+                "name": "Fricase de conejo",
+                "price": 2750
+            },
+            {
+                "name": "Pina",
+                "price": 150
+            },
+            {
+                "name": "Cebolla",
+                "price": 200
+            },
+            {
+                "name": "Chorizo",
+                "price": 580
+            },
+            {
+                "name": "Pimiento",
+                "price": 200
+            },
+            {
+                "name": "Jamon",
+                "price": 350
+            },
+            {
+                "name": "Bacon",
+                "price": 480
+            },
+            {
+                "name": "Queso Gouda",
+                "price": 300
+            },
+            {
+                "name": "Aceituna",
+                "price": 180
+            },
+            {
+                "name": "Atun",
+                "price": 450
+            },
+            {
+                "name": "Camarones",
+                "price": 780
+            },
+            {
+                "name": "Ropa vieja de cerdo",
+                "price": 780
+            },
+            {
+                "name": "Ropa vieja de res",
+                "price": 960
+            },
+            {
+                "name": "Pepperoni",
+                "price": 350
+            },
+            {
+                "name": "Ensalada de estacion",
+                "price": 100
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 150
+            },
+            {
+                "name": "Arroz moro",
+                "price": 220
+            },
+            {
+                "name": "Arroz con vegetales",
+                "price": 350
+            },
+            {
+                "name": "Vegetales salteados",
+                "price": 250
+            },
+            {
+                "name": "Frijoles negros",
+                "price": 350
+            },
+            {
+                "name": "Frijoles colorados",
+                "price": 400
+            },
+            {
+                "name": "Paella Al Campestre",
+                "price": 10500
+            }
+        ]
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "name": "La Fuente",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "Cocina mixta"
+    ],
+    "municipality": "Diez de Octubre",
+    "services": [
+        "Parking",
+        "WiFi",
+        "Smoking Area",
+        "Reservations",
+        "Delivery"
+    ],
+    "address": "Avenida Acosta entre 5ta y 6ta, La Vibora",
+    "qualification": 4.4,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": "76908989",
+        "email": "restaurantelafuente268@gmail.com",
+        "website": null,
+        "facebook": "Restaurante La Fuente",
+        "instagram": "@lafuentecuba"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas de pollo",
+                "price": 560
+            },
+            {
+                "name": "Croquetas de bacalao",
+                "price": 560
+            },
+            {
+                "name": "Ceviche de pescado",
+                "price": 900
+            },
+            {
+                "name": "Coctel de camarones",
+                "price": 1000
+            },
+            {
+                "name": "Coctel de langosta",
+                "price": 1500
+            },
+            {
+                "name": "Carpaccio de res",
+                "price": 1800
+            },
+            {
+                "name": "Entremes de jamon Serrano",
+                "price": 2000
+            },
+            {
+                "name": "Frituras de malanga",
+                "price": 450
+            },
+            {
+                "name": "Crema del dia",
+                "price": 450
+            },
+            {
+                "name": "Pan de baguette al olio",
+                "price": 400
+            },
+            {
+                "name": "Pan y mantequilla",
+                "price": 400
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Filete o rueda de pescado grille",
+                "price": 1500
+            },
+            {
+                "name": "Camarones enchilados",
+                "price": 1800
+            },
+            {
+                "name": "Camarones a la plancha",
+                "price": 1700
+            },
+            {
+                "name": "Camarones al ajillo",
+                "price": 1800
+            },
+            {
+                "name": "Camarones rebosados",
+                "price": 1900
+            },
+            {
+                "name": "Filete de pescado Joinville",
+                "price": 3000
+            },
+            {
+                "name": "Suprema de pollo grille",
+                "price": 1400
+            },
+            {
+                "name": "Suprema de pollo rellena de vegetales",
+                "price": 1500
+            },
+            {
+                "name": "Angel de suprema de pollo",
+                "price": 1700
+            },
+            {
+                "name": "Pollo tropical",
+                "price": 1700
+            }
+        ],
+        "beef": [
+            {
+                "name": "Entrecot de res",
+                "price": 3500
+            },
+            {
+                "name": "Filete Mignon de res",
+                "price": 2700
+            },
+            {
+                "name": "Filete de res a la Deutch",
+                "price": 2700
+            },
+            {
+                "name": "Bistec de res grille",
+                "price": 1600
+            },
+            {
+                "name": "Ropa vieja de res",
+                "price": 1400
+            },
+            {
+                "name": "Vaca frita de res",
+                "price": 1400
+            }
+        ],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Postres del dia",
+                "price": 700
+            },
+            {
+                "name": "Postres caseros con queso",
+                "price": 500
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Refrescos nacionales",
+                "price": 260
+            },
+            {
+                "name": "Refrescos importados",
+                "price": 300
+            },
+            {
+                "name": "Jugos de frutas naturales",
+                "price": 250
+            },
+            {
+                "name": "Batidos de frutas",
+                "price": 350
+            },
+            {
+                "name": "Cervezas nacionales",
+                "price": 360
+            },
+            {
+                "name": "Cervezas importadas",
+                "price": 360
+            },
+            {
+                "name": "Cerveza Corona",
+                "price": 450
+            },
+            {
+                "name": "Michelada nacional",
+                "price": 500
+            },
+            {
+                "name": "Michelada importada",
+                "price": 500
+            },
+            {
+                "name": "Michelada Corona",
+                "price": 580
+            },
+            {
+                "name": "Agua natural",
+                "price": 250
+            },
+            {
+                "name": "Agua gaseada",
+                "price": 500
+            },
+            {
+                "name": "Agua PANNA",
+                "price": 500
+            },
+            {
+                "name": "Agua gaseada San Pelegrino",
+                "price": 400
+            },
+            {
+                "name": "Agua tonica",
+                "price": 400
+            },
+            {
+                "name": "Clan Campbell",
+                "price": 600
+            },
+            {
+                "name": "Chivas Regal 18 anos",
+                "price": 1400
+            },
+            {
+                "name": "Jameson",
+                "price": 600
+            },
+            {
+                "name": "JB",
+                "price": 600
+            },
+            {
+                "name": "Ballantine's",
+                "price": 750
+            },
+            {
+                "name": "JW Red Label",
+                "price": 800
+            },
+            {
+                "name": "JW Black Label",
+                "price": 950
+            },
+            {
+                "name": "Chivas Regal 12 anos",
+                "price": 1000
+            },
+            {
+                "name": "Buchanas 12 anos",
+                "price": 1300
+            },
+            {
+                "name": "Buchanas 18 anos",
+                "price": 1750
+            },
+            {
+                "name": "Royal Salute",
+                "price": 2500
+            },
+            {
+                "name": "Cafe Expresso",
+                "price": 240
+            },
+            {
+                "name": "Cafe cortadito",
+                "price": 240
+            },
+            {
+                "name": "Cappuccino",
+                "price": 300
+            },
+            {
+                "name": "Cafe americano",
+                "price": 360
+            },
+            {
+                "name": "Frappuccino",
+                "price": 360
+            },
+            {
+                "name": "Te",
+                "price": 160
+            },
+            {
+                "name": "Mojito",
+                "price": 560
+            },
+            {
+                "name": "Cuba Libre",
+                "price": 500
+            },
+            {
+                "name": "Daiquiri",
+                "price": 500
+            },
+            {
+                "name": "Pina Colada",
+                "price": 640
+            },
+            {
+                "name": "Pina Colada Virgen",
+                "price": 600
+            },
+            {
+                "name": "Sangria",
+                "price": 640
+            },
+            {
+                "name": "Caipirinha",
+                "price": 640
+            },
+            {
+                "name": "Caipiroska",
+                "price": 640
+            },
+            {
+                "name": "Gin Tonic",
+                "price": 640
+            },
+            {
+                "name": "Daiquiri rebelde",
+                "price": 640
+            },
+            {
+                "name": "Limonada",
+                "price": 400
+            },
+            {
+                "name": "Limonada frappe",
+                "price": 400
+            },
+            {
+                "name": "Olmeca",
+                "price": 600
+            },
+            {
+                "name": "Santiago Anejo",
+                "price": 500
+            },
+            {
+                "name": "Havana Club 3 anos",
+                "price": 380
+            },
+            {
+                "name": "Havana Club Anejo Especial",
+                "price": 400
+            },
+            {
+                "name": "Havana Club Anejo Reserva",
+                "price": 500
+            },
+            {
+                "name": "Havana Club 7 anos Reserva",
+                "price": 600
+            },
+            {
+                "name": "Havana Club Seleccion de Maestro",
+                "price": 950
+            },
+            {
+                "name": "Vino Sangre de Toro",
+                "price": 4000
+            },
+            {
+                "name": "Vino blanco Vina Sol",
+                "price": 4500
+            },
+            {
+                "name": "Vino blanco Esmeralda",
+                "price": 4500
+            },
+            {
+                "name": "Vino blanco S. Toro Chardonnay",
+                "price": 4000
+            },
+            {
+                "name": "Copa de vino de la casa",
+                "price": 750
+            }
+        ],
+        "others": [
+            {
+                "name": "Pizza napolitana",
+                "price": 950
+            },
+            {
+                "name": "Pizza de jamon",
+                "price": 1100
+            },
+            {
+                "name": "Pizza Hawaiana",
+                "price": 1250
+            },
+            {
+                "name": "Queso",
+                "price": 425
+            },
+            {
+                "name": "Jamon",
+                "price": 425
+            },
+            {
+                "name": "Pina",
+                "price": 400
+            },
+            {
+                "name": "Arroz moros y cristianos",
+                "price": 250
+            },
+            {
+                "name": "Pure del dia",
+                "price": 350
+            },
+            {
+                "name": "Arroz pilaf",
+                "price": 350
+            },
+            {
+                "name": "Ensalada de estacion",
+                "price": 350
+            },
+            {
+                "name": "Vegetales salteados",
+                "price": 350
+            }
+        ]
+    }
+}

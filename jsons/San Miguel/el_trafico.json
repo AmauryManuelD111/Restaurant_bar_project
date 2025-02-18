@@ -1,0 +1,226 @@
+{
+    "name": "el trafico",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "italiana",
+        "criolla"
+    ],
+    "municipality": "San Miguel del Padron",
+    "services": [
+        "pago en linea",
+        "efectivo",
+        "transferencia"
+    ],
+    "address": "calzada de guines entre 90 y 94",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "filete de merluza",
+                "price": 2000
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "arroz moro",
+                "price": 300
+            },
+            {
+                "name": "vianda",
+                "price": 150
+            },
+            {
+                "name": "ensalada",
+                "price": 200
+            },
+            {
+                "name": "tamal",
+                "price": 200
+            },
+            {
+                "name": "papas fritas",
+                "price": 600
+            },
+            {
+                "name": "bistec de pollo",
+                "price": 1500
+            },
+            {
+                "name": "bistec de cerdo",
+                "price": 1950
+            },
+            {
+                "name": "bistec de res",
+                "price": 1950
+            },
+            {
+                "name": "pechuga de pollo",
+                "price": 1950
+            },
+            {
+                "name": "chuleta de cerdo",
+                "price": 1950
+            },
+            {
+                "name": "masa de cerdo frita",
+                "price": 2000
+            },
+            {
+                "name": "cerdo guisado",
+                "price": 2000
+            },
+            {
+                "name": "lomo ahumado",
+                "price": 2000
+            },
+            {
+                "name": "costilla de cerdo",
+                "price": 2000
+            },
+            {
+                "name": "ropa vieja",
+                "price": 2000
+            },
+            {
+                "name": "espaguetti con queso blanco",
+                "price": 400
+            },
+            {
+                "name": "espaguetti con queso gouda",
+                "price": 420
+            },
+            {
+                "name": "espaguetti con queso parmesano",
+                "price": 450
+            },
+            {
+                "name": "pizza de queso blanco",
+                "price": 280
+            },
+            {
+                "name": "pizza de queso blanco XL",
+                "price": 770
+            },
+            {
+                "name": "pizza de queso gouda",
+                "price": 320
+            },
+            {
+                "name": "pizza de queso gouda XL",
+                "price": 830
+            },
+            {
+                "name": "pizza de queso parmesano",
+                "price": 350
+            },
+            {
+                "name": "pizza de queso parmesano XL",
+                "price": 850
+            },
+            {
+                "name": "queso blanco",
+                "price": 300
+            },
+            {
+                "name": "queso gouda",
+                "price": 320
+            },
+            {
+                "name": "queso parmesano",
+                "price": 350
+            },
+            {
+                "name": "cebolla",
+                "price": 200
+            },
+            {
+                "name": "pimiento",
+                "price": 200
+            },
+            {
+                "name": "piña",
+                "price": 200
+            },
+            {
+                "name": "camaron",
+                "price": 350
+            },
+            {
+                "name": "jamon",
+                "price": 200
+            },
+            {
+                "name": "chorizo",
+                "price": 200
+            },
+            {
+                "name": "bacon",
+                "price": 200
+            },
+            {
+                "name": "salchicha",
+                "price": 200
+            },
+            {
+                "name": "aceituna",
+                "price": 300
+            },
+            {
+                "name": "atun",
+                "price": 300
+            }
+        ]
+    }
+}

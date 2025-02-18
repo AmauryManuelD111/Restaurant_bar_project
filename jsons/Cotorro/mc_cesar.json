@@ -1,0 +1,238 @@
+{
+    "name": "mc.cesar",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Cotorro",
+    "services": [
+        "Parking",
+        "Reservations",
+        "Cash_national",
+        "Digital_transfer_national",
+        "Power_generator"
+    ],
+    "address": "calle primer entre 220 y 221, Cotorro",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "09:30",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "59770018",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Dados jamo-queso",
+                "price": 1000
+            },
+            {
+                "name": "Eperlan",
+                "price": 1300
+            },
+            {
+                "name": "Ensalada fria",
+                "price": 300
+            },
+            {
+                "name": "Tostones rellenos",
+                "price": 600
+            },
+            {
+                "name": "Tostones Criollos",
+                "price": 350
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 500
+            },
+            {
+                "name": "Picadera Mc.Cesar",
+                "price": 2500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [
+            {
+                "name": "Bistec de Res",
+                "price": 2000
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Pescado Grille",
+                "price": 1500
+            },
+            {
+                "name": "Pescado Mc.Cesar",
+                "price": 2500
+            },
+            {
+                "name": "Canciller",
+                "price": 1800
+            },
+            {
+                "name": "Pescado Empanado",
+                "price": 1600
+            },
+            {
+                "name": "Pescado con salsa de limon",
+                "price": 1700
+            },
+            {
+                "name": "Camaron Grille",
+                "price": 1900
+            },
+            {
+                "name": "Camaron al ajillo",
+                "price": 1900
+            },
+            {
+                "name": "Camaron Enchilado",
+                "price": 2000
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Hamburguesa de Cerdo",
+                "price": 500
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Pan de Atun",
+                "price": 600
+            },
+            {
+                "name": "Pan de jamon-queso",
+                "price": 500
+            },
+            {
+                "name": "Pan con pechuga",
+                "price": 500
+            },
+            {
+                "name": "Pan con bistec",
+                "price": 500
+            },
+            {
+                "name": "Pizza",
+                "price": 500
+            },
+            {
+                "name": "Espaguetis",
+                "price": 500
+            },
+            {
+                "name": "Garbanzos fritos",
+                "price": 1000
+            },
+            {
+                "name": "Higado de cerdo a la italiana",
+                "price": 1000
+            },
+            {
+                "name": "Salteado de Vegetales",
+                "price": 1500
+            },
+            {
+                "name": "Uruguayo",
+                "price": 1500
+            },
+            {
+                "name": "Brocha Cerdo-Pollo",
+                "price": 1700
+            },
+            {
+                "name": "Bistec Grille",
+                "price": 1300
+            },
+            {
+                "name": "Faja de Cerdo",
+                "price": 1400
+            },
+            {
+                "name": "Escalope",
+                "price": 1400
+            },
+            {
+                "name": "Solomillo",
+                "price": 2000
+            },
+            {
+                "name": "Lomo ahumado deshuesado",
+                "price": 1300
+            },
+            {
+                "name": "Pechuga Grille",
+                "price": 1300
+            },
+            {
+                "name": "Salteado de Pollo",
+                "price": 1400
+            },
+            {
+                "name": "Pollo deshuesado",
+                "price": 900
+            },
+            {
+                "name": "Goldon Blue",
+                "price": 1500
+            },
+            {
+                "name": "Suprema Princesa",
+                "price": 1500
+            },
+            {
+                "name": "Ropa Vieja",
+                "price": 1800
+            },
+            {
+                "name": "Vaca Frita",
+                "price": 1800
+            }
+        ]
+    }
+}

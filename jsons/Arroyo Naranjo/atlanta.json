@@ -1,0 +1,616 @@
+{
+    "name": "Atlanta",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana",
+        "variada"
+    ],
+    "municipality": "Arroyo Naranjo",
+    "services": [
+        "Parking",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator"
+    ],
+    "address": "Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de octubre, La Palma",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": null,
+            "close": null
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": "59694801",
+        "email": null,
+        "website": null,
+        "facebook": "https://www.facebook.com/atlantacafe",
+        "instagram": "@cafeatlanta"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "croquetas de la casa",
+                "price": 850
+            },
+            {
+                "name": "ensalada de pollo",
+                "price": 950
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 850
+            },
+            {
+                "name": "frituras de malanga",
+                "price": 650
+            },
+            {
+                "name": "garbanzos fritos",
+                "price": 1200
+            },
+            {
+                "name": "eperlan de picar",
+                "price": 1200
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 950
+            },
+            {
+                "name": "ceviche ATLANTA",
+                "price": 950
+            }
+        ],
+        "salads": [],
+        "vegetables": [
+            {
+                "name": "arroz blanco",
+                "price": 320
+            },
+            {
+                "name": "ensalada mixta",
+                "price": 320
+            },
+            {
+                "name": "arroz congris",
+                "price": 480
+            },
+            {
+                "name": "vianda frita",
+                "price": 320
+            }
+        ],
+        "meats": [
+            {
+                "name": "tacos ATLANTA",
+                "price": 1650
+            },
+            {
+                "name": "arroz frito",
+                "price": 1200
+            },
+            {
+                "name": "arroz frito especial",
+                "price": 1400
+            },
+            {
+                "name": "paella valenciana",
+                "price": 1500
+            },
+            {
+                "name": "paella mixta",
+                "price": 1650
+            },
+            {
+                "name": "arroz con pollo a la chorrera",
+                "price": 1500
+            },
+            {
+                "name": "bistec de cerdo grille",
+                "price": 1600
+            },
+            {
+                "name": "masas de cerdo fritas",
+                "price": 2000
+            },
+            {
+                "name": "bistec uruguayo de cerdo",
+                "price": 2500
+            },
+            {
+                "name": "pollo frito/asado",
+                "price": 1500
+            },
+            {
+                "name": "pechuga de pollo grille",
+                "price": 1600
+            },
+            {
+                "name": "pechuga gratinada",
+                "price": 1850
+            },
+            {
+                "name": "pechuga princesa",
+                "price": 2000
+            },
+            {
+                "name": "Gordon Blue",
+                "price": 2500
+            },
+            {
+                "name": "lomo ahumado grille",
+                "price": 1850
+            },
+            {
+                "name": "lomo ahumado gratinado c/queso",
+                "price": 2150
+            },
+            {
+                "name": "lomo ahumado a la pina",
+                "price": 2000
+            },
+            {
+                "name": "pechugon ATLANTA",
+                "price": 2650
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "filete de pescado grille",
+                "price": 1850
+            },
+            {
+                "name": "filete de pescado con queso",
+                "price": 2200
+            },
+            {
+                "name": "filete canciller",
+                "price": 2500
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Cheeseburguer",
+                "price": 1200
+            },
+            {
+                "name": "hamburguesa ATLANTA",
+                "price": 1500
+            }
+        ],
+        "desserts": [
+            {
+                "name": "suero de helados",
+                "price": 850
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "chelada",
+                "price": 200
+            },
+            {
+                "name": "michelada (servicio)",
+                "price": 250
+            },
+            {
+                "name": "roncollins",
+                "price": 600
+            },
+            {
+                "name": "calimocho",
+                "price": 600
+            },
+            {
+                "name": "tinto de verano",
+                "price": 700
+            },
+            {
+                "name": "caipiroska",
+                "price": 700
+            },
+            {
+                "name": "caipirinha",
+                "price": 700
+            },
+            {
+                "name": "caipirisima",
+                "price": 700
+            },
+            {
+                "name": "canchanchara",
+                "price": 600
+            },
+            {
+                "name": "pina colada",
+                "price": 700
+            },
+            {
+                "name": "cubalibre",
+                "price": 650
+            },
+            {
+                "name": "sangria",
+                "price": 700
+            },
+            {
+                "name": "mojito",
+                "price": 700
+            },
+            {
+                "name": "daiquiri",
+                "price": 700
+            },
+            {
+                "name": "cubata",
+                "price": 800
+            },
+            {
+                "name": "cubanito",
+                "price": 800
+            },
+            {
+                "name": "sex on the beach",
+                "price": 800
+            },
+            {
+                "name": "bloody mary",
+                "price": 800
+            },
+            {
+                "name": "gintonic",
+                "price": 900
+            },
+            {
+                "name": "vodkatonic",
+                "price": 900
+            },
+            {
+                "name": "margarita",
+                "price": 900
+            },
+            {
+                "name": "jaggerbull",
+                "price": 1250
+            },
+            {
+                "name": "negroni",
+                "price": 1550
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "others": [
+            {
+                "name": "spaghetti Napolitano",
+                "price": 950
+            },
+            {
+                "name": "lasagna de jamon",
+                "price": 950
+            },
+            {
+                "name": "pizza napolitana",
+                "price": 950
+            },
+            {
+                "name": "pizza ATLANTA",
+                "price": 1800
+            },
+            {
+                "name": "ginebra de la casa",
+                "price": 350
+            },
+            {
+                "name": "ginebra Beefeater",
+                "price": 500
+            },
+            {
+                "name": "ginebra Tanqueray",
+                "price": 700
+            },
+            {
+                "name": "ginebra Gordons",
+                "price": 1000
+            },
+            {
+                "name": "tequila silver de la casa",
+                "price": 700
+            },
+            {
+                "name": "tequila reposado de la casa",
+                "price": 750
+            },
+            {
+                "name": "tequila Olmeca silver",
+                "price": 750
+            },
+            {
+                "name": "tequila Olmeca reposado",
+                "price": 800
+            },
+            {
+                "name": "tequila Olmeca dark",
+                "price": 800
+            },
+            {
+                "name": "tequila Patron silver",
+                "price": 1550
+            },
+            {
+                "name": "tequila Patron reposado",
+                "price": 1700
+            },
+            {
+                "name": "vodka de la casa",
+                "price": 350
+            },
+            {
+                "name": "vodka Absolut",
+                "price": 650
+            },
+            {
+                "name": "vodka Grey Goose",
+                "price": 1550
+            },
+            {
+                "name": "whisky de la casa",
+                "price": 400
+            },
+            {
+                "name": "william lawson",
+                "price": 500
+            },
+            {
+                "name": "VAT 69",
+                "price": 500
+            },
+            {
+                "name": "Ballantines",
+                "price": 650
+            },
+            {
+                "name": "Jhonie W. etiqueta roja",
+                "price": 700
+            },
+            {
+                "name": "Jhonie W. etiq. negra",
+                "price": 1250
+            },
+            {
+                "name": "Buchanans deluxe",
+                "price": 1550
+            },
+            {
+                "name": "Chivas Regal",
+                "price": 1200
+            },
+            {
+                "name": "ron h.c. blanco",
+                "price": 350
+            },
+            {
+                "name": "ron h.c. 3 anos",
+                "price": 400
+            },
+            {
+                "name": "ron h.c. reserva",
+                "price": 500
+            },
+            {
+                "name": "ron h.c 7 anos",
+                "price": 550
+            },
+            {
+                "name": "ron santiago c. blanca",
+                "price": 500
+            },
+            {
+                "name": "ron santiago 8 anos",
+                "price": 1000
+            },
+            {
+                "name": "ron santiago 11 anos",
+                "price": 1450
+            },
+            {
+                "name": "ron santiango 12 anos",
+                "price": 1550
+            },
+            {
+                "name": "cerveza Cristal (lata)",
+                "price": 350
+            },
+            {
+                "name": "cerveza Cristal (botella)",
+                "price": 400
+            },
+            {
+                "name": "cerveza Bucanero",
+                "price": 350
+            },
+            {
+                "name": "cer veza Corona",
+                "price": 550
+            },
+            {
+                "name": "cerveza Heineken",
+                "price": 500
+            },
+            {
+                "name": "otras cervezas importadas",
+                "price": 300
+            },
+            {
+                "name": "agua natural",
+                "price": 250
+            },
+            {
+                "name": "refrescos importados (lata)",
+                "price": 350
+            },
+            {
+                "name": "jugos naturales",
+                "price": 350
+            },
+            {
+                "name": "batidos de frutas",
+                "price": 600
+            },
+            {
+                "name": "red bull",
+                "price": 650
+            },
+            {
+                "name": "malta Bucanero",
+                "price": 400
+            },
+            {
+                "name": "maltas (otras marcas)",
+                "price": 350
+            },
+            {
+                "name": "copa de vino de la casa",
+                "price": 420
+            },
+            {
+                "name": "copa de vino Frontera",
+                "price": 500
+            },
+            {
+                "name": "cate expreso",
+                "price": 250
+            },
+            {
+                "name": "cafe cortado",
+                "price": 320
+            },
+            {
+                "name": "cafe bombon",
+                "price": 400
+            },
+            {
+                "name": "capuchino",
+                "price": 450
+            },
+            {
+                "name": "frapuchino",
+                "price": 500
+            },
+            {
+                "name": "frapuchino con helado",
+                "price": 880
+            },
+            {
+                "name": "queso gouda",
+                "price": 250
+            },
+            {
+                "name": "jamon visking",
+                "price": 250
+            },
+            {
+                "name": "queso Azul",
+                "price": 650
+            },
+            {
+                "name": "lomo ahumado",
+                "price": 450
+            },
+            {
+                "name": "jamon pierna",
+                "price": 450
+            },
+            {
+                "name": "bacon",
+                "price": 650
+            },
+            {
+                "name": "cebolla",
+                "price": 200
+            },
+            {
+                "name": "pina",
+                "price": 200
+            },
+            {
+                "name": "pimientos",
+                "price": 200
+            },
+            {
+                "name": "aceitunas",
+                "price": 450
+            },
+            {
+                "name": "chorizo criollo",
+                "price": 250
+            },
+            {
+                "name": "atun",
+                "price": 650
+            },
+            {
+                "name": "chorizo vela",
+                "price": 650
+            },
+            {
+                "name": "champinones",
+                "price": 650
+            },
+            {
+                "name": "jamon serrano",
+                "price": 920
+            },
+            {
+                "name": "queso Parmesano",
+                "price": 820
+            },
+            {
+                "name": "sandwich de jamon y queso",
+                "price": 850
+            },
+            {
+                "name": "sandwich de Media Noche",
+                "price": 1650
+            },
+            {
+                "name": "sandwich Cubano",
+                "price": 1650
+            },
+            {
+                "name": "sandwich de atun",
+                "price": 1300
+            }
+        ]
+    }
+}

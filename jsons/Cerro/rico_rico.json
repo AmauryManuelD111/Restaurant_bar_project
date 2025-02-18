@@ -1,0 +1,165 @@
+{
+    "name": "rico rico",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Comida Italiana"
+    ],
+    "municipality": "Cerro",
+    "services": [
+        "cash_national"
+    ],
+    "address": "Calle Ayestarán entre Perfecto Lacoste y Aranguren",
+    "qualification": 2.4,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "78701632",
+        "email": null,
+        "website": null,
+        "facebook": "RicoRicopizzeria",
+        "instagram": "https://www.instagram.com/@ricoricopizzeria"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Ensalada fria de atun (pequena)",
+                "price": 645
+            },
+            {
+                "name": "Ensalada fria de atun (mediana)",
+                "price": 1200
+            },
+            {
+                "name": "Ensalada fria de atun (grande)",
+                "price": 2205
+            },
+            {
+                "name": "Ensalada fria de jamon y queso (pequena)",
+                "price": 495
+            },
+            {
+                "name": "Pizzeta de Napole",
+                "price": 230
+            },
+            {
+                "name": "Pizzeta de Chorizo",
+                "price": 325
+            },
+            {
+                "name": "Bastones de Queso",
+                "price": 780
+            },
+            {
+                "name": "Empanadas Gallegas",
+                "price": 380
+            },
+            {
+                "name": "Tequenos",
+                "price": 350
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Pastelito de ojaldre de guayaba o coco",
+                "price": 260
+            },
+            {
+                "name": "Pastelito de ojaldre de jamon y queso",
+                "price": 280
+            },
+            {
+                "name": "Flan",
+                "price": 590
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Frappi Rico",
+                "price": 180
+            },
+            {
+                "name": "Mega Bati Bati",
+                "price": 990
+            },
+            {
+                "name": "Super Bati Bati",
+                "price": 785
+            },
+            {
+                "name": "Bati Frutas",
+                "price": 675
+            }
+        ],
+        "others": [
+            {
+                "name": "Pizza Napoles",
+                "price": 920
+            },
+            {
+                "name": "Pasta Napoles",
+                "price": 920
+            },
+            {
+                "name": "Pasta Carbonara",
+                "price": 1000
+            },
+            {
+                "name": "Calzone Napoles",
+                "price": 1090
+            },
+            {
+                "name": "Megacalzone",
+                "price": 1440
+            },
+            {
+                "name": "Lasana Bolonesa",
+                "price": 1550
+            },
+            {
+                "name": "Lasana de Jamon",
+                "price": 1490
+            }
+        ]
+    }
+}

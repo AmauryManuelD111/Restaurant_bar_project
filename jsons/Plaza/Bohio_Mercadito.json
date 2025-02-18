@@ -1,0 +1,98 @@
+{
+    "name": "Bohio Mercadito",
+    "type": [
+        "bar"
+    ],
+    "speciality": [
+        "Americana"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "A la Carta"
+    ],
+    "address": "Calle 19 / 12 y 10 Vedado",
+    "qualification": 4.2,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "21:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            null
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            null
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": null,
+        "others": [
+            {
+                "name": "Baguette Jamon y Queso",
+                "price": 700
+            },
+            {
+                "name": "Croissant Nutella",
+                "price": 800
+            },
+            {
+                "name": "Croissant Jamon y Queso",
+                "price": 900
+            },
+            {
+                "name": "Mini Croissants Chocolate",
+                "price": 150
+            },
+            {
+                "name": "Dona Chocolate",
+                "price": 250
+            }
+        ]
+    },
+    "drinks": {
+        "name": "Capuchino",
+        "price": 250
+    }
+}

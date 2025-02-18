@@ -1,0 +1,214 @@
+{
+    "name": "La Esquinita",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "Cocina mixta"
+    ],
+    "municipality": "Diez de Octubre",
+    "services": [
+        "Parking"
+    ],
+    "address": "Calle Juan Lefont entre Libertad y Johnson",
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "76404105",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Picadera La Esquinita",
+                "price": 1000
+            },
+            {
+                "name": "Tostones",
+                "price": 400
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Arroz frito con mariscos",
+                "price": 950
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Hamburguesa sencilla",
+                "price": 500
+            },
+            {
+                "name": "Hamburguesa de jamon",
+                "price": 500
+            },
+            {
+                "name": "Hamburguesa de queso Gouda",
+                "price": 550
+            },
+            {
+                "name": "Hamburguesa de chorizo",
+                "price": 500
+            },
+            {
+                "name": "Hamburguesa de jamon y Gouda",
+                "price": 650
+            },
+            {
+                "name": "Hamburguesa La Esquinita",
+                "price": 750
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Arroz frito",
+                "price": 500
+            },
+            {
+                "name": "Bistec Gordon Blue",
+                "price": 1300
+            },
+            {
+                "name": "Pollo Chiflado",
+                "price": 650
+            },
+            {
+                "name": "Espaghettis blancos",
+                "price": 300
+            },
+            {
+                "name": "Espaghettis de queso Gouda",
+                "price": 450
+            },
+            {
+                "name": "Espaghettis blancos de jamon",
+                "price": 400
+            },
+            {
+                "name": "Espaghettis de queso Gouda con jamon",
+                "price": 550
+            },
+            {
+                "name": "Espaghettis blancos con chorizo",
+                "price": 400
+            },
+            {
+                "name": "Espaghettis de queso Gouda con chorizo",
+                "price": 550
+            },
+            {
+                "name": "Pizza de queso blanco",
+                "price": 200
+            },
+            {
+                "name": "Pizza de queso Gouda",
+                "price": 300
+            },
+            {
+                "name": "Pizza de queso blanco y jamon",
+                "price": 300
+            },
+            {
+                "name": "Pizza de queso Gouda y jamon",
+                "price": 400
+            },
+            {
+                "name": "Pizza de queso blanco y chorizo",
+                "price": 300
+            },
+            {
+                "name": "Pizza de queso Gouda y chorizo",
+                "price": 400
+            },
+            {
+                "name": "Pizza de queso blanco y atun",
+                "price": 500
+            },
+            {
+                "name": "Pizza de queso Gouda y atun",
+                "price": 600
+            },
+            {
+                "name": "Pizza de queso blanco y cebolla",
+                "price": 300
+            },
+            {
+                "name": "Pizza de queso Gouda y cebolla",
+                "price": 400
+            },
+            {
+                "name": "Pizza de queso blanco y pimiento ",
+                "price": 300
+            },
+            {
+                "name": "Pizza de queso Gouda y pimiento",
+                "price": 400
+            },
+            {
+                "name": "Pizza grande de queso blanco Hawaiana",
+                "price": 400
+            },
+            {
+                "name": "Pizza grande de queso Gouda Hawaiana",
+                "price": 500
+            },
+            {
+                "name": "Pizza grande Especial La Esquinita",
+                "price": 1200
+            },
+            {
+                "name": "Pizza grande Familiar La Esquinita",
+                "price": 3000
+            },
+            {
+                "name": "Papas fritas",
+                "price": 100
+            }
+        ]
+    }
+}

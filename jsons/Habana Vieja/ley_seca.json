@@ -1,0 +1,393 @@
+{
+    "name": "Ley Seca",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario"
+    ],
+    "address": "Calle Habana #416 entre Obispo y Obrapia, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:30",
+            "close": "04:00"
+        },
+        "tuesday": {
+            "open": "11:30",
+            "close": "04:00"
+        },
+        "wednesday": {
+            "open": "11:30",
+            "close": "04:00"
+        },
+        "thursday": {
+            "open": "11:30",
+            "close": "04:00"
+        },
+        "friday": {
+            "open": "11:30",
+            "close": "04:00"
+        },
+        "saturday": {
+            "open": "11:30",
+            "close": "04:00"
+        },
+        "sunday": {
+            "open": "11:30",
+            "close": "04:00"
+        }
+    },
+    "contact": {
+        "phone": "56685088",
+        "email": null,
+        "website": null,
+        "facebook": "https://m.facebook.com/61559397838059/",
+        "instagram": "https://www.instagram.com/ley_seca_speakeasyhabana?igsh=MjZoaGF5ZGhnM3dw"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas de pescado",
+                "price": 1500
+            },
+            {
+                "name": "Croquetas de pollo",
+                "price": 1500
+            },
+            {
+                "name": "Croquetas de embutido",
+                "price": 1500
+            },
+            {
+                "name": "Croquetas de queso",
+                "price": 1500
+            },
+            {
+                "name": "Sexy papas fritas",
+                "price": 1800
+            },
+            {
+                "name": "Empanadas de carne",
+                "price": 2000
+            },
+            {
+                "name": "Tacos de vegetales",
+                "price": 2000
+            },
+            {
+                "name": "Empanadas de queso",
+                "price": 2000
+            },
+            {
+                "name": "Tacos de pollo",
+                "price": 2300
+            },
+            {
+                "name": "Tacos de cerdo",
+                "price": 2300
+            },
+            {
+                "name": "Tacos de pescado",
+                "price": 2300
+            },
+            {
+                "name": "Croquetas de Serrano",
+                "price": 2600
+            },
+            {
+                "name": "Tacos de res",
+                "price": 3000
+            },
+            {
+                "name": "Seleccion Charcut",
+                "price": 3000
+            },
+            {
+                "name": "Chupe de mariscos",
+                "price": 3000
+            },
+            {
+                "name": "Tacos de langosta",
+                "price": 3500
+            },
+            {
+                "name": "Garbanzos sin piedad",
+                "price": 4500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Pollo grille",
+                "price": 2500
+            },
+            {
+                "name": "Cerdo con masas",
+                "price": 3000
+            },
+            {
+                "name": "Ropa vieja",
+                "price": 3000
+            },
+            {
+                "name": "Balas D' camaron",
+                "price": 3500
+            },
+            {
+                "name": "Lomo de cerdo",
+                "price": 4000
+            },
+            {
+                "name": "Langosta ganster",
+                "price": 4000
+            },
+            {
+                "name": "Pescado al limon",
+                "price": 3500
+            },
+            {
+                "name": "Filete a la douche",
+                "price": 5000
+            },
+            {
+                "name": "Puntaroja",
+                "price": 5000
+            },
+            {
+                "name": "Filete chateaubriand",
+                "price": 7000
+            },
+            {
+                "name": "Filete clandestino",
+                "price": 7000
+            },
+            {
+                "name": "Pulpo al gusto",
+                "price": 5000
+            },
+            {
+                "name": "Pollo trufa y parmesano",
+                "price": 5200
+            }
+        ],
+        "beef": [
+            {
+                "name": "Rissotto de res",
+                "price": 7000
+            },
+            {
+                "name": "Mignon",
+                "price": 7000
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Rissotto del mar",
+                "price": 7000
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Tarta de limon",
+                "price": 800
+            },
+            {
+                "name": "Cheesecake",
+                "price": 800
+            },
+            {
+                "name": "Casquitos de guayaba",
+                "price": 1000
+            },
+            {
+                "name": "Torrejas",
+                "price": 1000
+            },
+            {
+                "name": "Arroz con leche",
+                "price": 1000
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Pasta tres quesos",
+                "price": 3000
+            },
+            {
+                "name": "Pasta carbonara",
+                "price": 3000
+            },
+            {
+                "name": "Pasta Frutti di madre",
+                "price": 4500
+            },
+            {
+                "name": "Pasta al buey",
+                "price": 5000
+            },
+            {
+                "name": "Ceviche Muuh!",
+                "price": 2000
+            },
+            {
+                "name": "Vegetales We Trust",
+                "price": 2000
+            },
+            {
+                "name": "Tartar Fish",
+                "price": 2500
+            },
+            {
+                "name": "Sandwich Ley Seca",
+                "price": 2500
+            },
+            {
+                "name": "Carpaccio de pulpo",
+                "price": 3000
+            },
+            {
+                "name": "Carpaccio de res",
+                "price": 3000
+            },
+            {
+                "name": "Tabla D' tráfico",
+                "price": 6000
+            },
+            {
+                "name": "Un poquito D' To'",
+                "price": 9000
+            },
+            {
+                "name": "Rissotto fhungi",
+                "price": 7000
+            },
+            {
+                "name": "Arroz blackout",
+                "price": 7000
+            },
+            {
+                "name": "Surtido de la ruta",
+                "price": 11000
+            },
+            {
+                "name": "Jhonny Walker Red Label",
+                "price": 13000
+            },
+            {
+                "name": "Jhonny Walker Black Label",
+                "price": 20000
+            },
+            {
+                "name": "Jhonny Walker Double Black",
+                "price": 30000
+            },
+            {
+                "name": "Jhonny Walker Green Label",
+                "price": 50000
+            },
+            {
+                "name": "Jhonny Walker Gold Label",
+                "price": 60000
+            },
+            {
+                "name": "Jhonny Walker Blue Label",
+                "price": 250000
+            },
+            {
+                "name": "Buchanan 12 anos",
+                "price": 40000
+            },
+            {
+                "name": "Buchanan Máster",
+                "price": 70000
+            },
+            {
+                "name": "Buchanan 18 anos",
+                "price": 70000
+            },
+            {
+                "name": "Chivas Regal 12 anos",
+                "price": 18000
+            },
+            {
+                "name": "Chivas Regal 18 anos",
+                "price": 70000
+            },
+            {
+                "name": "Jack Daniel",
+                "price": 25000
+            },
+            {
+                "name": "HC Seleccion Maestros",
+                "price": 25000
+            },
+            {
+                "name": "HC Pacto Navio",
+                "price": 30000
+            },
+            {
+                "name": "Santiago 8 anos",
+                "price": 12000
+            },
+            {
+                "name": "Santiago 11 anos",
+                "price": 25000
+            },
+            {
+                "name": "Santiago 12 anos",
+                "price": 35000
+            },
+            {
+                "name": "HC 15 anos",
+                "price": 60000
+            },
+            {
+                "name": "Absolut",
+                "price": 12000
+            },
+            {
+                "name": "Ciroc Sabor",
+                "price": 30000
+            },
+            {
+                "name": "Ciroc Neutro",
+                "price": 25000
+            },
+            {
+                "name": "Grey Goose",
+                "price": 60000
+            },
+            {
+                "name": "Moet Imperial",
+                "price": 60000
+            },
+            {
+                "name": "Moet Ice",
+                "price": 70000
+            },
+            {
+                "name": "Moet Rose",
+                "price": 80000
+            },
+            {
+                "name": "Juegos de mesa",
+                "price": 2000
+            },
+            {
+                "name": "Hooka",
+                "price": 10000
+            }
+        ]
+    }
+}

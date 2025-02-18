@@ -1,0 +1,255 @@
+{
+    "name": "BarTropicana",
+    "type": [
+        "bar"
+    ],
+    "speciality": [
+        null
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "72A, Avenida 41",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": "7279147",
+        "email": null,
+        "website": "Cabaret-Tropicana.com",
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": "Aguas nacionales",
+            "price": 100
+        },
+        "others": [
+            {
+                "name": "Agua saborizada",
+                "price": 100
+            },
+            {
+                "name": "Agua Natural",
+                "price": 100
+            },
+            {
+                "name": "Refresco",
+                "price": 60
+            },
+            {
+                "name": "Jugos de frutas en conserva",
+                "price": 100
+            },
+            {
+                "name": "Jugos de frutas naturales",
+                "price": 100
+            },
+            {
+                "name": "Cervezas nacionales o importadas",
+                "price": 200
+            },
+            {
+                "name": "Cerveza Dispensada",
+                "price": 160
+            },
+            {
+                "name": "Copa de vino de la casa",
+                "price": 300
+            },
+            {
+                "name": "Havana Club 3 anos",
+                "price": 100
+            },
+            {
+                "name": "Especial Havana Club",
+                "price": 120
+            },
+            {
+                "name": "Havana Club 7 anos",
+                "price": 320
+            },
+            {
+                "name": "Havana Club Pacto Navio",
+                "price": 730
+            },
+            {
+                "name": "Havana club seleccion de maestros",
+                "price": 750
+            },
+            {
+                "name": "Aguardiente Gobernador",
+                "price": 14300
+            },
+            {
+                "name": "Chiva Regal 12 Anos",
+                "price": 995
+            },
+            {
+                "name": "Ballentinees finest",
+                "price": 500
+            },
+            {
+                "name": "J&B",
+                "price": 650
+            },
+            {
+                "name": "Johnnie Walker etiqueta roja",
+                "price": 550
+            },
+            {
+                "name": "Jameson",
+                "price": 650
+            },
+            {
+                "name": "VAT",
+                "price": 580
+            },
+            {
+                "name": "Tequila 3 sombreros",
+                "price": 300
+            },
+            {
+                "name": "Vodka Igor",
+                "price": 395
+            },
+            {
+                "name": "Brandy Napoleon",
+                "price": 190
+            },
+            {
+                "name": "Cremas y licores (Cacao)",
+                "price": 85
+            },
+            {
+                "name": "Cremas y licores (Cafe)",
+                "price": 85
+            },
+            {
+                "name": "Cremas y licores (Menta)",
+                "price": 85
+            },
+            {
+                "name": "Cremas y licores (Marrasquino)",
+                "price": 85
+            },
+            {
+                "name": "Cremas y licores (Triple sec)",
+                "price": 85
+            },
+            {
+                "name": "Cremas y licores (Curacao azul)",
+                "price": 85
+            },
+            {
+                "name": "Cremas y licores (Pina)",
+                "price": 85
+            },
+            {
+                "name": "Daiquiri Natural",
+                "price": 450
+            },
+            {
+                "name": "Daiquiri Frapeado Natural",
+                "price": 450
+            },
+            {
+                "name": "Cuba libre",
+                "price": 730
+            },
+            {
+                "name": "Cubata",
+                "price": 700
+            },
+            {
+                "name": "Daiquiri mulata",
+                "price": 620
+            },
+            {
+                "name": "Daiquiri Saborizado",
+                "price": 450
+            },
+            {
+                "name": "Gin cola",
+                "price": 750
+            },
+            {
+                "name": "Gin tonic",
+                "price": 785
+            },
+            {
+                "name": "Rom tonic",
+                "price": 550
+            },
+            {
+                "name": "Vodka cola",
+                "price": 600
+            },
+            {
+                "name": "Vodka tonica",
+                "price": 650
+            },
+            {
+                "name": "Whisky cola",
+                "price": 500
+            },
+            {
+                "name": "Tropicana special",
+                "price": 450
+            },
+            {
+                "name": "Cocteles Internacionales",
+                "price": 500
+            },
+            {
+                "name": "Canchanchara",
+                "price": 450
+            },
+            {
+                "name": "Pina colada",
+                "price": 450
+            }
+        ]
+    }
+}

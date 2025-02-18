@@ -1,0 +1,250 @@
+{
+    "name": "el chanchullero",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "comida criolla"
+    ],
+    "municipality": "Habana del Este",
+    "services": [
+        "delivery_areas"
+    ],
+    "address": "#162D entre calle 5G y calle 162, zona 6, alamar",
+    "qualification": 4.45,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": "el chanchullero de alamar bar&restaurant",
+        "instagram": "https://www.instagram.com/chanchullerobar.zona6/"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "chicharrita de platano macho",
+                "price": 250
+            },
+            {
+                "name": "toston relleno con cerdo",
+                "price": 375
+            },
+            {
+                "name": "fritura de malanga con miel",
+                "price": 375
+            },
+            {
+                "name": "ceviche de pulpo y pescado",
+                "price": 450
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "cerdo al perejil",
+                "price": 795
+            },
+            {
+                "name": "brochetas de cerdo",
+                "price": 795
+            },
+            {
+                "name": "bistec encebollado",
+                "price": 800
+            },
+            {
+                "name": "ropa vieja",
+                "price": 800
+            },
+            {
+                "name": "cerdo asado al horno",
+                "price": 795
+            },
+            {
+                "name": "pulpo al ajillo",
+                "price": 925
+            },
+            {
+                "name": "pescado chanchullero (castero)",
+                "price": 800
+            },
+            {
+                "name": "enchilado de langosta",
+                "price": 975
+            },
+            {
+                "name": "langosta a la plancha",
+                "price": 975
+            },
+            {
+                "name": "masas de cerdo",
+                "price": 800
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "flan al caramelo",
+                "price": 150
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "cafe expreso",
+                "price": 100
+            },
+            {
+                "name": "jugo de fruta natural",
+                "price": 140
+            },
+            {
+                "name": "catarro",
+                "price": 275
+            },
+            {
+                "name": "cuba libre",
+                "price": 275
+            },
+            {
+                "name": "mojito",
+                "price": 275
+            },
+            {
+                "name": "caipirisima",
+                "price": 275
+            },
+            {
+                "name": "ron coli",
+                "price": 275
+            },
+            {
+                "name": "cosita de esa",
+                "price": 275
+            },
+            {
+                "name": "caipiroska",
+                "price": 275
+            },
+            {
+                "name": "caipirina",
+                "price": 300
+            },
+            {
+                "name": "daiquiri",
+                "price": 300
+            },
+            {
+                "name": "pina colada",
+                "price": 300
+            },
+            {
+                "name": "vodka con naranja",
+                "price": 300
+            },
+            {
+                "name": "copa de vino",
+                "price": 300
+            },
+            {
+                "name": "agua natural",
+                "price": 130
+            },
+            {
+                "name": "agua gaseada",
+                "price": 180
+            },
+            {
+                "name": "refrescos importados",
+                "price": 240
+            },
+            {
+                "name": "refrescos nacionales",
+                "price": 200
+            },
+            {
+                "name": "cerveza importada",
+                "price": 275
+            },
+            {
+                "name": "red bull",
+                "price": 300
+            },
+            {
+                "name": "ron hc club especial",
+                "price": 325
+            },
+            {
+                "name": "chelada",
+                "price": 400
+            },
+            {
+                "name": "michelada",
+                "price": 450
+            },
+            {
+                "name": "botella de vino",
+                "price": 1200
+            },
+            {
+                "name": "vodka absolut",
+                "price": 525
+            },
+            {
+                "name": "whiskey black and white",
+                "price": 395
+            },
+            {
+                "name": "clan cambell",
+                "price": 425
+            },
+            {
+                "name": "jameson",
+                "price": 425
+            },
+            {
+                "name": "finest blended (speech)",
+                "price": 400
+            }
+        ],
+        "others": []
+    }
+}

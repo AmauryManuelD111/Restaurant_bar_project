@@ -1,0 +1,178 @@
+{
+    "name": "El Mexicano",
+    "type": [
+        "bar"
+    ],
+    "speciality": [
+        "pizzas",
+        "pastas"
+    ],
+    "municipality": "Guanabacoa",
+    "services": [
+        "A la carta"
+    ],
+    "address": "Avenida Quinta, La Habana, Cuba",
+    "qualification": 4.7,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            null
+        ],
+        "salads": [
+            null
+        ],
+        "vegetables": [
+            null
+        ],
+        "meats": [
+            null
+        ],
+        "beef": [
+            null
+        ],
+        "seafood": [
+            null
+        ],
+        "burgers": [
+            null
+        ],
+        "desserts": [
+            null
+        ],
+        "cocktails": [
+            null
+        ],
+        "twist_cocktails": [
+            null
+        ],
+        "classic_cocktails": [
+            null
+        ],
+        "tiki_cocktails": [
+            null
+        ],
+        "tiki_author_cocktails": [
+            null
+        ],
+        "drinks": {
+            "AlcoholicDrinks": [
+                {
+                    "name": "Cerveza",
+                    "price": 200
+                },
+                {
+                    "name": "Holandia",
+                    "price": 200
+                },
+                {
+                    "name": "Cristal Lata",
+                    "price": 250
+                },
+                {
+                    "name": "Cristal Botella",
+                    "price": 200
+                },
+                {
+                    "name": "Shaka",
+                    "price": 350
+                }
+            ],
+            "NonAlcoholic": [
+                {
+                    "name": "Tigon",
+                    "price": 300
+                },
+                {
+                    "name": "Malta 1 Hyper",
+                    "price": 270
+                },
+                {
+                    "name": "Pepsi",
+                    "price": 270
+                },
+                {
+                    "name": "Mirinda",
+                    "price": 280
+                },
+                {
+                    "name": "Perla negra",
+                    "price": 270
+                },
+                {
+                    "name": "Ironbeer",
+                    "price": 240
+                },
+                {
+                    "name": "Orange",
+                    "price": 220
+                },
+                {
+                    "name": "Cola Polo",
+                    "price": 220
+                },
+                {
+                    "name": "Limon",
+                    "price": 220
+                },
+                {
+                    "name": "Coca Cola",
+                    "price": 280
+                }
+            ]
+        },
+        "others": [
+            {
+                "name": "Sandwich de Jamon y Queso",
+                "price": 350
+            },
+            {
+                "name": "Sandwich de Queso Jamon Especial",
+                "price": 600
+            },
+            {
+                "name": "Pizza Queso Gouda",
+                "price": 450
+            },
+            {
+                "name": "Spaguetti Queso Gouda",
+                "price": 770
+            }
+        ]
+    }
+}

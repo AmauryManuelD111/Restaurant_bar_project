@@ -1,0 +1,181 @@
+{
+    "name": "Beirut",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Comida libanesa",
+        "de oriente medio"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "Efectivo",
+        "Transferencia",
+        "Reservas",
+        "Estacionamiento"
+    ],
+    "address": "Calle 1ra entre A y B, Vedado",
+    "qualification": 4.5,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "78315883",
+        "email": null,
+        "website": null,
+        "facebook": "URL de Facebook",
+        "instagram": "URL de Instagram"
+    },
+    "menu": {
+        "starters": [],
+        "salads": [
+            {
+                "name": "Fetuche",
+                "price": 1500
+            },
+            {
+                "name": "Ensalada mixta",
+                "price": 2000
+            },
+            {
+                "name": "Betabel",
+                "price": 2000
+            },
+            {
+                "name": "Ensalada Beirut",
+                "price": 2100
+            },
+            {
+                "name": "Tabule",
+                "price": 3000
+            }
+        ],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Shish Taouk",
+                "price": 2950
+            },
+            {
+                "name": "Kabab",
+                "price": 2900
+            },
+            {
+                "name": "Shish Taouk-Kabab",
+                "price": 2800
+            },
+            {
+                "name": "Shish Kabab",
+                "price": 2000
+            },
+            {
+                "name": "Tajin",
+                "price": 3500
+            },
+            {
+                "name": "Mixto Beirut",
+                "price": 3700
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Agua nacional",
+                "price": 175
+            },
+            {
+                "name": "Refrescos importados",
+                "price": 290
+            },
+            {
+                "name": "Maltas",
+                "price": 290
+            },
+            {
+                "name": "Cervezas",
+                "price": 390
+            },
+            {
+                "name": "Jugos naturales",
+                "price": 410
+            }
+        ],
+        "others": [
+            {
+                "name": "Expresso",
+                "price": 125
+            },
+            {
+                "name": "Capuccino",
+                "price": 300
+            },
+            {
+                "name": "Americano",
+                "price": 160
+            },
+            {
+                "name": "Cortado",
+                "price": 200
+            },
+            {
+                "name": "Te",
+                "price": 150
+            },
+            {
+                "name": "Shawarma de pollo",
+                "price": 1520
+            },
+            {
+                "name": "Shawarma arabe",
+                "price": 1520
+            },
+            {
+                "name": "Sandwich Falafel",
+                "price": 1420
+            },
+            {
+                "name": "Sandwich Shish Taouk",
+                "price": 1720
+            },
+            {
+                "name": "Sandwich Kabab",
+                "price": 1720
+            }
+        ]
+    }
+}

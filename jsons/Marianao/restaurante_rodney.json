@@ -1,0 +1,233 @@
+{
+    "name": "BarTropicana",
+    "type": [
+        "bar"
+    ],
+    "speciality": [
+        "Variada"
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "72A, Avenida 41",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": "7279147",
+        "email": null,
+        "website": "Cabaret-Tropicana.com",
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Picadera de la casa",
+                "price": 650
+            },
+            {
+                "name": "Entremes de embutido y queso",
+                "price": 400
+            },
+            {
+                "name": "Tacos mexicanos de pollo",
+                "price": 700
+            },
+            {
+                "name": "Tacos mexicanos de cerdo",
+                "price": 1400
+            },
+            {
+                "name": "Sopa del dia",
+                "price": 125
+            },
+            {
+                "name": "Croquetas",
+                "price": 250
+            },
+            {
+                "name": "Crema aurora",
+                "price": 350
+            },
+            {
+                "name": "Crema virginia",
+                "price": 480
+            },
+            {
+                "name": "Crema de calabaza con queso",
+                "price": 400
+            },
+            {
+                "name": "Eperlan de pescado",
+                "price": 600
+            },
+            {
+                "name": "Fajitas de pollo",
+                "price": 500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Lonjas de cerdo asada",
+                "price": 2000
+            },
+            {
+                "name": "Fricase de cerdo",
+                "price": 2300
+            },
+            {
+                "name": "Bistec de cerdo grille",
+                "price": 1800
+            },
+            {
+                "name": "Pollo asado",
+                "price": 850
+            },
+            {
+                "name": "Pollo frito",
+                "price": 900
+            },
+            {
+                "name": "Pollo deshuesado",
+                "price": 900
+            }
+        ],
+        "beef": [
+            {
+                "name": "Filete mignon",
+                "price": 3000
+            },
+            {
+                "name": "Steak de res",
+                "price": 1400
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Filete de pescado a la plancha",
+                "price": 1500
+            },
+            {
+                "name": "Filete de pescado gratinado con queso",
+                "price": 1750
+            },
+            {
+                "name": "Filete de pescado canciller",
+                "price": 2000
+            },
+            {
+                "name": "Langosta a la plancha",
+                "price": 1800
+            },
+            {
+                "name": "Langosta enchilada",
+                "price": 1900
+            },
+            {
+                "name": "Filete bacalao a la plancha",
+                "price": 250
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Hamburguer",
+                "price": null
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Pasta napolitana",
+                "price": 500
+            },
+            {
+                "name": "Pizza napolitana",
+                "price": 500
+            },
+            {
+                "name": "Pizza campesina",
+                "price": 1200
+            },
+            {
+                "name": "Pizza especial rodney (rellena con queso)",
+                "price": 800
+            },
+            {
+                "name": "Pizza especial rodney (rellena con embutido)",
+                "price": 900
+            },
+            {
+                "name": "Pizza super especial rodney (rellena con queso y varios embutidos)",
+                "price": 1200
+            },
+            {
+                "name": "Arroz Rodney",
+                "price": 780
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 120
+            },
+            {
+                "name": "Ensalada de vegetales",
+                "price": 120
+            },
+            {
+                "name": "Egg",
+                "price": null
+            },
+            {
+                "name": "Tortilla",
+                "price": null
+            },
+            {
+                "name": "Sandwich de un agrego",
+                "price": 230
+            },
+            {
+                "name": "Sandwich de dos agregos",
+                "price": 300
+            },
+            {
+                "name": "Bread",
+                "price": null
+            }
+        ]
+    }
+}

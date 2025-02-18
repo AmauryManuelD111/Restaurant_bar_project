@@ -1,0 +1,149 @@
+{
+    "name": "Adastra",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Criolla"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Payment type: Transferencia y Efectivo",
+        "infant stool",
+        "Smoking area"
+    ],
+    "address": "255 Obispo, La Habana",
+    "qualification": 4.9,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Tapas de Bodega",
+                "price": 7600
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Langosta Islena",
+                "price": 4800
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Cheesecake de Frutas",
+                "price": 1800
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "Mojito",
+                "price": 1000
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Coca Cola",
+                "price": 550
+            },
+            {
+                "name": "Jugo de Estacion",
+                "price": 500
+            }
+        ],
+        "others": [
+            {
+                "name": "Osobuco Trufado con Champignoses",
+                "price": 7500
+            },
+            {
+                "name": "Pasta Bellahabana",
+                "price": 4300
+            },
+            {
+                "name": "Langosta",
+                "price": 4500
+            },
+            {
+                "name": "Arroz Blanco",
+                "price": 700
+            },
+            {
+                "name": "Espresso",
+                "price": 450
+            },
+            {
+                "name": "Havana Club Especial",
+                "price": 900
+            },
+            {
+                "name": "Absolut",
+                "price": 1500
+            },
+            {
+                "name": "Napoleon",
+                "price": 450
+            },
+            {
+                "name": "El Silencio",
+                "price": 3200
+            },
+            {
+                "name": "Sambuca",
+                "price": 1500
+            },
+            {
+                "name": "J&B",
+                "price": 1600
+            },
+            {
+                "name": "Bombay Sapphire",
+                "price": 1800
+            }
+        ]
+    }
+}

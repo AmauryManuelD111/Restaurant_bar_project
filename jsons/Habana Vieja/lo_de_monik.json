@@ -1,0 +1,222 @@
+{
+    "name": "Lo de Monik",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario",
+        "Tiene bar"
+    ],
+    "address": "Compostela, esquina Chacon, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "52811595",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Yucas Bravas / Yucca With Hot Tacos Sauce",
+                "price": 600
+            },
+            {
+                "name": "Croquetas / Croquette",
+                "price": 560
+            },
+            {
+                "name": "Tamal en Cazuela",
+                "price": 1500
+            },
+            {
+                "name": "Tostones Rellenos de Jamon y Queso",
+                "price": 1100
+            },
+            {
+                "name": "Ropa Vieja",
+                "price": 1200
+            },
+            {
+                "name": "Cerdo",
+                "price": 1300
+            },
+            {
+                "name": "Frituras de Malanga",
+                "price": 600
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Pollo Grillado / Grilled Chicken",
+                "price": 1500
+            },
+            {
+                "name": "Masas de Cerdo / Pork Masses",
+                "price": 2800
+            }
+        ],
+        "beef": [
+            {
+                "name": "Punta de Filete a la Deutch",
+                "price": 3800
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Camaron Grillado / Grilled Shrimps",
+                "price": 3000
+            },
+            {
+                "name": "Pescado Empanado / Fish and Chips",
+                "price": 2500
+            },
+            {
+                "name": "Pescado Grillado / Grilled Fish",
+                "price": 2300
+            },
+            {
+                "name": "Pulpo Grillado / Grilled Octopus",
+                "price": 3800
+            },
+            {
+                "name": "Langosta / Lobster",
+                "price": 3000
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Postre de la Casa / House's Dessert",
+                "price": 600
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Pasta Napolitana",
+                "price": 1700
+            },
+            {
+                "name": "Pasta de Pollo con Salsa Alfredo",
+                "price": 2000
+            },
+            {
+                "name": "Pasta Frutti di Mare",
+                "price": 2300
+            },
+            {
+                "name": "Vegetales / Vegetables Tacos",
+                "price": 1200
+            },
+            {
+                "name": "Pollo / Chicken Tacos",
+                "price": 1500
+            },
+            {
+                "name": "Cerdo / Pork Tacos",
+                "price": 2200
+            },
+            {
+                "name": "Ropa Vieja / Shredded Beef Tacos",
+                "price": 2000
+            },
+            {
+                "name": "Camaron / Shrimps Tacos",
+                "price": 3000
+            },
+            {
+                "name": "Pescado / Fish Tacos",
+                "price": 2300
+            },
+            {
+                "name": "Punta de Filete / Beef Tacos",
+                "price": 3800
+            },
+            {
+                "name": "Langosta / Lobster Tacos",
+                "price": 2200
+            },
+            {
+                "name": "Pulpo / Octopus Tacos",
+                "price": 2500
+            },
+            {
+                "name": "Ropa Vieja / Shredded Beef",
+                "price": 2000
+            },
+            {
+                "name": "Ropa Vieja con Garbanzos / Shredded Beef With Chickpeas",
+                "price": 2400
+            },
+            {
+                "name": "Side Dish",
+                "price": 300
+            },
+            {
+                "name": "Huevos, Tostadas, Jamon, Vegetales, Jugo, Cafe",
+                "price": 1800
+            },
+            {
+                "name": "Sandwich de Vegetales",
+                "price": 850
+            },
+            {
+                "name": "Sandwich de Jamon y Queso",
+                "price": 1000
+            },
+            {
+                "name": "Sandwich de Pollo",
+                "price": 1500
+            },
+            {
+                "name": "Sandwich de Atun",
+                "price": 1000
+            },
+            {
+                "name": "Sandwich Cubano",
+                "price": 2000
+            }
+        ]
+    }
+}

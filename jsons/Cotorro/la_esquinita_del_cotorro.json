@@ -1,0 +1,122 @@
+{
+    "name": "la esquinita del cotorro",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "rapida"
+    ],
+    "municipality": "Cotorro",
+    "services": [],
+    "address": "Avenida 71",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "20:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": "Facebook",
+        "instagram": "Instagram"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "tostones",
+                "price": 200
+            },
+            {
+                "name": "tortilla natural",
+                "price": 220
+            },
+            {
+                "name": "tortilla de queso blanco",
+                "price": 280
+            },
+            {
+                "name": "tortilla de jamon",
+                "price": 320
+            },
+            {
+                "name": "tortilla de chorizo",
+                "price": 320
+            },
+            {
+                "name": "tortilla mixta",
+                "price": 410
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "hamburguesa simple",
+                "price": 250
+            },
+            {
+                "name": "hamburguesa doble",
+                "price": 380
+            },
+            {
+                "name": "hamburguesa esquinita",
+                "price": 480
+            },
+            {
+                "name": "hamburguesa esquinita plus",
+                "price": 580
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "pan con jamon",
+                "price": 240
+            },
+            {
+                "name": "pan con jamon y chorizo",
+                "price": 270
+            },
+            {
+                "name": "pan con chorizo",
+                "price": 160
+            }
+        ]
+    }
+}

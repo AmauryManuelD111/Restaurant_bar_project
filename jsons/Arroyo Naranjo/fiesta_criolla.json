@@ -1,0 +1,235 @@
+{
+    "name": "fiesta criolla",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Arroyo Naranjo",
+    "services": [
+        "Parking",
+        "Cash National",
+        "Power Generator"
+    ],
+    "address": "calle 100 #1003 (despues del puente de calabazar), arroyo naranjo",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": "52413555",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "toston criollo",
+                "price": 500
+            },
+            {
+                "name": "toston relleno con jamon y queso",
+                "price": 600
+            },
+            {
+                "name": "toston relleno con atun",
+                "price": 700
+            },
+            {
+                "name": "eperlan",
+                "price": 1300
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 1300
+            },
+            {
+                "name": "caldo de mariscos",
+                "price": 1000
+            },
+            {
+                "name": "camaron rebozado",
+                "price": 2000
+            },
+            {
+                "name": "tamal en hojas",
+                "price": 90
+            },
+            {
+                "name": "fritura de malanga",
+                "price": 500
+            },
+            {
+                "name": "platano frito",
+                "price": 350
+            },
+            {
+                "name": "alitas de pollo",
+                "price": 850
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "pollo asado",
+                "price": 1150
+            },
+            {
+                "name": "pechuga grille",
+                "price": 1450
+            },
+            {
+                "name": "pechuga gratinada jamon y queso",
+                "price": 1600
+            },
+            {
+                "name": "chuleta",
+                "price": 1350
+            },
+            {
+                "name": "pechuga salteada con vegetales",
+                "price": 1550
+            },
+            {
+                "name": "lomo ahumado",
+                "price": 1350
+            },
+            {
+                "name": "lomo deshuesado ahumado",
+                "price": 1550
+            },
+            {
+                "name": "costillas fritas",
+                "price": 1400
+            },
+            {
+                "name": "masa frita",
+                "price": 1550
+            },
+            {
+                "name": "bistec grille",
+                "price": 1450
+            },
+            {
+                "name": "bistec gratinado de jamon y queso",
+                "price": 1600
+            },
+            {
+                "name": "ropa vieja",
+                "price": 1500
+            },
+            {
+                "name": "suprema carnero",
+                "price": 1800
+            },
+            {
+                "name": "fricase de carnero",
+                "price": 1500
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "camaron grille",
+                "price": 1900
+            },
+            {
+                "name": "langosta grille",
+                "price": 1900
+            },
+            {
+                "name": "pulpo grille",
+                "price": 2000
+            },
+            {
+                "name": "pescado grille",
+                "price": 1300
+            },
+            {
+                "name": "rueda pescado grille",
+                "price": 1300
+            },
+            {
+                "name": "pescado grille gratinado con jamon y queso",
+                "price": 1450
+            },
+            {
+                "name": "don pedro",
+                "price": 2300
+            },
+            {
+                "name": "masa de cangrejo",
+                "price": 1050
+            },
+            {
+                "name": "caldero de mariscos",
+                "price": 3500
+            },
+            {
+                "name": "mar y tierra",
+                "price": 3950
+            },
+            {
+                "name": "paella",
+                "price": 2300
+            },
+            {
+                "name": "mariscada",
+                "price": 2500
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "dulce tres leches",
+                "price": 350
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "others": [
+            {
+                "name": "spaguetis napolitanos",
+                "price": 1000
+            },
+            {
+                "name": "spaguetis con jamon y queso",
+                "price": 1250
+            }
+        ]
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "name": "La Hamburguesita",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "hamburgers",
+        "sandwiches"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "cash_national",
+        "digital_transfer_national",
+        "dine_in",
+        "takeaway"
+    ],
+    "address": "Calle Cienfuegos entre Apodaca y Gloria, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/hamburguesitala?igsh=MTRob3FmdGF5bGlvYg=="
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas",
+                "price": 350
+            },
+            {
+                "name": "Frituras de malanga",
+                "price": 350
+            },
+            {
+                "name": "T ostones hawaianos",
+                "price": 400
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "Clasica",
+                "price": 550
+            },
+            {
+                "name": "Hawaiana",
+                "price": 650
+            },
+            {
+                "name": "Casa blanca",
+                "price": 700
+            },
+            {
+                "name": "Submarino",
+                "price": 670
+            },
+            {
+                "name": "Belleza habanera",
+                "price": 700
+            },
+            {
+                "name": "Locura cienfueguera",
+                "price": 800
+            },
+            {
+                "name": "Biplanta",
+                "price": 850
+            },
+            {
+                "name": "Cubana",
+                "price": 950
+            },
+            {
+                "name": "Milanesa",
+                "price": 950
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Jugos naturales",
+                "price": 150
+            },
+            {
+                "name": "Batidos de frutas",
+                "price": 200
+            },
+            {
+                "name": "Limonada frape",
+                "price": 200
+            },
+            {
+                "name": "Malteada",
+                "price": 350
+            },
+            {
+                "name": "Malta",
+                "price": 280
+            },
+            {
+                "name": "Refresco nacional",
+                "price": 250
+            },
+            {
+                "name": "Refresco importado",
+                "price": 280
+            },
+            {
+                "name": "Cervezas nacionales",
+                "price": 280
+            },
+            {
+                "name": "Cervezas importadas",
+                "price": 250
+            },
+            {
+                "name": "Energizante",
+                "price": 280
+            },
+            {
+                "name": "Agua natural",
+                "price": 150
+            },
+            {
+                "name": "Cafe expreso",
+                "price": 100
+            },
+            {
+                "name": "Cafe bombom",
+                "price": 150
+            }
+        ],
+        "others": [
+            {
+                "name": "Pollo",
+                "price": 450
+            },
+            {
+                "name": "Jamon",
+                "price": 400
+            },
+            {
+                "name": "Queso",
+                "price": 400
+            },
+            {
+                "name": "Jamon y queso",
+                "price": 500
+            },
+            {
+                "name": "Atun",
+                "price": 750
+            },
+            {
+                "name": "Cubano",
+                "price": 750
+            }
+        ]
+    }
+}

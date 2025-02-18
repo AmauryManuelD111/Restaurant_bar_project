@@ -1,0 +1,180 @@
+{
+    "name": "Divino",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Cocina mixta"
+    ],
+    "municipality": "Arroyo Naranjo",
+    "services": [
+        "Reservations",
+        "Parking"
+    ],
+    "address": "#50, Calle Raquel entre Esperanza y Lindero, Mantilla",
+    "qualification": 4.45,
+    "hours": {
+        "monday": {
+            "open": null,
+            "close": null
+        },
+        "tuesday": {
+            "open": null,
+            "close": null
+        },
+        "wednesday": {
+            "open": null,
+            "close": null
+        },
+        "thursday": {
+            "open": null,
+            "close": null
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": "76437734",
+        "email": "cubarestaurantedivino@gmail.com",
+        "website": "www.cubarestaurantedivino.com",
+        "facebook": "Divino",
+        "instagram": "@restaurantedivino_official"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Crema de vegetales",
+                "price": 450
+            },
+            {
+                "name": "Coctel de mariscos",
+                "price": 1700
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 1200
+            },
+            {
+                "name": "Tostones rellenos mixtos",
+                "price": 1500
+            },
+            {
+                "name": "Canapes agridulces de jamon y queso con pina",
+                "price": 1200
+            },
+            {
+                "name": "Pulpo sobre boniato a lass brasas y salsa de pimiento",
+                "price": 2500
+            },
+            {
+                "name": "Surtido Divino",
+                "price": 1800
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Pollo a la Campesina",
+                "price": 1800
+            },
+            {
+                "name": "Cerdo ahumado al mangle rojo",
+                "price": 2880
+            },
+            {
+                "name": "Langosta marinera",
+                "price": 3000
+            },
+            {
+                "name": "Pinchos de camaron aromatizados con aceite de trufa",
+                "price": 3200
+            },
+            {
+                "name": "Suprema de pollo a la mostaza",
+                "price": 1950
+            },
+            {
+                "name": "Pulpo a la gallega",
+                "price": 4500
+            },
+            {
+                "name": "Reino del Mar",
+                "price": 9500
+            },
+            {
+                "name": "Arroz a la cubana",
+                "price": 1500
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Cerveza importada",
+                "price": 350
+            },
+            {
+                "name": "Cerveza nacional",
+                "price": 500
+            },
+            {
+                "name": "Cubetazo",
+                "price": 3000
+            },
+            {
+                "name": "Refresco",
+                "price": 400
+            },
+            {
+                "name": "Agua natural",
+                "price": 200
+            },
+            {
+                "name": "Jugo natural",
+                "price": 250
+            },
+            {
+                "name": "Batido de helado",
+                "price": 700
+            },
+            {
+                "name": "Copa de vino tinto",
+                "price": 700
+            },
+            {
+                "name": "Cafe Expresso",
+                "price": 250
+            },
+            {
+                "name": "Cafe Tradicional",
+                "price": 150
+            },
+            {
+                "name": "Cafe Cortado",
+                "price": 250
+            },
+            {
+                "name": "Cerveza artesanal",
+                "price": 600
+            }
+        ]
+    }
+}

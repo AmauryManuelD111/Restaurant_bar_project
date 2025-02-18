@@ -1,0 +1,139 @@
+{
+    "name": "lkg",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        null
+    ],
+    "municipality": "La Lisa",
+    "services": [
+        null
+    ],
+    "address": null,
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "01:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "01:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "espresso",
+                "price": 20
+            },
+            {
+                "name": "agua mineral",
+                "price": 150
+            },
+            {
+                "name": "cerveza",
+                "price": 250
+            },
+            {
+                "name": "refresco importado",
+                "price": 230
+            },
+            {
+                "name": "batidos de frutas",
+                "price": 235
+            }
+        ],
+        "others": [
+            {
+                "name": "bistec",
+                "price": 900
+            },
+            {
+                "name": "fricase",
+                "price": 900
+            },
+            {
+                "name": "pollo",
+                "price": 1200
+            },
+            {
+                "name": "cangrejo",
+                "price": 550
+            },
+            {
+                "name": "arroz frito",
+                "price": 600
+            },
+            {
+                "name": "langosta",
+                "price": 1400
+            },
+            {
+                "name": "rueda pescado",
+                "price": 950
+            },
+            {
+                "name": "pescado entero",
+                "price": 950
+            },
+            {
+                "name": "pizza de jamon",
+                "price": 300
+            },
+            {
+                "name": "pizza de queso",
+                "price": 200
+            },
+            {
+                "name": "pizza de doble queso",
+                "price": 250
+            },
+            {
+                "name": "pizza de queso gouda",
+                "price": 250
+            }
+        ]
+    }
+}

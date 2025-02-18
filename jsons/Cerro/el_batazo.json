@@ -1,0 +1,131 @@
+{
+    "name": "el batazo",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "Pizzeria"
+    ],
+    "municipality": "Cerro",
+    "services": [
+        "cash_national",
+        "usd",
+        "mlc",
+        "zelle"
+    ],
+    "address": "Primelles 356 entre Santa Teresa y Daois",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": null,
+            "close": null
+        }
+    },
+    "contact": {
+        "phone": "58050408",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "Hamburguesa strike",
+                "price": 550
+            },
+            {
+                "name": "Hamburguesa doble play",
+                "price": 1000
+            },
+            {
+                "name": "Hamburguesa homerun",
+                "price": 1300
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Pizza de queso",
+                "price": 750
+            },
+            {
+                "name": "Pizza de chorizo",
+                "price": 930
+            },
+            {
+                "name": "Pizza de jamon",
+                "price": 930
+            },
+            {
+                "name": "Pizza de hawaiana",
+                "price": 1130
+            },
+            {
+                "name": "Pizza de cebolla",
+                "price": 950
+            },
+            {
+                "name": "Pizza de aji",
+                "price": 950
+            },
+            {
+                "name": "Pizza de atun",
+                "price": 1250
+            },
+            {
+                "name": "Pizza de aceitunas",
+                "price": 950
+            },
+            {
+                "name": "Pizza de peperoni",
+                "price": 1050
+            },
+            {
+                "name": "Espaguetis",
+                "price": 600
+            },
+            {
+                "name": "Espaguetis de jamon",
+                "price": 780
+            }
+        ]
+    }
+}

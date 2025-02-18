@@ -1,0 +1,111 @@
+{
+    "name": "la baliza",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "La Lisa",
+    "services": [],
+    "address": null,
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "batido de mamey",
+                "price": 230
+            },
+            {
+                "name": "refresco importado",
+                "price": 230
+            },
+            {
+                "name": "agua mineral natural",
+                "price": 150
+            },
+            {
+                "name": "cerveza importada",
+                "price": 250
+            }
+        ],
+        "others": [
+            {
+                "name": "sandwich de jamon y queso",
+                "price": 500
+            },
+            {
+                "name": "hamburguesa",
+                "price": 490
+            },
+            {
+                "name": "super hamburguesa",
+                "price": 950
+            },
+            {
+                "name": "pizza con queso gouda (small)",
+                "price": 450
+            },
+            {
+                "name": "pizza con queso gouda (large)",
+                "price": 700
+            },
+            {
+                "name": "pizza de queso blanco (small)",
+                "price": 350
+            },
+            {
+                "name": "pizza de queso blanco (large)",
+                "price": 520
+            }
+        ]
+    }
+}

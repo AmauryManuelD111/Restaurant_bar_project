@@ -1,0 +1,117 @@
+{
+    "name": "Hamburgo",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "americana"
+    ],
+    "municipality": "Centro Habana",
+    "services": [
+        "child_care",
+        "disable_support",
+        "parking"
+    ],
+    "address": "Null",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "19:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "19:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "Null",
+        "website": "Null",
+        "facebook": "Null",
+        "instagram": "Null"
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "hamburguesa de cerdo (220g)",
+                "price": 275
+            },
+            {
+                "name": "hamburguesa de res (220g)",
+                "price": 275
+            },
+            {
+                "name": "hamburguesa vegetal con aderezos (235g)",
+                "price": 300
+            },
+            {
+                "name": "super hamburguesa (435g)",
+                "price": 550
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": null,
+        "others": [
+            {
+                "name": "queso gouda (50g)",
+                "price": 150
+            },
+            {
+                "name": "jamon bravo (50g)",
+                "price": 120
+            },
+            {
+                "name": "jamon serrano (50g)",
+                "price": 250
+            },
+            {
+                "name": "aceitunas (50g)",
+                "price": 120
+            },
+            {
+                "name": "vegetales encurtidos (50g)",
+                "price": 80
+            },
+            {
+                "name": "papas fritas (50g)",
+                "price": 75
+            },
+            {
+                "name": "papas fritas (100g)",
+                "price": 150
+            }
+        ]
+    }
+}

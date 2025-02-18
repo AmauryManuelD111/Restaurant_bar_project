@@ -1,0 +1,176 @@
+{
+    "name": "LaYaya",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Variada"
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "100 Y 51",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": "52016522",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Superpicadera",
+                "price": 2500
+            },
+            {
+                "name": "Tostones rellenos",
+                "price": 600
+            },
+            {
+                "name": "Frituras de malanga",
+                "price": 500
+            },
+            {
+                "name": "Papas fritas",
+                "price": 500
+            },
+            {
+                "name": "Croquetas",
+                "price": 600
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "Hamburguesa",
+                "price": 400
+            },
+            {
+                "name": "Hamburguesa yuya",
+                "price": 900
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Helados gusto",
+                "price": 1000
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Refrescos Importados",
+                "price": 250
+            },
+            {
+                "name": "Cervezas importadas",
+                "price": 250
+            },
+            {
+                "name": "Jugo de lata",
+                "price": 280
+            },
+            {
+                "name": "Jugos caja",
+                "price": 650
+            },
+            {
+                "name": "Malta Santa Isabel",
+                "price": 280
+            },
+            {
+                "name": "Cerveza Cubelazo",
+                "price": 2700
+            },
+            {
+                "name": "Termo de cerveza",
+                "price": 2000
+            }
+        ],
+        "others": [
+            {
+                "name": "Spaguettis con queso gouda",
+                "price": 700
+            },
+            {
+                "name": "Spaguettis doble queso",
+                "price": 1000
+            },
+            {
+                "name": "Pizza napolitana",
+                "price": 1000
+            },
+            {
+                "name": "Pizza doble queso",
+                "price": 1300
+            },
+            {
+                "name": "Pizza de jamon",
+                "price": 1350
+            },
+            {
+                "name": "Fajitas de pollo con papa",
+                "price": 900
+            },
+            {
+                "name": "Pan con jamon",
+                "price": 350
+            },
+            {
+                "name": "Pan con perro",
+                "price": 280
+            },
+            {
+                "name": "Jamon",
+                "price": 260
+            },
+            {
+                "name": "Queso",
+                "price": 260
+            },
+            {
+                "name": "Salami",
+                "price": 200
+            }
+        ]
+    }
+}

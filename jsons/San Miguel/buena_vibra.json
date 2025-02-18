@@ -1,0 +1,131 @@
+{
+    "name": "buena vibra",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "criolla"
+    ],
+    "municipality": "San Miguel del Padron",
+    "services": [],
+    "address": "Null",
+    "qualification": 4.5,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "Null",
+        "website": "Null",
+        "facebook": "Null",
+        "instagram": "Null"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "croquetas",
+                "price": 400
+            },
+            {
+                "name": "fritura de malanga",
+                "price": 400
+            },
+            {
+                "name": "vianda frita",
+                "price": 300
+            },
+            {
+                "name": "tostones tradicionales",
+                "price": 300
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "bistec de pollo",
+                "price": 850
+            },
+            {
+                "name": "bistec de pollo empanado",
+                "price": 900
+            },
+            {
+                "name": "higado de cerdo",
+                "price": 800
+            },
+            {
+                "name": "lomo ahumado",
+                "price": 900
+            },
+            {
+                "name": "bistec de cerdo",
+                "price": 900
+            },
+            {
+                "name": "pechuga de pollo",
+                "price": 900
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "hamburguesa de pollo",
+                "price": 300
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "tequila reposado",
+                "price": 300
+            },
+            {
+                "name": "licor crema",
+                "price": 200
+            },
+            {
+                "name": "pina colada",
+                "price": 300
+            }
+        ],
+        "others": []
+    }
+}

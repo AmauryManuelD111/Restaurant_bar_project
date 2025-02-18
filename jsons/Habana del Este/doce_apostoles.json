@@ -1,0 +1,180 @@
+{
+    "name": "LosDoceApostoles",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "Criolla"
+    ],
+    "municipality": "Habana del Este",
+    "services": [
+        "Reservations",
+        "Parking",
+        "SmokingArea",
+        "PaymentMethod"
+    ],
+    "address": "Complejo Morro Cabana, Via Monumental",
+    "qualification": 3.6,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": "77937733",
+        "email": null,
+        "website": null,
+        "facebook": "Restaurante Doce Apostoles (Facebook)",
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Entremes de jamon y queso",
+                "price": 400
+            },
+            {
+                "name": "Eperlan de pescado",
+                "price": 550
+            },
+            {
+                "name": "Anillas de calamar",
+                "price": 550
+            },
+            {
+                "name": "Alitas de pollo",
+                "price": 450
+            },
+            {
+                "name": "Nuggets de pollo",
+                "price": 250
+            },
+            {
+                "name": "Picadera especial",
+                "price": 600
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Pollo grille",
+                "price": 700
+            },
+            {
+                "name": "Fajitas de res",
+                "price": 950
+            },
+            {
+                "name": "Steak de res",
+                "price": 950
+            },
+            {
+                "name": "Fajitas de cerdo",
+                "price": 800
+            },
+            {
+                "name": "Masas de cerdo",
+                "price": 900
+            },
+            {
+                "name": "Filete de pescado",
+                "price": 900
+            },
+            {
+                "name": "Pescado del Chef",
+                "price": 1100
+            },
+            {
+                "name": "Gambas al grill",
+                "price": 1200
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Cerveza dispensada",
+                "price": 190
+            },
+            {
+                "name": "Cerveza importada",
+                "price": 220
+            },
+            {
+                "name": "Cerveza nacional",
+                "price": 215
+            },
+            {
+                "name": "Maltas",
+                "price": 210
+            },
+            {
+                "name": "Maltina Perla Negra",
+                "price": 180
+            },
+            {
+                "name": "Jugo natural en caja",
+                "price": 300
+            },
+            {
+                "name": "Refrescos nacionales",
+                "price": 280
+            },
+            {
+                "name": "Vino tinto (copa)",
+                "price": 200
+            },
+            {
+                "name": "Ron Habana Club Anejo Blanco (shot)",
+                "price": 80
+            },
+            {
+                "name": "Ron Habana Club profundo (shot)",
+                "price": 160
+            },
+            {
+                "name": "Ron Habana Club Selección de Maestro (shot)",
+                "price": 350
+            },
+            {
+                "name": "Ron Cubay carta blanca (shot)",
+                "price": 100
+            }
+        ],
+        "others": []
+    }
+}

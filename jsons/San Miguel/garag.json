@@ -1,0 +1,264 @@
+{
+    "name": "GaraG",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "Comida Mixta"
+    ],
+    "municipality": "San Miguel del Padron",
+    "services": [
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "C. Guanabacoa #1214 % B y C, Los Angeles",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "picadera_garag",
+                "price": 3500
+            },
+            {
+                "name": "toston_alfredo",
+                "price": 750
+            },
+            {
+                "name": "eperlan",
+                "price": 1650
+            },
+            {
+                "name": "fajitas_de_pollo",
+                "price": 1225
+            },
+            {
+                "name": "fajitas_de_cerdo",
+                "price": 1550
+            },
+            {
+                "name": "croquetas_de_mima",
+                "price": 750
+            },
+            {
+                "name": "ceviche",
+                "price": 900
+            },
+            {
+                "name": "tacos_de_carnita",
+                "price": 1205
+            },
+            {
+                "name": "tacos_marinesos",
+                "price": 1295
+            },
+            {
+                "name": "ensalada_fria",
+                "price": 750
+            },
+            {
+                "name": "coctel_de_camaron",
+                "price": 1250
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [
+            {
+                "name": "aporreado_de_res",
+                "price": 1950
+            },
+            {
+                "name": "ropa_vieja",
+                "price": 1930
+            }
+        ],
+        "seafood": [
+            {
+                "name": "filete_de_pescado_grille",
+                "price": 1920
+            },
+            {
+                "name": "filete_de_pescado_empanado",
+                "price": 1980
+            },
+            {
+                "name": "filete_de_pescado_garag",
+                "price": 2225
+            },
+            {
+                "name": "canciller",
+                "price": 2150
+            },
+            {
+                "name": "filete_alfredo",
+                "price": 2150
+            },
+            {
+                "name": "masas_de_pescado_al_ajito",
+                "price": 1920
+            },
+            {
+                "name": "pargo_frito",
+                "price": 2150
+            },
+            {
+                "name": "camaron_al_ajillo",
+                "price": 2300
+            },
+            {
+                "name": "camaron_grille",
+                "price": 2105
+            },
+            {
+                "name": "camaron_enchilado",
+                "price": 2230
+            },
+            {
+                "name": "camaron_empanado",
+                "price": 2290
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "copa_de_helado",
+                "price": 400
+            },
+            {
+                "name": "copa_lolita",
+                "price": 650
+            },
+            {
+                "name": "cake_a_la_moda",
+                "price": 850
+            },
+            {
+                "name": "batido_de_helado",
+                "price": 750
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "napoles_pasta",
+                "price": 930
+            },
+            {
+                "name": "napoles_pizza",
+                "price": 930
+            },
+            {
+                "name": "anti_hawaiana",
+                "price": 1555
+            },
+            {
+                "name": "lechocita",
+                "price": 1595
+            },
+            {
+                "name": "5_quesos",
+                "price": 1650
+            },
+            {
+                "name": "pollo_frito",
+                "price": 1350
+            },
+            {
+                "name": "bistec_de_pollo_grille",
+                "price": 1350
+            },
+            {
+                "name": "pollo_empanado",
+                "price": 1450
+            },
+            {
+                "name": "cordon_blue",
+                "price": 1925
+            },
+            {
+                "name": "bistec_de_cerdo_encebollado",
+                "price": 1950
+            },
+            {
+                "name": "cerdo_grille",
+                "price": 1700
+            },
+            {
+                "name": "cerdo_empanado",
+                "price": 1750
+            },
+            {
+                "name": "cerdo_uruguayo",
+                "price": 1955
+            },
+            {
+                "name": "masa_de_cerdo_frita",
+                "price": 2200
+            },
+            {
+                "name": "cerdo_asado",
+                "price": 2150
+            },
+            {
+                "name": "arroz_frito_especial",
+                "price": 1350
+            },
+            {
+                "name": "arroz_frito",
+                "price": 1200
+            },
+            {
+                "name": "ensalada_estacion",
+                "price": 350
+            },
+            {
+                "name": "vegetal_salteado",
+                "price": 350
+            }
+        ]
+    }
+}

@@ -1,0 +1,414 @@
+{
+    "name": "DonaCotolin",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "Cuban",
+        "Cocktails"
+    ],
+    "municipality": "Habana del Este",
+    "services": [
+        "Reservations",
+        "Delivery_areas",
+        "Payment_methods",
+        "Cash_national",
+        "Digital_transfer_national",
+        "Parking"
+    ],
+    "address": "Calle 482 entre 5ta Avenida y 5ta D, Guanabo",
+    "qualification": 3.8,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": "77991347",
+        "email": null,
+        "website": null,
+        "facebook": "https://www.facebook.com/Comida-criolla-y-cubana-todo-al-carbon-Dona-Cotolin",
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Eperlan de pescado",
+                "price": 800
+            },
+            {
+                "name": "Fajitas de pollo",
+                "price": 800
+            },
+            {
+                "name": "Frituras de malanga",
+                "price": 500
+            },
+            {
+                "name": "Tamal en cazuela",
+                "price": 550
+            },
+            {
+                "name": "Tostones rellenos",
+                "price": 550
+            },
+            {
+                "name": "Garbanzos fritos",
+                "price": 950
+            },
+            {
+                "name": "Lasagna de pollo",
+                "price": 650
+            },
+            {
+                "name": "Mas que taco, es un burrito",
+                "price": 600
+            },
+            {
+                "name": "Ensalada fria",
+                "price": 500
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 250
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Chuleta de cerdo al carbon",
+                "price": 1850
+            },
+            {
+                "name": "Costillas de cerdo al carbon",
+                "price": 1850
+            },
+            {
+                "name": "Masas de cerdo a la brasa",
+                "price": 1800
+            },
+            {
+                "name": "Lonjas de cerdo asado",
+                "price": 2500
+            },
+            {
+                "name": "Tabla de la Dona",
+                "price": 3000
+            },
+            {
+                "name": "Brochetas de cerdo al carbon",
+                "price": 1500
+            },
+            {
+                "name": "Pollo asado al carbon",
+                "price": 1750
+            },
+            {
+                "name": "Pollo asado a la pina",
+                "price": 1850
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Camaron rebosado",
+                "price": 1850
+            },
+            {
+                "name": "Enchilado de camaron",
+                "price": 1900
+            },
+            {
+                "name": "Camaron al ajillo",
+                "price": 1850
+            },
+            {
+                "name": "Camaron Hawaiano",
+                "price": 2500
+            },
+            {
+                "name": "Echilado de langosta",
+                "price": 1950
+            },
+            {
+                "name": "Langosta a la plancha",
+                "price": 1900
+            },
+            {
+                "name": "Langosta Hawaiana",
+                "price": 2500
+            },
+            {
+                "name": "Pescado frito entero",
+                "price": 1500
+            },
+            {
+                "name": "Pescado al jugo",
+                "price": 1850
+            },
+            {
+                "name": "Caldereta de mariscos",
+                "price": 3000
+            },
+            {
+                "name": "Paella Mar y Tierra",
+                "price": 3000
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Helados con galletas",
+                "price": 500
+            },
+            {
+                "name": "Coco glase",
+                "price": 650
+            },
+            {
+                "name": "Arroz con leche",
+                "price": 400
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Refresco de lata",
+                "price": 250
+            },
+            {
+                "name": "Refresco de pomitos",
+                "price": 200
+            },
+            {
+                "name": "Maltas",
+                "price": 270
+            },
+            {
+                "name": "Jugos naturales",
+                "price": 250
+            },
+            {
+                "name": "Agua natural",
+                "price": 150
+            },
+            {
+                "name": "Agua tonica",
+                "price": 300
+            },
+            {
+                "name": "Energizantes",
+                "price": 300
+            },
+            {
+                "name": "Screwdriver",
+                "price": 450
+            },
+            {
+                "name": "Limonada Frappe",
+                "price": 450
+            },
+            {
+                "name": "Limonada Presidente",
+                "price": 500
+            },
+            {
+                "name": "Cuba Libre",
+                "price": 400
+            },
+            {
+                "name": "Daiquiri Frappe",
+                "price": 400
+            },
+            {
+                "name": "Mojito",
+                "price": 400
+            },
+            {
+                "name": "Gin Tonic",
+                "price": 550
+            },
+            {
+                "name": "Caipiroska",
+                "price": 450
+            },
+            {
+                "name": "Caipirissima",
+                "price": 450
+            },
+            {
+                "name": "Sangria",
+                "price": 500
+            },
+            {
+                "name": "Pina Colada",
+                "price": 500
+            },
+            {
+                "name": "Canchanchara",
+                "price": 400
+            },
+            {
+                "name": "Margarita",
+                "price": 450
+            },
+            {
+                "name": "Margarita de frutas",
+                "price": 450
+            },
+            {
+                "name": "Chelada",
+                "price": 150
+            },
+            {
+                "name": "Michelada",
+                "price": 250
+            },
+            {
+                "name": "Trago de Havana Club 3 anos",
+                "price": 200
+            },
+            {
+                "name": "Trago de Havana Club Especial",
+                "price": 200
+            },
+            {
+                "name": "Trago de Havana Club 7 anos",
+                "price": 250
+            },
+            {
+                "name": "Trago de Santiago Anejo 8 anos",
+                "price": 300
+            },
+            {
+                "name": "Trago de Vodka Roskof",
+                "price": 280
+            },
+            {
+                "name": "Trago de Old Partner",
+                "price": 350
+            },
+            {
+                "name": "Trago de JW Red Label",
+                "price": 450
+            },
+            {
+                "name": "Trago de JW Black Label",
+                "price": 650
+            },
+            {
+                "name": "Trago de Jameson",
+                "price": 350
+            },
+            {
+                "name": "Trago de Ballantine's",
+                "price": 350
+            },
+            {
+                "name": "Trago de Black & White",
+                "price": 650
+            },
+            {
+                "name": "Trago de Baileys",
+                "price": 530
+            },
+            {
+                "name": "Trago de Jaggermeifter",
+                "price": 450
+            },
+            {
+                "name": "Trago de Olmeca Blanco",
+                "price": 300
+            },
+            {
+                "name": "Trago de Olmeca Reposado",
+                "price": 320
+            },
+            {
+                "name": "Trago de tequila",
+                "price": 350
+            },
+            {
+                "name": "Trago de Jose Cuervo",
+                "price": 700
+            },
+            {
+                "name": "Trago de Rua Vieja",
+                "price": 300
+            },
+            {
+                "name": "Trago de vino blanco",
+                "price": 400
+            },
+            {
+                "name": "Trago de Vino tinto",
+                "price": 450
+            },
+            {
+                "name": "Cerveza Cristal",
+                "price": 350
+            },
+            {
+                "name": "Cerveza Bucanero",
+                "price": 350
+            },
+            {
+                "name": "Cerveza importada",
+                "price": 230
+            },
+            {
+                "name": "Cerveza Corona",
+                "price": 550
+            }
+        ],
+        "others": [
+            {
+                "name": "Arroz blanco",
+                "price": 150
+            },
+            {
+                "name": "Arroz congri",
+                "price": 160
+            },
+            {
+                "name": "Arroz salteado",
+                "price": 200
+            },
+            {
+                "name": "Arroz pilaf",
+                "price": 200
+            }
+        ]
+    }
+}

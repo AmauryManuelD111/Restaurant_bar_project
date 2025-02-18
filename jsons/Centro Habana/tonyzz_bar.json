@@ -1,0 +1,567 @@
+{
+    "name": "Tonyzz Bar",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "italiana",
+        "americana",
+        "india",
+        "caribena",
+        "asiatica",
+        "cubana",
+        "ceilanesa"
+    ],
+    "municipality": "Centro Habana",
+    "services": [
+        "child_care",
+        "disable_support",
+        "parking",
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "Null",
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "Null",
+        "website": "Null",
+        "facebook": "https://www.facebook.com/Tonyzz Bar",
+        "instagram": "Null"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "croquetas",
+                "price": 490
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 1090
+            },
+            {
+                "name": "entremes de jamon y queso",
+                "price": 990
+            },
+            {
+                "name": "empanadas espanolas (atun/pollo/queso)",
+                "price": 640
+            },
+            {
+                "name": "papas bravas espanolas",
+                "price": 690
+            },
+            {
+                "name": "tacos (pollo o atun)",
+                "price": 1280
+            },
+            {
+                "name": "papas fritas",
+                "price": 690
+            },
+            {
+                "name": "picadera familiar",
+                "price": 2690
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "escalope de cerdo",
+                "price": 1790
+            },
+            {
+                "name": "pollo asado",
+                "price": 1790
+            },
+            {
+                "name": "fricase de pollo",
+                "price": 1790
+            },
+            {
+                "name": "bistec de cerdo",
+                "price": 1690
+            },
+            {
+                "name": "pollo frito",
+                "price": 1690
+            }
+        ],
+        "beef": [
+            {
+                "name": "bistec uruguayo",
+                "price": 1990
+            },
+            {
+                "name": "ropa vieja",
+                "price": 1990
+            }
+        ],
+        "seafood": [
+            {
+                "name": "pescado grille",
+                "price": 1800
+            },
+            {
+                "name": "pescado a la cubana",
+                "price": 1890
+            },
+            {
+                "name": "camaron enchilado",
+                "price": 1990
+            },
+            {
+                "name": "camaron al ajillo",
+                "price": 1900
+            },
+            {
+                "name": "cangrejo enchilado",
+                "price": 1990
+            },
+            {
+                "name": "devilled fish",
+                "price": 1390
+            },
+            {
+                "name": "authentic srilankan fish curry",
+                "price": 1990
+            },
+            {
+                "name": "crab curry",
+                "price": 2190
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "helado (diferentes sabores)",
+                "price": 130
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "agua natural 500ml": {
+                "name": "agua natural 500ml",
+                "price": 180
+            },
+            "agua natural 1500ml": {
+                "name": "agua natural 1500ml",
+                "price": 300
+            },
+            "malta": {
+                "name": "malta",
+                "price": 300
+            },
+            "refrescos lata": {
+                "name": "refrescos lata",
+                "price": 300
+            },
+            "refresco pomo": {
+                "name": "refresco pomo",
+                "price": 300
+            },
+            "refresco pomo 1500ml": {
+                "name": "refresco pomo 1500ml",
+                "price": 300
+            },
+            "tigon": {
+                "name": "tigon",
+                "price": 300
+            },
+            "red bull": {
+                "name": "red bull",
+                "price": null
+            },
+            "jugos naturales": {
+                "name": "jugos naturales",
+                "price": 250
+            },
+            "batido de helado": {
+                "name": "batido de helado",
+                "price": 510
+            },
+            "cerveza nacional": {
+                "name": "cerveza nacional",
+                "price": 300
+            },
+            "cerveza colonia": {
+                "name": "cerveza colonia",
+                "price": 220
+            },
+            "mojito": {
+                "name": "mojito",
+                "price": 890
+            },
+            "cuba libre": {
+                "name": "cuba libre",
+                "price": 790
+            },
+            "daiquiri": {
+                "name": "daiquiri",
+                "price": 790
+            },
+            "cubata": {
+                "name": "cubata",
+                "price": 790
+            },
+            "canchanchara": {
+                "name": "canchanchara",
+                "price": 1190
+            },
+            "caipirina": {
+                "name": "caipirina",
+                "price": 1190
+            },
+            "caipirisima": {
+                "name": "caipirisima",
+                "price": 1190
+            },
+            "caipiroska": {
+                "name": "caipiroska",
+                "price": 1190
+            },
+            "chelada": {
+                "name": "chelada",
+                "price": 490
+            },
+            "michelada": {
+                "name": "michelada",
+                "price": 850
+            },
+            "pina colada": {
+                "name": "pina colada",
+                "price": 1190
+            },
+            "vodka tonic": {
+                "name": "vodka tonic",
+                "price": 990
+            },
+            "sangria": {
+                "name": "sangria",
+                "price": 990
+            },
+            "gin tonic": {
+                "name": "gin tonic",
+                "price": 1190
+            },
+            "gin tonic (beefeter o bombay)": {
+                "name": "gin tonic (beefeter o bombay)",
+                "price": 1390
+            },
+            "jack daniel's": {
+                "name": "jack daniel's",
+                "price": 1400
+            },
+            "chivas regal 12 anos": {
+                "name": "chivas regal 12 anos",
+                "price": 1200
+            },
+            "j.w. double black": {
+                "name": "j.w. double black",
+                "price": 1800
+            },
+            "j.w. black label": {
+                "name": "j.w. black label",
+                "price": 990
+            },
+            "j.w. red label": {
+                "name": "j.w. red label",
+                "price": 990
+            },
+            "ballantines": {
+                "name": "ballantines",
+                "price": 990
+            },
+            "clamb campbell": {
+                "name": "clamb campbell",
+                "price": 890
+            },
+            "jameson": {
+                "name": "jameson",
+                "price": 790
+            },
+            "old partner": {
+                "name": "old partner",
+                "price": 350
+            },
+            "copa de vino tinto": {
+                "name": "copa de vino tinto",
+                "price": 700
+            },
+            "copa de vino blanco": {
+                "name": "copa de vino blanco",
+                "price": 650
+            },
+            "paco navio": {
+                "name": "paco navio",
+                "price": 900
+            },
+            "santiago de cuba 12 anos": {
+                "name": "santiago de cuba 12 anos",
+                "price": 1200
+            },
+            "santiago de cuba 8 anos": {
+                "name": "santiago de cuba 8 anos",
+                "price": 790
+            },
+            "black tears": {
+                "name": "black tears",
+                "price": 400
+            },
+            "ritual": {
+                "name": "ritual",
+                "price": 600
+            },
+            "habana club 7 anos": {
+                "name": "habana club 7 anos",
+                "price": 790
+            },
+            "habana club anejo reserva": {
+                "name": "habana club anejo reserva",
+                "price": 590
+            },
+            "habana club especial": {
+                "name": "habana club especial",
+                "price": 500
+            },
+            "habana club 3 anos": {
+                "name": "habana club 3 anos",
+                "price": 490
+            },
+            "aguardiente": {
+                "name": "aguardiente",
+                "price": 350
+            },
+            "olmeca blanco": {
+                "name": "olmeca blanco",
+                "price": 600
+            },
+            "olmeca reposado": {
+                "name": "olmeca reposado",
+                "price": 640
+            },
+            "jose cuervo": {
+                "name": "jose cuervo",
+                "price": 740
+            },
+            "cafe expreso": {
+                "name": "cafe expreso",
+                "price": 290
+            },
+            "cafe cortado": {
+                "name": "cafe cortado",
+                "price": 300
+            },
+            "cafe con leche": {
+                "name": "cafe con leche",
+                "price": 490
+            },
+            "cappuccino": {
+                "name": "cappuccino",
+                "price": 490
+            },
+            "cafe americano": {
+                "name": "cafe americano",
+                "price": 350
+            }
+        },
+        "others": [
+            {
+                "name": "sandwich c/ jamon",
+                "price": 600
+            },
+            {
+                "name": "sandwich c/ queso",
+                "price": 600
+            },
+            {
+                "name": "sandwich c/ jamon y queso",
+                "price": 890
+            },
+            {
+                "name": "sandwich c/ huevo (frito o tortilla)",
+                "price": 600
+            },
+            {
+                "name": "sandwich c/ atun y mayonesa",
+                "price": 1300
+            },
+            {
+                "name": "sandwich tonyzzz",
+                "price": 1290
+            },
+            {
+                "name": "veg samosa (2 pcs)",
+                "price": 690
+            },
+            {
+                "name": "lankan meat roll (2 pcs)",
+                "price": 990
+            },
+            {
+                "name": "chicken tikka",
+                "price": 1290
+            },
+            {
+                "name": "traditional chicken curry",
+                "price": 1890
+            },
+            {
+                "name": "chicken tikka masala",
+                "price": 1990
+            },
+            {
+                "name": "chicken madras",
+                "price": 1990
+            },
+            {
+                "name": "butter chicken",
+                "price": 1490
+            },
+            {
+                "name": "authentic srilankan lamb curry",
+                "price": 1990
+            },
+            {
+                "name": "rawan curry",
+                "price": 2190
+            },
+            {
+                "name": "yellow masoor dal lentil",
+                "price": 990
+            },
+            {
+                "name": "aloo potato",
+                "price": 990
+            },
+            {
+                "name": "pumpkin",
+                "price": 590
+            },
+            {
+                "name": "sappati rotti",
+                "price": 450
+            },
+            {
+                "name": "veggies combo (egg & rice, salad, popodorn)",
+                "price": 1790
+            },
+            {
+                "name": "pizza napolitana",
+                "price": 850
+            },
+            {
+                "name": "pizza margarita",
+                "price": 990
+            },
+            {
+                "name": "pizza de jamon",
+                "price": 1290
+            },
+            {
+                "name": "pizza de champinones",
+                "price": 1290
+            },
+            {
+                "name": "pizza hawaiana",
+                "price": 1390
+            },
+            {
+                "name": "pizza de atun y cebolla",
+                "price": 1990
+            },
+            {
+                "name": "pizza de atun",
+                "price": 1890
+            },
+            {
+                "name": "pizza 4 estaciones",
+                "price": 1590
+            },
+            {
+                "name": "pizza de jamon y champinones",
+                "price": 1490
+            },
+            {
+                "name": "pizza de chorizo",
+                "price": 1350
+            },
+            {
+                "name": "pasta napolitana",
+                "price": 850
+            },
+            {
+                "name": "pasta arrabbiata",
+                "price": 890
+            },
+            {
+                "name": "pasta de jamon",
+                "price": 1290
+            },
+            {
+                "name": "pasta carbonara",
+                "price": 1800
+            },
+            {
+                "name": "pasta al pesto",
+                "price": 990
+            },
+            {
+                "name": "pasta de champinon",
+                "price": 1290
+            },
+            {
+                "name": "pasta bolonesa",
+                "price": 1890
+            },
+            {
+                "name": "pasta de atun",
+                "price": 1890
+            },
+            {
+                "name": "lasana",
+                "price": 1990
+            },
+            {
+                "name": "desayuno americano",
+                "price": 2200
+            }
+        ]
+    }
+}

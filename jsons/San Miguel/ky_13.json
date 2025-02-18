@@ -1,0 +1,356 @@
+{
+    "name": "KY-13",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Comida Mixta"
+    ],
+    "municipality": "San Miguel del Padron",
+    "services": [
+        "delivery"
+    ],
+    "address": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "croquetas de queso",
+                "price": 600
+            },
+            {
+                "name": "frituras de malanga",
+                "price": 600
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 700
+            },
+            {
+                "name": "eperlan",
+                "price": 1300
+            },
+            {
+                "name": "dedos de pollo",
+                "price": 1000
+            },
+            {
+                "name": "coctel de camaron",
+                "price": 1300
+            },
+            {
+                "name": "camaron rebozado",
+                "price": 1200
+            },
+            {
+                "name": "crema de queso",
+                "price": 850
+            },
+            {
+                "name": "crema aurora",
+                "price": 550
+            },
+            {
+                "name": "crema virginia",
+                "price": 800
+            },
+            {
+                "name": "crema de camaron",
+                "price": 900
+            },
+            {
+                "name": "surtido KY13",
+                "price": 4000
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "filete de pescado grille",
+                "price": 3000
+            },
+            {
+                "name": "filete de pescado empanado",
+                "price": 3300
+            },
+            {
+                "name": "filete de pescado gratinado",
+                "price": 3500
+            },
+            {
+                "name": "pescado montetoro",
+                "price": 3800
+            },
+            {
+                "name": "pescado canciller",
+                "price": 4250
+            },
+            {
+                "name": "camaron grille",
+                "price": 2600
+            },
+            {
+                "name": "enchilado de camaron",
+                "price": 2800
+            },
+            {
+                "name": "camaron al ajillo",
+                "price": 2700
+            },
+            {
+                "name": "langosta grille",
+                "price": 2700
+            },
+            {
+                "name": "langosta enchilada",
+                "price": 2800
+            }
+        ],
+        "burgers": [
+            {
+                "name": "hamburguesa sencilla",
+                "price": 1400
+            },
+            {
+                "name": "hamburguesa KY13",
+                "price": 2950
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": null,
+            "price": null
+        },
+        "others": [
+            {
+                "name": "arroz blanco",
+                "price": 300
+            },
+            {
+                "name": "arroz moro",
+                "price": 480
+            },
+            {
+                "name": "vianda frita",
+                "price": 700
+            },
+            {
+                "name": "ensalada mixta",
+                "price": 700
+            },
+            {
+                "name": "sandwich sencillo",
+                "price": 1250
+            },
+            {
+                "name": "sandwich lomo ahumado",
+                "price": 1250
+            },
+            {
+                "name": "sandwich especial",
+                "price": 2100
+            },
+            {
+                "name": "sandwich de atun",
+                "price": 1150
+            },
+            {
+                "name": "bistec de cerdo grille",
+                "price": 2350
+            },
+            {
+                "name": "bistec de cerdo empanado",
+                "price": 2700
+            },
+            {
+                "name": "uruguayo de cerdo",
+                "price": 3500
+            },
+            {
+                "name": "pechuga de pollo grille",
+                "price": 2400
+            },
+            {
+                "name": "pechuga de pollo gratinada",
+                "price": 2800
+            },
+            {
+                "name": "pollo gordon blue",
+                "price": 3650
+            },
+            {
+                "name": "pollo frito o asado",
+                "price": 2000
+            },
+            {
+                "name": "ropa vieja de res",
+                "price": 2800
+            },
+            {
+                "name": "picadillo a la habanera",
+                "price": 2700
+            },
+            {
+                "name": "chuleta de cerdo",
+                "price": 2600
+            },
+            {
+                "name": "lomo ahumado",
+                "price": 2500
+            },
+            {
+                "name": "costilla de cerdo frita",
+                "price": 2300
+            },
+            {
+                "name": "masa de cerdo frita",
+                "price": 3800
+            },
+            {
+                "name": "bistec de pollo",
+                "price": 2200
+            },
+            {
+                "name": "arroz frito",
+                "price": 2800
+            },
+            {
+                "name": "espaguetti de queso",
+                "price": 1300
+            },
+            {
+                "name": "lasana de jamon",
+                "price": 1800
+            },
+            {
+                "name": "espaguetti a la carbonara",
+                "price": 2000
+            },
+            {
+                "name": "pizza de queso",
+                "price": 1200
+            },
+            {
+                "name": "pizza familiar de queso",
+                "price": 3350
+            },
+            {
+                "name": "queso gouda sencilla",
+                "price": 560
+            },
+            {
+                "name": "queso goud familiar",
+                "price": 1400
+            },
+            {
+                "name": "jamon sencilla",
+                "price": 620
+            },
+            {
+                "name": "jamon familiar",
+                "price": 1550
+            },
+            {
+                "name": "vegetales sencilla",
+                "price": 500
+            },
+            {
+                "name": "vegetales familiar",
+                "price": 1250
+            },
+            {
+                "name": "chorizo sencilla",
+                "price": 450
+            },
+            {
+                "name": "chorizo familiar",
+                "price": 825
+            },
+            {
+                "name": "aceituna sencilla",
+                "price": 600
+            },
+            {
+                "name": "aceituna familiar",
+                "price": 1500
+            },
+            {
+                "name": "pina sencilla",
+                "price": 300
+            },
+            {
+                "name": "pina familiar",
+                "price": 750
+            },
+            {
+                "name": "jamon pierna sencilla",
+                "price": 700
+            },
+            {
+                "name": "jamon pierna familiar",
+                "price": 1750
+            },
+            {
+                "name": "camaron sencilla",
+                "price": 800
+            },
+            {
+                "name": "camaron familiar",
+                "price": 2000
+            },
+            {
+                "name": "atun sencilla",
+                "price": 790
+            },
+            {
+                "name": "atun familiar",
+                "price": 1975
+            }
+        ]
+    }
+}

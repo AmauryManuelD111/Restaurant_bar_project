@@ -1,0 +1,195 @@
+{
+    "name": "Habana Tokio",
+    "type": [
+        "restaurant",
+        "bar"
+    ],
+    "speciality": [
+        "japanese"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario",
+        "Tiene bar",
+        "Aparcamiento en la calle",
+        "Estacionamiento gratuito en la calle",
+        "Reservas",
+        "Terraza exterior",
+        "Restaurante privado",
+        "Servicio de mesa"
+    ],
+    "address": "Calle Habana entre Pena Pobre y Av. Belgica",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "02:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "02:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "02:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "02:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "02:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "02:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "02:00"
+        }
+    },
+    "contact": {
+        "phone": "59172392",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Takoyaki",
+                "price": 1000
+            },
+            {
+                "name": "Chashu",
+                "price": 1000
+            },
+            {
+                "name": "Yakitori",
+                "price": 2400
+            },
+            {
+                "name": "Karaage",
+                "price": 2400
+            }
+        ],
+        "salads": [],
+        "vegetables": [
+            {
+                "name": "Tempura Vegetales",
+                "price": 2300
+            }
+        ],
+        "meats": [
+            {
+                "name": "Chicken Teriyaki",
+                "price": 2400
+            },
+            {
+                "name": "Tonkatsu",
+                "price": 2750
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Sushi (Makizushi) Atun",
+                "price": 1750
+            },
+            {
+                "name": "Sushi (Makizushi) Salmon",
+                "price": 2100
+            },
+            {
+                "name": "Sushi (Makizushi) Mixto",
+                "price": 2750
+            },
+            {
+                "name": "Sashimi Salmon",
+                "price": 2900
+            },
+            {
+                "name": "Sashimi Calamar",
+                "price": 2900
+            },
+            {
+                "name": "Tataki Atun",
+                "price": 2300
+            },
+            {
+                "name": "Tempura Calamar o Camaron",
+                "price": 3000
+            },
+            {
+                "name": "Ramen (Shoyu o Miso) Camaron",
+                "price": 2550
+            },
+            {
+                "name": "Ramen (Shoyu o Miso) Camaron Grande",
+                "price": 3000
+            },
+            {
+                "name": "Yakisoba Mariscos o Calamar",
+                "price": 3100
+            },
+            {
+                "name": "Yakisoba Camaron",
+                "price": 3100
+            },
+            {
+                "name": "Combo Habana-Tokio",
+                "price": 3900
+            },
+            {
+                "name": "Combo Sashimi Atun",
+                "price": 4200
+            },
+            {
+                "name": "Combo Sashimi Salmon",
+                "price": 4400
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Kakigoori",
+                "price": 800
+            },
+            {
+                "name": "Flan",
+                "price": 600
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Tempura Udon",
+                "price": 2000
+            },
+            {
+                "name": "Katsudon",
+                "price": 2850
+            },
+            {
+                "name": "Yakisoba",
+                "price": 2750
+            },
+            {
+                "name": "Oyakodon",
+                "price": 2800
+            },
+            {
+                "name": "Okonomiyaki",
+                "price": 800
+            }
+        ]
+    }
+}

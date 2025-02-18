@@ -1,0 +1,292 @@
+{
+    "name": "La Torre De Marfil",
+    "type": [
+        "restaurant",
+        "bar"
+    ],
+    "speciality": [
+        "cuban",
+        "seafood"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario",
+        "Tiene bar",
+        "Reservas"
+    ],
+    "address": "Calle Mercaderes entre Obispo y Obrapia, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "07860080",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "La Torre de Marfil",
+                "price": 1100
+            },
+            {
+                "name": "Bruschettas",
+                "price": 650
+            },
+            {
+                "name": "Maripositas chinas",
+                "price": 500
+            },
+            {
+                "name": "Pulpo al pimenton",
+                "price": 2500
+            },
+            {
+                "name": "Shop Suey de marisco",
+                "price": 950
+            },
+            {
+                "name": "Sopa estilo Oriental",
+                "price": 750
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 750
+            },
+            {
+                "name": "Fritura de malanga con miel y mostaza",
+                "price": 650
+            },
+            {
+                "name": "Crema de calabaza y malanga",
+                "price": 850
+            }
+        ],
+        "salads": [
+            {
+                "name": "Ensalada de vegetales",
+                "price": 650
+            },
+            {
+                "name": "Ensalada de verduras y pollo",
+                "price": 750
+            }
+        ],
+        "vegetables": [
+            {
+                "name": "Vegetales salteados",
+                "price": 550
+            }
+        ],
+        "meats": [
+            {
+                "name": "Tacos de cerdo",
+                "price": 950
+            },
+            {
+                "name": "Tacos de pollo",
+                "price": 750
+            },
+            {
+                "name": "Tacos de ropa vieja",
+                "price": 800
+            },
+            {
+                "name": "Pollo al estilo Torre de Marfil",
+                "price": 1750
+            },
+            {
+                "name": "Pollo grille",
+                "price": 1350
+            },
+            {
+                "name": "Cerdo al estilo Torre de Marfil",
+                "price": 2300
+            },
+            {
+                "name": "Cerdo asado con salsa de mostaza y romero",
+                "price": 2100
+            },
+            {
+                "name": "Estofado de res con zanahorias confitadas",
+                "price": 1850
+            },
+            {
+                "name": "Ropa vieja",
+                "price": 1600
+            },
+            {
+                "name": "Vaca frita",
+                "price": 1600
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Coctel de langosta",
+                "price": 1550
+            },
+            {
+                "name": "Coctel de camarones",
+                "price": 1150
+            },
+            {
+                "name": "Combinacion marinera a la baracoesa",
+                "price": 2550
+            },
+            {
+                "name": "Pescado grille",
+                "price": 1650
+            },
+            {
+                "name": "Langosta al gusto",
+                "price": 4800
+            },
+            {
+                "name": "Camarones al gusto",
+                "price": 2200
+            },
+            {
+                "name": "Cazuelita caribena con frutos del mar",
+                "price": 4300
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Helado con frutas confitadas",
+                "price": 650
+            },
+            {
+                "name": "Tarta semifria",
+                "price": 550
+            },
+            {
+                "name": "Brownie con helado",
+                "price": 750
+            },
+            {
+                "name": "Mixto cubano",
+                "price": 550
+            },
+            {
+                "name": "Postres caseros",
+                "price": 550
+            },
+            {
+                "name": "Boniatillo con coco estilo Omara Portuondo",
+                "price": 650
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Tacos de vegetales",
+                "price": 650
+            },
+            {
+                "name": "Arroz frito al estilo de la casa",
+                "price": 1200
+            },
+            {
+                "name": "Arroz caldoso de la tierra",
+                "price": 1750
+            },
+            {
+                "name": "Arroz caldoso marinero",
+                "price": 2850
+            },
+            {
+                "name": "Arroz caldoso Mar y Tierra",
+                "price": 3850
+            },
+            {
+                "name": "Arroz congris",
+                "price": 400
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 300
+            },
+            {
+                "name": "Ensalada de estacion",
+                "price": 350
+            },
+            {
+                "name": "Vianda con mojo",
+                "price": 350
+            },
+            {
+                "name": "Racion de tostones",
+                "price": 450
+            },
+            {
+                "name": "Frijoles negros",
+                "price": 500
+            },
+            {
+                "name": "Pizza de queso",
+                "price": 1200
+            },
+            {
+                "name": "Pizza especial de la casa",
+                "price": 2100
+            },
+            {
+                "name": "Pastas cortas Rigatoni Frutti di mare",
+                "price": 2700
+            },
+            {
+                "name": "Espaguetis con salsa napoles",
+                "price": 1100
+            },
+            {
+                "name": "Espaguetis a la bolognesa",
+                "price": 1600
+            },
+            {
+                "name": "Espaguetis con vegetales",
+                "price": 1200
+            },
+            {
+                "name": "Espaguetis al alioli con camarones",
+                "price": 1750
+            }
+        ]
+    }
+}

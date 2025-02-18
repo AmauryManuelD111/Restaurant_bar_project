@@ -1,0 +1,223 @@
+{
+    "name": "dona almira",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Arroyo Naranjo",
+    "services": [
+        "reservations",
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "calle finlay no.979 % avenida de los pinos y fernandez de castro, arroyo naranjo",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": null,
+            "close": null
+        },
+        "tuesday": {
+            "open": null,
+            "close": null
+        },
+        "wednesday": {
+            "open": null,
+            "close": null
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "76472432",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "tostones rellenos",
+                "price": 850
+            },
+            {
+                "name": "tamal en cazuela",
+                "price": 785
+            },
+            {
+                "name": "vegetales rellenos",
+                "price": 895
+            },
+            {
+                "name": "racion de chicharrones",
+                "price": 300
+            },
+            {
+                "name": "aderezo dona almira",
+                "price": 385
+            },
+            {
+                "name": "salsa agridulce",
+                "price": 395
+            },
+            {
+                "name": "ensalada de chorizo",
+                "price": 1225
+            },
+            {
+                "name": "ceviche de pescado",
+                "price": 685
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "bistec americano",
+                "price": 2430
+            },
+            {
+                "name": "nasobuco",
+                "price": 1860
+            },
+            {
+                "name": "bistec de higado",
+                "price": 1290
+            },
+            {
+                "name": "higado a la italiana",
+                "price": 1380
+            },
+            {
+                "name": "lomo rostizado",
+                "price": 2150
+            },
+            {
+                "name": "pollo dona almira",
+                "price": 1340
+            },
+            {
+                "name": "pollo barbacoa",
+                "price": 1195
+            },
+            {
+                "name": "pollo salsa agridulce",
+                "price": 1295
+            },
+            {
+                "name": "pollo grille",
+                "price": 1195
+            },
+            {
+                "name": "pollo en fricase",
+                "price": 1200
+            },
+            {
+                "name": "pollo a la pasa",
+                "price": 1220
+            },
+            {
+                "name": "pollo grille con camarones",
+                "price": 1375
+            },
+            {
+                "name": "cerdo enrrollado asado",
+                "price": 1545
+            },
+            {
+                "name": "cerdo enrollado salsa agridulce",
+                "price": 1570
+            },
+            {
+                "name": "cerdo enrollado glaseado",
+                "price": 1550
+            },
+            {
+                "name": "fricase de cerdo",
+                "price": 1520
+            },
+            {
+                "name": "picada a la habanera",
+                "price": 1290
+            },
+            {
+                "name": "ropa vieja",
+                "price": 1305
+            },
+            {
+                "name": "vaca frita",
+                "price": 1260
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "mignon de pescado grille",
+                "price": 1370
+            },
+            {
+                "name": "mignon de pescado a las finas hierbas",
+                "price": 1410
+            },
+            {
+                "name": "mignon de pescado dona almira",
+                "price": 1650
+            },
+            {
+                "name": "mignon de pescado gratinado",
+                "price": 1585
+            },
+            {
+                "name": "mignon de pescado con queso y bacon",
+                "price": 1720
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "musse variados",
+                "price": 570
+            },
+            {
+                "name ": "cafe cubano",
+                "price": 150
+            },
+            {
+                "name": "cafe cortado",
+                "price": 180
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "others": [
+            {
+                "name": "arroz congris",
+                "price": 120
+            },
+            {
+                "name": "ensalada estacion",
+                "price": 285
+            }
+        ]
+    }
+}

@@ -1,0 +1,548 @@
+{
+    "name": "Decameron",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "caribena",
+        "cubana",
+        "saludable",
+        "fusion"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "Reservations",
+        "Parking",
+        "Wifi"
+    ],
+    "address": "Calle Linea entre Paseo y 2, Vedado",
+    "qualification": 4.5,
+    "hours": {
+        "monday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:30",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "78322444",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Pan de la casa y dip con aroma de pesto",
+                "price": 750
+            },
+            {
+                "name": "Frituras de malanga con Chutney de papaya picantica",
+                "price": 1350
+            },
+            {
+                "name": "Croquetas caseras con mayonesa ligera de pepino y limon",
+                "price": 1500
+            },
+            {
+                "name": "Empanadillas de yuca rellenas de cangrejo y melado de cana",
+                "price": 1650
+            },
+            {
+                "name": "Tacos de maiz o trigo con carnitas de cerdo confitadas, mojo estilizado, frijoles refritos, lechuga y cebolla caramelizada",
+                "price": 1650
+            },
+            {
+                "name": "Berenjena asada con pisto manchego y queso al graten",
+                "price": 2100
+            },
+            {
+                "name": "Pulpo salteado a la plancha con aceite de pimenton ahumado, escabeche de malanga y verduritas",
+                "price": 2550
+            },
+            {
+                "name": "Seviche de pescado del dia",
+                "price": 2400
+            },
+            {
+                "name": "Crema de calabaza con costrones de pan y queso",
+                "price": 1350
+            },
+            {
+                "name": "Sopa-crema de pollo a la casera",
+                "price": 1500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Tartas variadas del dia",
+                "price": 1400
+            },
+            {
+                "name": "Pie de limon",
+                "price": 1400
+            },
+            {
+                "name": "Helados",
+                "price": 1400
+            },
+            {
+                "name": "Flan de caramelo",
+                "price": 1120
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "Mojito",
+                "price": 1500
+            },
+            {
+                "name": "Mojito 7",
+                "price": 2100
+            },
+            {
+                "name": "Cuba libre",
+                "price": 1350
+            },
+            {
+                "name": "Daiquiri",
+                "price": 1500
+            },
+            {
+                "name": "Daikiri de frutas",
+                "price": 1800
+            },
+            {
+                "name": "Coctel Decameron",
+                "price": 1800
+            },
+            {
+                "name": "Cubata",
+                "price": 1350
+            },
+            {
+                "name": "Ron Collins",
+                "price": 1500
+            },
+            {
+                "name": "Pina colada",
+                "price": 1950
+            },
+            {
+                "name": "Cubanito",
+                "price": 1950
+            },
+            {
+                "name": "Havana Special",
+                "price": 1500
+            },
+            {
+                "name": "Bloody Mary",
+                "price": 1950
+            },
+            {
+                "name": "Mary Pickford",
+                "price": 1500
+            },
+            {
+                "name": "Sangria de vino tinto",
+                "price": 1950
+            },
+            {
+                "name": "Sangria de vino blanco",
+                "price": 1950
+            },
+            {
+                "name": "Jarra de sangria",
+                "price": 3000
+            },
+            {
+                "name": "Tinto de verano",
+                "price": 1800
+            },
+            {
+                "name": "Michelada",
+                "price": 1500
+            },
+            {
+                "name": "Chelada",
+                "price": 1500
+            },
+            {
+                "name": "Manhattan",
+                "price": 3000
+            },
+            {
+                "name": "Caipirina",
+                "price": 2400
+            },
+            {
+                "name": "Caipiroska",
+                "price": 2400
+            },
+            {
+                "name": "Martini",
+                "price": 2400
+            },
+            {
+                "name": "Tom collins",
+                "price": 1500
+            },
+            {
+                "name": "Gin-tonic",
+                "price": 2400
+            },
+            {
+                "name": "Vodka Tonic",
+                "price": 2400
+            },
+            {
+                "name": "Moscow Mule",
+                "price": 2400
+            },
+            {
+                "name": "Limonada",
+                "price": 1200
+            },
+            {
+                "name": "Limonada frappe",
+                "price": 1350
+            },
+            {
+                "name": "Limonada verde frescura",
+                "price": 1500
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Jugos naturales",
+                "price": 750
+            },
+            {
+                "name": "Agua natural nacional",
+                "price": 450
+            },
+            {
+                "name": "Agua natural nacional grande",
+                "price": 750
+            },
+            {
+                "name": "Agua con gas nacional",
+                "price": 750
+            },
+            {
+                "name": "Cervezas",
+                "price": 750
+            },
+            {
+                "name": "Cervezas Heineken",
+                "price": 1050
+            },
+            {
+                "name": "Refrescos",
+                "price": 600
+            },
+            {
+                "name": "Refrescos importados",
+                "price": 750
+            },
+            {
+                "name": "Bebidas energeticas",
+                "price": 900
+            },
+            {
+                "name": "Copa de vino tinto/blanco",
+                "price": 1350
+            },
+            {
+                "name": "Black Russian",
+                "price": 2100
+            },
+            {
+                "name": "Screwdriver",
+                "price": 1800
+            },
+            {
+                "name": "Canchánchara",
+                "price": 1800
+            },
+            {
+                "name": "Concha 7",
+                "price": 1800
+            },
+            {
+                "name": "Orgasmo",
+                "price": 2550
+            },
+            {
+                "name": "Aperol Spritz",
+                "price": 2550
+            },
+            {
+                "name": "Aperol Negroni",
+                "price": 2550
+            },
+            {
+                "name": "Negroni",
+                "price": 2550
+            },
+            {
+                "name": "Aperol collins",
+                "price": 2550
+            },
+            {
+                "name": "Mimosa",
+                "price": 2550
+            },
+            {
+                "name": "Margarita",
+                "price": 2550
+            },
+            {
+                "name": "Presidente seco",
+                "price": 1800
+            },
+            {
+                "name": "Presidente dulce",
+                "price": 1800
+            },
+            {
+                "name": "San Francisco",
+                "price": 1200
+            }
+        ],
+        "others": [
+            {
+                "name": "Pasta fresca primavera con parmesano y pesto hecho a nuestro modo",
+                "price": 3300
+            },
+            {
+                "name": "Tartas variadas del dia",
+                "price": 1400
+            },
+            {
+                "name": "Pie de limon",
+                "price": 1400
+            },
+            {
+                "name": "Helados",
+                "price": 1400
+            },
+            {
+                "name": "Flan de caramelo",
+                "price": 1120
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 600
+            },
+            {
+                "name": "Frijoles negros dormidos",
+                "price": 600
+            },
+            {
+                "name": "Vegetales salteados",
+                "price": 600
+            },
+            {
+                "name": "Tostones de plátano",
+                "price": 600
+            },
+            {
+                "name": "Boniato frito",
+                "price": 600
+            },
+            {
+                "name": "Pure de malanga",
+                "price": 600
+            },
+            {
+                "name": "Plátano maduro frito",
+                "price": 600
+            },
+            {
+                "name": "Ensalada Buena Salud",
+                "price": 1500
+            },
+            {
+                "name": "Caprichosa",
+                "price": 2100
+            },
+            {
+                "name": "Decameron",
+                "price": 2100
+            },
+            {
+                "name": "Arroz caldoso con pollo, cerdo y butifarra",
+                "price": 3600
+            },
+            {
+                "name": "Arroz negro con pulpo, camarones, almejas y emulsion alioli",
+                "price": 4500
+            },
+            {
+                "name": "Caldereta del mar con salsa picosa y azafrán",
+                "price": 7500
+            },
+            {
+                "name": "Filete de pescado del dia a lo principeno",
+                "price": 4200
+            },
+            {
+                "name": "Langosta a la Habanera",
+                "price": 6000
+            },
+            {
+                "name": "Camarones a ala crema de coco y jengibre",
+                "price": 4800
+            },
+            {
+                "name": "Solomillo de res con salsa espanola, queso azul y champinones",
+                "price": 6900
+            },
+            {
+                "name": "Wok de lonjas de filete, salteado de verduras y salsa teriyaki",
+                "price": 5400
+            },
+            {
+                "name": "Ropa vieja a lo cubano con macho maduro frito",
+                "price": 3900
+            },
+            {
+                "name": "Chuleton de cerdo sobre espejo de malanga, emulsion de tamarindo y brochetas de verduras a ala plancha",
+                "price": 4500
+            },
+            {
+                "name": "Masas de cerdo confitadas sobre mofongo de yuca y chicharrones",
+                "price": 3600
+            },
+            {
+                "name": "Pollo en aderezo Satay, champinones, frutos secos y vegetales",
+                "price": 3300
+            },
+            {
+                "name": "Confite de cordero en su esencia de vino y finas hierbas",
+                "price": 4200
+            },
+            {
+                "name": "Ensalada griega",
+                "price": 2100
+            },
+            {
+                "name": "Carpaccio de res",
+                "price": 2400
+            },
+            {
+                "name": "Pinchos de camaron y pollo con pilaf de uvas pasas",
+                "price": 4500
+            },
+            {
+                "name": "Entrecot de res (anojo) triple A",
+                "price": 9000
+            },
+            {
+                "name": "Tagliatelle fresco al fruto de mar",
+                "price": 4500
+            },
+            {
+                "name": "Canoa de la pasion",
+                "price": 2850
+            },
+            {
+                "name": "expresso",
+                "price": 560
+            },
+            {
+                "name": "americano",
+                "price": 560
+            },
+            {
+                "name": "Cafe descafeinado",
+                "price": 560
+            },
+            {
+                "name": "Cafe con hielo",
+                "price": 560
+            },
+            {
+                "name": "cortado",
+                "price": 560
+            },
+            {
+                "name": "Cafe con leche",
+                "price": 700
+            },
+            {
+                "name": "Cafe bombon",
+                "price": 700
+            },
+            {
+                "name": "carajillo",
+                "price": 700
+            },
+            {
+                "name": "Frapuccino",
+                "price": 840
+            },
+            {
+                "name": "Cafe Capuccino",
+                "price": 700
+            },
+            {
+                "name": "Irish coffee",
+                "price": 1260
+            },
+            {
+                "name": "Te caliente",
+                "price": 420
+            },
+            {
+                "name": "Te frio",
+                "price": 420
+            },
+            {
+                "name": "Manzanilla",
+                "price": 420
+            },
+            {
+                "name": "Menta",
+                "price": 420
+            }
+        ]
+    }
+}

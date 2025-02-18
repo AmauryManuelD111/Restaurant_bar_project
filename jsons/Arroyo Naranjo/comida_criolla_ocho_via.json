@@ -1,0 +1,179 @@
+{
+    "name": "Comida Criolla Ocho Vias",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Arroyo Naranjo",
+    "services": [
+        "Parking",
+        "Reservations",
+        "Payment_methods",
+        "Cash_national",
+        "Digital_transfer_national",
+        "Power_generator"
+    ],
+    "address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "59107933",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas de queso",
+                "price": 500
+            },
+            {
+                "name": "Tostones Rellenos",
+                "price": 800
+            },
+            {
+                "name": "Tostones Tradicionales",
+                "price": 250
+            },
+            {
+                "name": "Papas Fritas",
+                "price": 800
+            },
+            {
+                "name": "Platanos Fritos",
+                "price": 200
+            }
+        ],
+        "salads": [
+            {
+                "name": "Ensalada Mixta",
+                "price": 300
+            }
+        ],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Bistec de Higado(460 gramos)",
+                "price": 1600
+            },
+            {
+                "name": "Higado Italiana(460 gramos)",
+                "price": 1600
+            },
+            {
+                "name": "Bistec de Cerdo(460 gramos)",
+                "price": 2200
+            },
+            {
+                "name": "Chuleta de Cerdo(460 gramos)",
+                "price": 2200
+            },
+            {
+                "name": "Fricase de Cerdo(430 gramos)",
+                "price": 2500
+            },
+            {
+                "name": "Masa Frita(430 gramos)",
+                "price": 2200
+            },
+            {
+                "name": "Fricase de Carnero(960 gramos)",
+                "price": 2200
+            },
+            {
+                "name": "Ropa Vieja(460 gramos)",
+                "price": 2700
+            },
+            {
+                "name": "Bistec de Pollo",
+                "price": 2000
+            },
+            {
+                "name": "Pechuga de Pollo",
+                "price": 2500
+            },
+            {
+                "name": "Costilla Frita o Fricase",
+                "price": 2200
+            }
+        ],
+        "beef": [
+            {
+                "name": "Bistec Uruguayo",
+                "price": 2800
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Pescado Entero a la Marinera",
+                "price": 2200
+            },
+            {
+                "name": "Camaron Enchilado",
+                "price": 2700
+            },
+            {
+                "name": "Langosta Grille(690 gramos)",
+                "price": 2700
+            },
+            {
+                "name": "Langosta Enchilada(690 gramos)",
+                "price": 2800
+            },
+            {
+                "name": "Pescado Empanado",
+                "price": 2500
+            },
+            {
+                "name": "Enchilado de Cangrejo",
+                "price": 1800
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "others": [
+            {
+                "name": "Arroz Moro",
+                "price": 200
+            }
+        ]
+    }
+}

@@ -1,0 +1,435 @@
+{
+    "name": "Cafe Versalles",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "cuban"
+    ],
+    "municipality": "Guanabacoa",
+    "services": [
+        "A la carta",
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "4MGV+4M6, Marti, La Habana, Cuba",
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "ensalada fria de jamon",
+                "price": 500
+            },
+            {
+                "name": "ensalada fria de atun",
+                "price": 700
+            },
+            {
+                "name": "croquetas de la casa",
+                "price": 500
+            },
+            {
+                "name": "eperlan de pescado",
+                "price": 1600
+            },
+            {
+                "name": "fajitas de pollo empanado",
+                "price": 1500
+            },
+            {
+                "name": "maripositas chinas",
+                "price": 700
+            },
+            {
+                "name": "ceviche pescado",
+                "price": 1000
+            },
+            {
+                "name": "cesta bananera",
+                "price": 850
+            },
+            {
+                "name": "coctel de camaron",
+                "price": 1200
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "Alcoholic": [
+                {
+                    "name": "Ron seleccion de maestros",
+                    "price": 900
+                },
+                {
+                    "name": "Ron anejo especial",
+                    "price": 350
+                },
+                {
+                    "name": "Ron Santiago",
+                    "price": 500
+                },
+                {
+                    "name": "Ron cubay",
+                    "price": 350
+                },
+                {
+                    "name": "Ron 3 anos",
+                    "price": 350
+                },
+                {
+                    "name": "Ron reserva",
+                    "price": 350
+                },
+                {
+                    "name": "Ron 7 anos",
+                    "price": 350
+                },
+                {
+                    "name": "Tequila reposado",
+                    "price": 600
+                },
+                {
+                    "name": "Tequila olmega silver",
+                    "price": 500
+                },
+                {
+                    "name": "Whisky chivas regal",
+                    "price": 1000
+                },
+                {
+                    "name": "Whisky white label",
+                    "price": 350
+                },
+                {
+                    "name": "Whisky ballantines",
+                    "price": 450
+                },
+                {
+                    "name": "Whisky jack daniels",
+                    "price": 450
+                },
+                {
+                    "name": "Whisky jameson",
+                    "price": 450
+                },
+                {
+                    "name": "Vodka absolut",
+                    "price": 500
+                },
+                {
+                    "name": "Daiquiri",
+                    "price": 500
+                },
+                {
+                    "name": "Tinto verano",
+                    "price": 500
+                },
+                {
+                    "name": "Jack in black",
+                    "price": 600
+                },
+                {
+                    "name": "Bandera",
+                    "price": 600
+                },
+                {
+                    "name": "Margarita",
+                    "price": 600
+                },
+                {
+                    "name": "Margarita blue",
+                    "price": 700
+                },
+                {
+                    "name": "Daiquiri frutas",
+                    "price": 600
+                },
+                {
+                    "name": "Daiquiri rebelde",
+                    "price": 500
+                },
+                {
+                    "name": "Cubanito",
+                    "price": 500
+                },
+                {
+                    "name": "Bloody mary",
+                    "price": 600
+                },
+                {
+                    "name": "Limonada frappe",
+                    "price": 250
+                },
+                {
+                    "name": "Limonasa clarete",
+                    "price": 400
+                },
+                {
+                    "name": "Sangria",
+                    "price": 500
+                },
+                {
+                    "name": "Pina colada",
+                    "price": 550
+                },
+                {
+                    "name": "Limonada frescura",
+                    "price": 350
+                },
+                {
+                    "name": "Cubata",
+                    "price": 700
+                },
+                {
+                    "name": "Cuba libre",
+                    "price": 500
+                },
+                {
+                    "name": "Mojito",
+                    "price": 500
+                },
+                {
+                    "name": "Ron collins",
+                    "price": 500
+                },
+                {
+                    "name": "Caipirissima",
+                    "price": 500
+                },
+                {
+                    "name": "Caipiroska",
+                    "price": 500
+                },
+                {
+                    "name": "Caipiroska vip",
+                    "price": 850
+                },
+                {
+                    "name": "Vodka tonic",
+                    "price": 850
+                },
+                {
+                    "name": "Gin tonic",
+                    "price": 700
+                },
+                {
+                    "name": "Cerveza cristal",
+                    "price": 350
+                },
+                {
+                    "name": "Cerveza importada (heineken)",
+                    "price": 400
+                },
+                {
+                    "name": "Jarra de cerveza",
+                    "price": 550
+                },
+                {
+                    "name": "Tarro de cerveza",
+                    "price": 2500
+                },
+                {
+                    "name": "Cafe rocio de gallo",
+                    "price": 250
+                }
+            ],
+            "NonAlcoholic": [
+                {
+                    "name": "Agua natural",
+                    "price": 200
+                },
+                {
+                    "name": "Refresco importado",
+                    "price": 250
+                },
+                {
+                    "name": "Refresco nacional",
+                    "price": 250
+                },
+                {
+                    "name": "Malta",
+                    "price": 320
+                },
+                {
+                    "name": "Jugos naturales",
+                    "price": 350
+                },
+                {
+                    "name": "Cafe expreso",
+                    "price": 100
+                },
+                {
+                    "name": "Cafe bombon",
+                    "price": 250
+                },
+                {
+                    "name": "Cafe cortado",
+                    "price": 200
+                }
+            ]
+        },
+        "others": [
+            {
+                "name": "Pollo grille",
+                "price": 1400
+            },
+            {
+                "name": "Pollo cantones",
+                "price": 2200
+            },
+            {
+                "name": "Cordon bleu",
+                "price": 2500
+            },
+            {
+                "name": "Medio pollo al carbon con BBQ",
+                "price": 2500
+            },
+            {
+                "name": "Pescado versalles",
+                "price": 2800
+            },
+            {
+                "name": "Canciller",
+                "price": 2800
+            },
+            {
+                "name": "Montetoro",
+                "price": 2200
+            },
+            {
+                "name": "Filete grille",
+                "price": 1600
+            },
+            {
+                "name": "Camaron al gusto",
+                "price": 2500
+            },
+            {
+                "name": "Chuleta de cerdo al carbon con bbq 1 libra",
+                "price": 3600
+            },
+            {
+                "name": "Solomillo de cerdo al carbon con bbq 1 libra",
+                "price": 3000
+            },
+            {
+                "name": "Uruguayo de cerdo",
+                "price": 2500
+            },
+            {
+                "name": "Masa de cerdo frita 300 gr",
+                "price": 2800
+            },
+            {
+                "name": "Bistec de cerdo encebollado",
+                "price": 1600
+            },
+            {
+                "name": "Pizza Napoles",
+                "price": 900
+            },
+            {
+                "name": "Pizza queso gouda",
+                "price": 1260
+            },
+            {
+                "name": "Pizza jamon",
+                "price": 1150
+            },
+            {
+                "name": "Pizza chorizo",
+                "price": 1250
+            },
+            {
+                "name": "Pizza camarones",
+                "price": 1700
+            },
+            {
+                "name": "Pizza cebolla",
+                "price": 1150
+            },
+            {
+                "name": "Pizza aceituna",
+                "price": 1200
+            },
+            {
+                "name": "Pizza pina",
+                "price": 1150
+            },
+            {
+                "name": "Pizza atun",
+                "price": 1250
+            },
+            {
+                "name": "Pizza lomo ahumado",
+                "price": 1250
+            },
+            {
+                "name": "Pizza beicon",
+                "price": 1300
+            },
+            {
+                "name": "Pizza pimiento",
+                "price": 1200
+            },
+            {
+                "name": "Espaguetis",
+                "price": 800
+            },
+            {
+                "name": "Lazana de Jamon",
+                "price": 1200
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "name": "el bache",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "italiana"
+    ],
+    "municipality": "Cotorro",
+    "services": [
+        "efectivo",
+        "transferencia",
+        "delivery"
+    ],
+    "address": "Calle 30 entre 95 y 97, Las Brisas",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:30",
+            "close": "22:30"
+        },
+        "tuesday": {
+            "open": "10:30",
+            "close": "22:30"
+        },
+        "wednesday": {
+            "open": "10:30",
+            "close": "22:30"
+        },
+        "thursday": {
+            "open": "10:30",
+            "close": "22:30"
+        },
+        "friday": {
+            "open": "10:30",
+            "close": "22:30"
+        },
+        "saturday": {
+            "open": null,
+            "close": null
+        },
+        "sunday": {
+            "open": null,
+            "close": null
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": "Facebook",
+        "instagram": "Instagram"
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": null,
+        "others": [
+            {
+                "name": "queso",
+                "price": 300
+            },
+            {
+                "name": "jamon",
+                "price": 200
+            },
+            {
+                "name": "chorizo",
+                "price": 200
+            },
+            {
+                "name": "aceituna",
+                "price": 200
+            },
+            {
+                "name": "atun",
+                "price": 750
+            },
+            {
+                "name": "cebolla",
+                "price": 200
+            },
+            {
+                "name": "pina",
+                "price": 300
+            },
+            {
+                "name": "gouda",
+                "price": 650
+            }
+        ]
+    },
+    "pasta": [
+        {
+            "name": "lasana",
+            "price": 800
+        },
+        {
+            "name": "lasagna de queso gouda",
+            "price": 1200
+        },
+        {
+            "name": "espaguetti con queso gouda",
+            "price": 900
+        },
+        {
+            "name": "espaguetti",
+            "price": 600
+        }
+    ],
+    "pizza": [
+        {
+            "name": "pizza napolitana",
+            "price": 600
+        },
+        {
+            "name": "pizza doble queso",
+            "price": 800
+        },
+        {
+            "name": "pizza queso gouda",
+            "price": 900
+        },
+        {
+            "name": "pizza jamon",
+            "price": 800
+        },
+        {
+            "name": "pizza chorizo",
+            "price": 800
+        },
+        {
+            "name": "pizza aceituna",
+            "price": 800
+        },
+        {
+            "name": "pizza atun",
+            "price": 1350
+        },
+        {
+            "name": "pizza cebolla",
+            "price": 800
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 1100
+        },
+        {
+            "name": "pizza 4 estaciones",
+            "price": 1450
+        }
+    ]
+}

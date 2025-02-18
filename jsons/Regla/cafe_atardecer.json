@@ -1,0 +1,126 @@
+{
+    "name": "cafe atardecer",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "criolla"
+    ],
+    "municipality": "Regla",
+    "services": [],
+    "address": "marti entre perdomo y albuquerque, regla, la habana, cuba",
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "07:00",
+            "close": "19:00"
+        },
+        "tuesday": {
+            "open": "07:00",
+            "close": "19:00"
+        },
+        "wednesday": {
+            "open": "07:00",
+            "close": "19:00"
+        },
+        "thursday": {
+            "open": "07:00",
+            "close": "19:00"
+        },
+        "friday": {
+            "open": "07:00",
+            "close": "19:00"
+        },
+        "saturday": {
+            "open": "07:00",
+            "close": "19:00"
+        },
+        "sunday": {
+            "open": "07:00",
+            "close": "19:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "pescado_frito",
+                "price": 500
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "agua",
+                "price": 20
+            },
+            {
+                "name": "refresco",
+                "price": 30
+            },
+            {
+                "name": "cerveza",
+                "price": 50
+            }
+        ],
+        "others": [
+            {
+                "name": "croqueta",
+                "price": 75
+            },
+            {
+                "name": "pan",
+                "price": 90
+            },
+            {
+                "name": "pan",
+                "price": 90
+            },
+            {
+                "name": "pan con salchicha",
+                "price": 120
+            },
+            {
+                "name": "pan con queso y jamon",
+                "price": 150
+            },
+            {
+                "name": "pollo_empanado",
+                "price": 450
+            },
+            {
+                "name": "pollo_fajitas",
+                "price": 450
+            },
+            {
+                "name": "cerdo_escalope",
+                "price": 480
+            },
+            {
+                "name": "cerdo_fajitas",
+                "price": 480
+            },
+            {
+                "name": "cerdo_fricesse",
+                "price": 380
+            }
+        ]
+    }
+}

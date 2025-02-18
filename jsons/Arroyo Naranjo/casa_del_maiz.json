@@ -1,0 +1,216 @@
+{
+    "name": "Casa del Maiz",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Arroyo Naranjo",
+    "services": [
+        "Parking",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator"
+    ],
+    "address": "Avenida 1er anillo / Calzada de Managua y San Agustin, Arroyo Naranjo",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "20:00"
+        }
+    },
+    "contact": {
+        "phone": "52003758",
+        "email": null,
+        "website": null,
+        "facebook": "https://m.facebook.com/lacasadelmaizcuba/",
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Fritura de Malte",
+                "price": 350
+            },
+            {
+                "name": "Fritura de Malanga",
+                "price": 450
+            },
+            {
+                "name": "Toston Relleno",
+                "price": 450
+            },
+            {
+                "name": "Chicharron",
+                "price": 500
+            },
+            {
+                "name": "Garbanzos",
+                "price": 550
+            },
+            {
+                "name": "Cubito de Maiz",
+                "price": 1070
+            },
+            {
+                "name": "Garbanzos Fritos",
+                "price": 450
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Fricase de Cerdo",
+                "price": 1150
+            },
+            {
+                "name": "Bistec de Cerdo",
+                "price": 1250
+            },
+            {
+                "name": "Lomo Ahumado",
+                "price": 1450
+            },
+            {
+                "name": "Costilla Ahumada",
+                "price": 1450
+            },
+            {
+                "name": "Fajitas de Cerdo",
+                "price": 1150
+            },
+            {
+                "name": "Fajita de Pollo",
+                "price": 1150
+            },
+            {
+                "name": "Alitas de Pollo",
+                "price": 1050
+            },
+            {
+                "name": "Pollo en Cazuela",
+                "price": 1050
+            },
+            {
+                "name": "Pechuga de Pollo",
+                "price": 1650
+            },
+            {
+                "name": "Ropa Vieja",
+                "price": 1420
+            },
+            {
+                "name": "Chilindron de Carnero",
+                "price": 1420
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Filete de Pescado",
+                "price": 1480
+            },
+            {
+                "name": "Espenan",
+                "price": 1280
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Helado Pote de 1lt",
+                "price": 850
+            },
+            {
+                "name": "Helado Pote Pequeno",
+                "price": 490
+            },
+            {
+                "name": "Arroz con Leche",
+                "price": 200
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "others": [
+            {
+                "name": "Arroz Salteado",
+                "price": 530
+            },
+            {
+                "name": "Arroz Moro",
+                "price": 250
+            },
+            {
+                "name": "Arroz Blanco",
+                "price": 180
+            },
+            {
+                "name": "Tamal Especial",
+                "price": 90
+            },
+            {
+                "name": "Toston Criollo",
+                "price": 450
+            },
+            {
+                "name": "Ensalada Mixta",
+                "price": 450
+            },
+            {
+                "name": "Aji Relleno",
+                "price": 650
+            },
+            {
+                "name": "Malanga Hervida",
+                "price": 425
+            },
+            {
+                "name": "Pure de Boniato",
+                "price": 250
+            },
+            {
+                "name": "Platano Maduro Frito",
+                "price": 400
+            },
+            {
+                "name": "Yuca con Mojo",
+                "price": 250
+            },
+            {
+                "name": "Fufu de Platano",
+                "price": 300
+            }
+        ]
+    }
+}

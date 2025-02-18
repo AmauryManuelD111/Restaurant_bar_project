@@ -1,0 +1,212 @@
+{
+    "name": "El Palenque",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "caribena",
+        "latina",
+        "internacional",
+        "cubana"
+    ],
+    "municipality": "Playa",
+    "services": [
+        "child_care",
+        "disable_support",
+        "parking",
+        "reserves",
+        "takeaway"
+    ],
+    "address": "Calle 17 e/ 174 y 180 Reparto Siboney ",
+    "qualification": 3.5,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "21:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "21:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "21:00"
+        }
+    },
+    "contact": {
+        "phone": "72038222",
+        "email": null,
+        "website": null,
+        "facebook": "Restaurante El Palenque",
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "cesta de pan",
+                "price": 100
+            },
+            {
+                "name": "croquetas",
+                "price": 150
+            },
+            {
+                "name": "chicharrones",
+                "price": 400
+            },
+            {
+                "name": "entremes surtido",
+                "price": 100
+            },
+            {
+                "name": "entremes de jamon y chorizo",
+                "price": 150
+            },
+            {
+                "name": "variado de queso",
+                "price": 200
+            }
+        ],
+        "salads": [
+            {
+                "name": "ensalada de vegetales",
+                "price": 300
+            }
+        ],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "arroz con pollo",
+                "price": 250
+            },
+            {
+                "name": "pechuga con papas fritas",
+                "price": 700
+            },
+            {
+                "name": "fajitas de pollo salteadas",
+                "price": 400
+            },
+            {
+                "name": "picadillo de res",
+                "price": 350
+            },
+            {
+                "name": "bistec de res",
+                "price": 300
+            },
+            {
+                "name": "res de campesina",
+                "price": 400
+            },
+            {
+                "name": "pasta napolitana",
+                "price": 250
+            },
+            {
+                "name": "lasagna de carne",
+                "price": 200
+            },
+            {
+                "name": "chilindron de cordero",
+                "price": 1700
+            },
+            {
+                "name": "masas de cerdo fritas",
+                "price": 1000
+            },
+            {
+                "name": "bistec de cerdo",
+                "price": 300
+            },
+            {
+                "name": "pollo asado 1kg",
+                "price": 630
+            },
+            {
+                "name": "cerdo asado 400gr",
+                "price": 800
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "mermelada con queso",
+                "price": 60
+            },
+            {
+                "name": "arroz con leche",
+                "price": 60
+            },
+            {
+                "name": "dulce de frutabomba",
+                "price": 120
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": "jugos naturales",
+            "price": 100
+        },
+        "others": [
+            {
+                "name": "papas fritas",
+                "price": 215
+            },
+            {
+                "name": "cerveza",
+                "price": 120
+            },
+            {
+                "name": "licores nacionales",
+                "price": 20
+            },
+            {
+                "name": "ron havana club reserva",
+                "price": 40
+            },
+            {
+                "name": "tequila blanco",
+                "price": 150
+            },
+            {
+                "name": "cafe palenque",
+                "price": null
+            },
+            {
+                "name": "cortadito",
+                "price": 60
+            },
+            {
+                "name": "cafe con leche",
+                "price": 80
+            },
+            {
+                "name": "te",
+                "price": 30
+            }
+        ]
+    }
+}

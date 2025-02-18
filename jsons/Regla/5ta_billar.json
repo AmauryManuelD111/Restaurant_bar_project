@@ -1,0 +1,180 @@
+{
+    "name": "5ta billar",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        null
+    ],
+    "municipality": "Regla",
+    "services": [
+        null
+    ],
+    "address": null,
+    "qualification": 4.9,
+    "hours": {
+        "monday": {
+            "open": "15:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "15:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "15:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "15:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "15:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "15:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "15:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "cacahuates picante",
+                "price": 110
+            },
+            {
+                "name": "tostones rellenos j&g",
+                "price": 750
+            },
+            {
+                "name": "tostones rellenos atun",
+                "price": 980
+            },
+            {
+                "name": "tostones rellenos carne",
+                "price": 900
+            },
+            {
+                "name": "croquetas bola 9",
+                "price": 650
+            },
+            {
+                "name": "bolita dde queso",
+                "price": 850
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 920
+            },
+            {
+                "name": "eperlan",
+                "price": 950
+            },
+            {
+                "name": "entremes",
+                "price": 960
+            },
+            {
+                "name": "surtido 5tabilla",
+                "price": 1650
+            },
+            {
+                "name": "surtido premium",
+                "price": 2950
+            },
+            {
+                "name": "rositas de maiz",
+                "price": 600
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "tacos de cerdo",
+                "price": 950
+            },
+            {
+                "name": "pollo a la gordon blue",
+                "price": 1800
+            },
+            {
+                "name": "uruguayo de cerdo",
+                "price": 2100
+            },
+            {
+                "name": "bistec de pollo encebollado",
+                "price": 1600
+            },
+            {
+                "name": "bistec de cerdo encebollado",
+                "price": 1900
+            },
+            {
+                "name": "brochetas de cerdo al carbon",
+                "price": 1800
+            },
+            {
+                "name": "baby chicken",
+                "price": 960
+            },
+            {
+                "name": "kings chicken",
+                "price": 1350
+            },
+            {
+                "name": "lomo de cerdo asado al carbon",
+                "price": 1800
+            },
+            {
+                "name": "chorizada al carbon",
+                "price": 2000
+            },
+            {
+                "name": "la parrillada",
+                "price": 4950
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "focaccia",
+                "price": 700
+            },
+            {
+                "name": "pizza napolitana",
+                "price": 1100
+            },
+            {
+                "name": "pizza mixta",
+                "price": 1600
+            },
+            {
+                "name": "pizza cuatro estaciones",
+                "price": 1900
+            }
+        ]
+    }
+}

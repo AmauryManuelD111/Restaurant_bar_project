@@ -1,0 +1,155 @@
+{
+    "name": "el cocal",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Cotorro",
+    "services": [
+        "Parking",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator"
+    ],
+    "address": "Direccion completa del restaurante",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": null,
+            "close": null
+        },
+        "wednesday": {
+            "open": null,
+            "close": null
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": "76822199",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas",
+                "price": 600
+            },
+            {
+                "name": "Bolitas de queso",
+                "price": 650
+            },
+            {
+                "name": "Ensalada de Atun",
+                "price": 1000
+            },
+            {
+                "name": "Toston de queso",
+                "price": 600
+            },
+            {
+                "name": "Toston de jamon y queso",
+                "price": 600
+            },
+            {
+                "name": "Toston de Atun",
+                "price": 1000
+            },
+            {
+                "name": "Crema de queso",
+                "price": 550
+            },
+            {
+                "name": "Crema Aurora",
+                "price": 600
+            },
+            {
+                "name": "Crema Virginia",
+                "price": 650
+            },
+            {
+                "name": "Crema Mixta",
+                "price": 700
+            },
+            {
+                "name": "Coctel Camaron",
+                "price": 1500
+            },
+            {
+                "name": "Empellas",
+                "price": 550
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Flan",
+                "price": 500
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Pizza de Queso",
+                "price": 1200
+            },
+            {
+                "name": "Pizza de Jamon",
+                "price": 1400
+            },
+            {
+                "name": "Pizza Hawaiiana",
+                "price": 1500
+            },
+            {
+                "name": "Eperlan Pechuga",
+                "price": 1600
+            },
+            {
+                "name": "Eperlan Pescado",
+                "price": 2000
+            },
+            {
+                "name": "yuca",
+                "price": 400
+            },
+            {
+                "name": "Toston",
+                "price": 400
+            }
+        ]
+    }
+}

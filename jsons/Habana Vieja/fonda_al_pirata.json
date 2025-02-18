@@ -1,0 +1,244 @@
+{
+    "name": "Fonda Al Pirata",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        null
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario",
+        "Tiene bar"
+    ],
+    "address": "San Ignacio #76 e/ O'Reilly y Empedrado, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": "52539750",
+        "email": "alpiratasanignacio@gmail.com",
+        "website": "qr14334.buenacarta.com",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/fondaalpirata?igsh=cjBtN3BiaDExdGV3"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Tostadas Piratas",
+                "price": 960
+            },
+            {
+                "name": "Hummus y Vegetales",
+                "price": 1920
+            },
+            {
+                "name": "Tapas Piratas",
+                "price": 1920
+            },
+            {
+                "name": "Bolitas de queso",
+                "price": 1920
+            },
+            {
+                "name": "Bolitas de queso picantes",
+                "price": 1920
+            },
+            {
+                "name": "Ceviche",
+                "price": 2240
+            },
+            {
+                "name": "Coctel de Langosta",
+                "price": 2720
+            },
+            {
+                "name": "Crudo de Pulpo",
+                "price": 2880
+            }
+        ],
+        "salads": [
+            {
+                "name": "Ensaladas Piratas de Corazon",
+                "price": 1440
+            }
+        ],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Filete de Pescado",
+                "price": 3840
+            },
+            {
+                "name": "Pescado Entero",
+                "price": 5120
+            },
+            {
+                "name": "Langosta a su Gusto",
+                "price": 6080
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [
+            {
+                "name": "Cocteleria",
+                "price": 1104
+            },
+            {
+                "name": "Cocteles Afrutados",
+                "price": 1216
+            },
+            {
+                "name": "Pina Colada",
+                "price": 1440
+            },
+            {
+                "name": "Sangria",
+                "price": 1440
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Jugo Natural",
+                "price": 640
+            },
+            {
+                "name": "Limonada",
+                "price": 640
+            },
+            {
+                "name": "Limonada de Frutas",
+                "price": 720
+            },
+            {
+                "name": "Te",
+                "price": 384
+            },
+            {
+                "name": "Cafe expreso",
+                "price": 480
+            },
+            {
+                "name": "Cafe americano",
+                "price": 480
+            },
+            {
+                "name": "Cortadito",
+                "price": 512
+            },
+            {
+                "name": "Cafe Bombon",
+                "price": 608
+            },
+            {
+                "name": "Cafe expreso doble",
+                "price": 640
+            },
+            {
+                "name": "Cafe con leche",
+                "price": 672
+            },
+            {
+                "name": "Frappuccino",
+                "price": 1232
+            },
+            {
+                "name": "Frappuccino Mocca",
+                "price": 1232
+            }
+        ],
+        "others": [
+            {
+                "name": "Desayuno Tradicional",
+                "price": 2880
+            },
+            {
+                "name": "Desayuno Vegetariano",
+                "price": 2880
+            },
+            {
+                "name": "Desayuno Vegano",
+                "price": 2880
+            },
+            {
+                "name": "Botija Pirata",
+                "price": 1920
+            },
+            {
+                "name": "Combinacion Pirata",
+                "price": 3200
+            },
+            {
+                "name": "Galeon el Olones",
+                "price": 3360
+            },
+            {
+                "name": "Hamburguesa Vegana",
+                "price": 1440
+            },
+            {
+                "name": "Sandwich Verde",
+                "price": 1600
+            },
+            {
+                "name": "Hamburguesa Barba Roja",
+                "price": 2240
+            },
+            {
+                "name": "Sandwich de Pechuga",
+                "price": 2240
+            },
+            {
+                "name": "Sandwich Mary Read",
+                "price": 2240
+            },
+            {
+                "name": "Club Sandwich Pollo",
+                "price": 2560
+            },
+            {
+                "name": "Club Sandwich Atun",
+                "price": 2720
+            },
+            {
+                "name": "Sandwich Abordaje",
+                "price": 3040
+            }
+        ]
+    }
+}

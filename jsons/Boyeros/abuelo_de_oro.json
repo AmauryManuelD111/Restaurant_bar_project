@@ -1,0 +1,253 @@
+{
+    "name": "abuelo de oro",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana",
+        "internacional",
+        "italiana"
+    ],
+    "municipality": "Boyeros",
+    "services": [
+        "Parking",
+        "Reservations",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator"
+    ],
+    "address": "calzada aldabo % 12 y 13, aldabo, boyeros",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": "76472100",
+        "email": null,
+        "website": "https://es.restaurantguru.com/El-abuelo-de-oro-Havana",
+        "facebook": "https://www.facebook.com/AbueloDOro?utm_source=restaurantguru&utm_medium=referral",
+        "instagram": "@abuelo_de_oro_cuba"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "croquetas",
+                "price": 500
+            },
+            {
+                "name": "empanadas",
+                "price": 500
+            },
+            {
+                "name": "frituras",
+                "price": 500
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 1000
+            },
+            {
+                "name": "papas bravas",
+                "price": 500
+            },
+            {
+                "name": "papas doradas",
+                "price": 450
+            },
+            {
+                "name": "ceviche",
+                "price": 2000
+            },
+            {
+                "name": "coctel de langosta",
+                "price": 2000
+            },
+            {
+                "name": "coctel de camarones",
+                "price": 2000
+            },
+            {
+                "name": "tabla surtida",
+                "price": 3000
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "pizza napolitana",
+                "price": 1000
+            },
+            {
+                "name": "pizza jamon",
+                "price": 1300
+            },
+            {
+                "name": "pizza hawaiana",
+                "price": 1400
+            },
+            {
+                "name": "pizza cebolla",
+                "price": 1100
+            },
+            {
+                "name": "pizza pimiento",
+                "price": 1100
+            },
+            {
+                "name": "pizza pepperoni",
+                "price": 1500
+            },
+            {
+                "name": "espaguetis napolitanos",
+                "price": 1200
+            },
+            {
+                "name": "espaguetis jamon",
+                "price": 1500
+            },
+            {
+                "name": "vaca frita",
+                "price": 3000
+            },
+            {
+                "name": "ropa vieja",
+                "price": 3000
+            },
+            {
+                "name": "bistec res cazuela",
+                "price": 3500
+            },
+            {
+                "name": "picadillo habanera",
+                "price": 2900
+            },
+            {
+                "name": "bistec encebollado",
+                "price": 2500
+            },
+            {
+                "name": "cerdo salteado",
+                "price": 2800
+            },
+            {
+                "name": "medalla con jamon y queso",
+                "price": 3800
+            },
+            {
+                "name": "medalla con ropa vieja y queso",
+                "price": 3800
+            },
+            {
+                "name": "chuletilla",
+                "price": 3000
+            },
+            {
+                "name": "pechuga grille",
+                "price": 3000
+            },
+            {
+                "name": "pechuga salteada",
+                "price": 3500
+            },
+            {
+                "name": "pollo frito",
+                "price": 2500
+            },
+            {
+                "name": "filete pescado grille",
+                "price": 3000
+            },
+            {
+                "name": "filete pescado montado",
+                "price": 4000
+            },
+            {
+                "name": "gratin del mar",
+                "price": 4000
+            },
+            {
+                "name": "langosta en sus variedades",
+                "price": 4800
+            },
+            {
+                "name": "camaron variado",
+                "price": 4800
+            },
+            {
+                "name": " 1kg cerdo asado",
+                "price": 15000
+            },
+            {
+                "name": "chuleton cerdo",
+                "price": 6500
+            },
+            {
+                "name": "chuleta cerdo",
+                "price": 3000
+            },
+            {
+                "name": "mar y tierra",
+                "price": 19000
+            },
+            {
+                "name": "tacos ropa vieja",
+                "price": 1500
+            },
+            {
+                "name": "tacos vaca frita",
+                "price": 1450
+            },
+            {
+                "name": "tacos cerdo",
+                "price": 1200
+            },
+            {
+                "name": "sandwich jamon y queso",
+                "price": 1500
+            },
+            {
+                "name": "sandwich pechuga y queso",
+                "price": 1800
+            }
+        ]
+    }
+}

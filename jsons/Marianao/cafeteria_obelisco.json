@@ -1,0 +1,118 @@
+{
+    "name": "CafeteriaObelisco",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Variada"
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "Avenida 31",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "18:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Bolitas de carne",
+                "price": 20
+            },
+            {
+                "name": "Dados de queso",
+                "price": 180
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Agua saborizada",
+                "price": 50
+            },
+            {
+                "name": "Agua natural",
+                "price": 180
+            },
+            {
+                "name": "Cerveza cristal",
+                "price": 180
+            },
+            {
+                "name": "Vino blanco entre Rio",
+                "price": 160
+            },
+            {
+                "name": "Vino blanco",
+                "price": 160
+            },
+            {
+                "name": "Cerveza",
+                "price": 50
+            }
+        ],
+        "others": [
+            {
+                "name": "Pan con queso y embutido",
+                "price": 250
+            },
+            {
+                "name": "Pizza de queso",
+                "price": 200
+            },
+            {
+                "name": "Frijol negro",
+                "price": 55
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 70
+            }
+        ]
+    }
+}

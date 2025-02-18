@@ -1,0 +1,411 @@
+{
+    "name": "El Rincon De Las Letras",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "criolla",
+        "internacional"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [],
+    "address": "Calle Villegas #206 entre Obispo y Obrapia, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:30",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "08:30",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "08:30",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "08:30",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "08:30",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "08:30",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "08:30",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "78014746",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/elrincondelasletras.lahabana?igsh=MWxramZlY3NjNDR6ZQ=="
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas de la casa",
+                "price": 1250
+            },
+            {
+                "name": "Brusquetas de jamon serrano",
+                "price": 1250
+            },
+            {
+                "name": "Brusquetas de camaron o langosta",
+                "price": 1250
+            },
+            {
+                "name": "Brusquetas de salmon ahumado",
+                "price": 1250
+            },
+            {
+                "name": "Gazpacho",
+                "price": 1200
+            },
+            {
+                "name": "Fish stick",
+                "price": 1125
+            },
+            {
+                "name": "Eperlen",
+                "price": 1125
+            },
+            {
+                "name": "Ceviche de pescado",
+                "price": 1250
+            },
+            {
+                "name": "Coctel de camaron o langosta",
+                "price": 1275
+            },
+            {
+                "name": "Carpaccio de pulpo",
+                "price": 1250
+            },
+            {
+                "name": "Carpaccio de res",
+                "price": 1500
+            },
+            {
+                "name": "Toston ropa vieja",
+                "price": 1100
+            }
+        ],
+        "salads": [
+            {
+                "name": "Ensalada de atun (150g)",
+                "price": 1350
+            },
+            {
+                "name": "Ensalada Cesar (150g)",
+                "price": 1800
+            },
+            {
+                "name": "Ensalada nicois (50g)",
+                "price": 1650
+            },
+            {
+                "name": "Vegetales salteados (60g)",
+                "price": 550
+            },
+            {
+                "name": "Ensalada de vegetales (60g)",
+                "price": 550
+            }
+        ],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Suprema de pollo (200g)",
+                "price": 2000
+            },
+            {
+                "name": "Ropa vieja (100g)",
+                "price": 2000
+            },
+            {
+                "name": "Cerdo al gusto (200g)",
+                "price": 2000
+            },
+            {
+                "name": "Masa de cerdo encebollada (200g)",
+                "price": 2000
+            },
+            {
+                "name": "Pollo a la barbacoa (250g)",
+                "price": 2000
+            },
+            {
+                "name": "Cordero al gusto (200g)",
+                "price": 2500
+            }
+        ],
+        "beef": [
+            {
+                "name": "Filete mignon (200g)",
+                "price": 5000
+            },
+            {
+                "name": "Lonjas de res a la doocht (200g)",
+                "price": 5000
+            },
+            {
+                "name": "Res a la moda (240g)",
+                "price": 5000
+            },
+            {
+                "name": "Churrasco (200g)",
+                "price": 4500
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Camaron al gusto",
+                "price": 2500
+            },
+            {
+                "name": "Langosta al gusto",
+                "price": 3000
+            },
+            {
+                "name": "Pulpo al gusto",
+                "price": 3000
+            },
+            {
+                "name": "Pescado",
+                "price": 2500
+            },
+            {
+                "name": "Salmon",
+                "price": 3750
+            },
+            {
+                "name": "Mariscada",
+                "price": 6250
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [
+            {
+                "name": "Mojito",
+                "price": 800
+            },
+            {
+                "name": "Daiquiri rebelde",
+                "price": 800
+            },
+            {
+                "name": "Cubata",
+                "price": 800
+            },
+            {
+                "name": "Caipirinha",
+                "price": 800
+            },
+            {
+                "name": "Caipirissima",
+                "price": 800
+            },
+            {
+                "name": "Canchánchara",
+                "price": 830
+            },
+            {
+                "name": "Vodka tonic",
+                "price": 950
+            },
+            {
+                "name": "Pina colada",
+                "price": 950
+            },
+            {
+                "name": "Sangria",
+                "price": 1150
+            },
+            {
+                "name": "Scull drive",
+                "price": 940
+            },
+            {
+                "name": "Bloody Mary",
+                "price": 900
+            }
+        ],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Dos huevos a su gusto",
+                "price": 1850
+            },
+            {
+                "name": "Dos huevos a su gusto con queso manchego",
+                "price": 2250
+            },
+            {
+                "name": "Dos huevos a su gusto con salmon ahumado y queso manchego",
+                "price": 2750
+            },
+            {
+                "name": "Huevos (2u)",
+                "price": 550
+            },
+            {
+                "name": "Frutas 400g (3 tipos de frutas)",
+                "price": 480
+            },
+            {
+                "name": "Tostadas bud",
+                "price": 100
+            },
+            {
+                "name": "Tostadas francesas",
+                "price": 250
+            },
+            {
+                "name": "Hotcakes con sirope",
+                "price": 360
+            },
+            {
+                "name": "Sandwich de jamon y queso",
+                "price": 950
+            },
+            {
+                "name": "Sandwich de atun",
+                "price": 1250
+            },
+            {
+                "name": "Sandwich cubano",
+                "price": 2000
+            },
+            {
+                "name": "Tabla especial de queso (4 tipos de queso x 70g)",
+                "price": 1975
+            },
+            {
+                "name": "Tabla de jamon serrano (150g)",
+                "price": 2800
+            },
+            {
+                "name": "Tabla de embutidos (4 tipos x 50g)",
+                "price": 1725
+            },
+            {
+                "name": "Tabla de surtido especial (460g)",
+                "price": 6800
+            },
+            {
+                "name": "Pasta napole",
+                "price": 1200
+            },
+            {
+                "name": "Pasta pesto",
+                "price": 1400
+            },
+            {
+                "name": "Pasta al ajillo",
+                "price": 1400
+            },
+            {
+                "name": "Pasta marinera",
+                "price": 2500
+            },
+            {
+                "name": "Pasta carbonara",
+                "price": 2500
+            },
+            {
+                "name": "Arroz blanco (80g)",
+                "price": 120
+            },
+            {
+                "name": "Arroz con maiz (80g)",
+                "price": 450
+            },
+            {
+                "name": "Arroz moro (80g)",
+                "price": 250
+            },
+            {
+                "name": "Arroz pilaf (80g)",
+                "price": 450
+            },
+            {
+                "name": "Arroz salteado (80g)",
+                "price": 1350
+            },
+            {
+                "name": "Frijoles negros",
+                "price": 300
+            },
+            {
+                "name": "Pure de malanga (60g)",
+                "price": 550
+            },
+            {
+                "name": "Vianda con mojo (60g)",
+                "price": 300
+            },
+            {
+                "name": "Tostones (100g)",
+                "price": 300
+            },
+            {
+                "name": "Sopa del dia",
+                "price": 1150
+            },
+            {
+                "name": "Queso gouda (50g)",
+                "price": 780
+            },
+            {
+                "name": "Queso azul (40g)",
+                "price": 890
+            },
+            {
+                "name": "Queso parmesano (30g)",
+                "price": 840
+            },
+            {
+                "name": "Jamon vicky (50g)",
+                "price": 750
+            },
+            {
+                "name": "Jamon serrano (30g)",
+                "price": 840
+            },
+            {
+                "name": "Chorizo (40g)",
+                "price": 840
+            },
+            {
+                "name": "Bacon (50g)",
+                "price": 680
+            },
+            {
+                "name": "Atun (40g)",
+                "price": 850
+            },
+            {
+                "name": "Champinon (50g)",
+                "price": 560
+            },
+            {
+                "name": "Aceitunas verdes (40g)",
+                "price": 520
+            }
+        ]
+    }
+}

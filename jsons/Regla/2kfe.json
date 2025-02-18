@@ -1,0 +1,178 @@
+{
+    "name": "2KFE",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "others"
+    ],
+    "municipality": "Regla",
+    "services": [
+        "A la carta",
+        "Efectivo",
+        "Transfermovil"
+    ],
+    "address": null,
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "20:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "20:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas",
+                "price": 300
+            },
+            {
+                "name": "Viandas fritas",
+                "price": 100
+            },
+            {
+                "name": "Brusquetas",
+                "price": 250
+            },
+            {
+                "name": "Entremes surtido",
+                "price": 800
+            },
+            {
+                "name": "Mini Gordon Bleu",
+                "price": 800
+            },
+            {
+                "name": "Plato combinado",
+                "price": 1200
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Espresso",
+                "price": 100
+            },
+            {
+                "name": "Americano",
+                "price": 100
+            },
+            {
+                "name": "Cortadito",
+                "price": 150
+            },
+            {
+                "name": "Con Leche",
+                "price": 200
+            },
+            {
+                "name": "Espresso Macchiato",
+                "price": 180
+            },
+            {
+                "name": "Caramel Macchiato",
+                "price": 250
+            },
+            {
+                "name": "Cappuccino",
+                "price": 220
+            },
+            {
+                "name": "Frappuccino",
+                "price": 500
+            },
+            {
+                "name": "Irlandes",
+                "price": 250
+            },
+            {
+                "name": "Caribeno",
+                "price": 180
+            },
+            {
+                "name": "Alma mia",
+                "price": 180
+            },
+            {
+                "name": "Minty Coffee",
+                "price": 250
+            },
+            {
+                "name": "2KF",
+                "price": 250
+            },
+            {
+                "name": "Lujo",
+                "price": 600
+            }
+        ],
+        "others": [
+            {
+                "name": "Tacos Carnitas",
+                "price": 850
+            },
+            {
+                "name": "Tacos Res",
+                "price": 900
+            },
+            {
+                "name": "Tacos Pollo",
+                "price": 600
+            },
+            {
+                "name": "Tacos Vegetariano",
+                "price": 400
+            },
+            {
+                "name": "Tacos Vegetales salteados en mantequilla y limon",
+                "price": 0
+            },
+            {
+                "name": "Tacos Jamon y Queso",
+                "price": 650
+            }
+        ]
+    }
+}

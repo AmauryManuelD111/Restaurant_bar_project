@@ -1,0 +1,433 @@
+{
+    "name": "Sibarita",
+    "type": [
+        "restaurant",
+        "bar"
+    ],
+    "speciality": [
+        "Caribena",
+        "Latina",
+        "Internacional",
+        "Mediterranea",
+        "Cubana",
+        "Centroamericana"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Reservaciones",
+        "Asiento",
+        "Sirve alcohol",
+        "Bar completo",
+        "Servicio de mesa"
+    ],
+    "address": "O'Reilly #528 entre Bernaza y Villegas, Habana Vieja",
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "02:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": "52670512",
+        "email": null,
+        "website": null,
+        "facebook": "https://www.facebook.com/profile.php?id=100083130860865",
+        "instagram": "https://www.instagram.com/sibarita_habana?igshid=ymmymta2m2y%3D"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Tamal con salsa BBQ",
+                "price": 600
+            },
+            {
+                "name": "Seleccion del panadero",
+                "price": 600
+            },
+            {
+                "name": "Tostas de cangrejo",
+                "price": 800
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 1200
+            },
+            {
+                "name": "Tartar de albacora",
+                "price": 1300
+            },
+            {
+                "name": "Ceviche Sibarita",
+                "price": 1300
+            },
+            {
+                "name": "Bruschettas Mix",
+                "price": 1350
+            },
+            {
+                "name": "Tacos de ropa vieja",
+                "price": 1700
+            },
+            {
+                "name": "Tacos de cerdo",
+                "price": 1600
+            },
+            {
+                "name": "Tataki de albacora",
+                "price": 1950
+            },
+            {
+                "name": "Tabla de jamon serrano embutidos y queso",
+                "price": 2700
+            },
+            {
+                "name": "Tacos de camaron y bacon",
+                "price": 2950
+            },
+            {
+                "name": "Carpaccio de Res Angus Prime",
+                "price": 3500
+            }
+        ],
+        "salads": [
+            {
+                "name": "natural",
+                "price": 800
+            },
+            {
+                "name": "chicken little",
+                "price": 1650
+            }
+        ],
+        "vegetables": [
+            {
+                "name": "Boniato al horno y romero",
+                "price": 450
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 500
+            },
+            {
+                "name": "Vegetal Salteado",
+                "price": 550
+            },
+            {
+                "name": "Arroz moro",
+                "price": 650
+            },
+            {
+                "name": "Arroz causa",
+                "price": 700
+            },
+            {
+                "name": "Papas fritas",
+                "price": 1600
+            }
+        ],
+        "meats": [
+            {
+                "name": "Ropa Vieja",
+                "price": 1950
+            },
+            {
+                "name": "Cerdo Teriyaki",
+                "price": 2350
+            },
+            {
+                "name": "Pollo Grille",
+                "price": 2300
+            },
+            {
+                "name": "Solomillo de Cerdo",
+                "price": 2350
+            },
+            {
+                "name": "Pollo Kekou",
+                "price": 2750
+            },
+            {
+                "name": "Risotto Carbonara",
+                "price": 3100
+            },
+            {
+                "name": "Cordero del Chef",
+                "price": 3900
+            }
+        ],
+        "beef": [
+            {
+                "name": "Rib Eye",
+                "price": 10000
+            },
+            {
+                "name": "Churrasco Australiano",
+                "price": 10800
+            },
+            {
+                "name": "New York",
+                "price": 11000
+            },
+            {
+                "name": "Entrecot de Res Espanol",
+                "price": 9800
+            },
+            {
+                "name": "Picana",
+                "price": 11000
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Pescado Grille",
+                "price": 2150
+            },
+            {
+                "name": "Pasta de Salmon",
+                "price": 3100
+            },
+            {
+                "name": "Escalopinas de Pescado",
+                "price ": 2850
+            },
+            {
+                "name": "Pasta Zakay",
+                "price": 3100
+            },
+            {
+                "name": "Camaron al Ajillo",
+                "price": 3900
+            },
+            {
+                "name": "Langosta al Cartouch",
+                "price": 3800
+            },
+            {
+                "name": "Pescado Entero Frito",
+                "price": 5800
+            },
+            {
+                "name": "Camaron Jumbo en costra de ajo y parmesano",
+                "price": 6350
+            },
+            {
+                "name": "Saltado de Pulpo",
+                "price": 6800
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Burguerita",
+                "price": 4200
+            },
+            {
+                "name": "Burguerita gold 24k",
+                "price": 12000
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Helado",
+                "price": 800
+            },
+            {
+                "name": "Tarta del dia",
+                "price": 1400
+            },
+            {
+                "name": "Tarta helada de limon",
+                "price": 1600
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "Mojito",
+                "price": 1400
+            },
+            {
+                "name": "daiquiri",
+                "price": 1250
+            },
+            {
+                "name": "Sangria",
+                "price": 1600
+            },
+            {
+                "name": "Caipirina",
+                "price": 1150
+            },
+            {
+                "name": "Caipiroska",
+                "price": 1250
+            },
+            {
+                "name": "Pina Colada",
+                "price": 1800
+            },
+            {
+                "name": "Gin Tonic",
+                "price": 1450
+            },
+            {
+                "name": "Servicio de Chelada",
+                "price": 350
+            },
+            {
+                "name": "Servicio de Michelada",
+                "price": 500
+            },
+            {
+                "name": "Cubanito",
+                "price": 1150
+            },
+            {
+                "name": "Bloody Mary",
+                "price": 1150
+            },
+            {
+                "name": "Margarita",
+                "price": 1350
+            },
+            {
+                "name": "Martini",
+                "price": 1450
+            },
+            {
+                "name": "Cubalibre",
+                "price": 1150
+            },
+            {
+                "name": "Cubata",
+                "price": 1250
+            }
+        ],
+        "twist_cocktails": [
+            {
+                "name": "Sexy Mojito",
+                "price": 1500
+            },
+            {
+                "name": "Exotico Daiquiri",
+                "price": 1400
+            },
+            {
+                "name": "Negroni Especiado",
+                "price": 1750
+            },
+            {
+                "name": "Cuban Old Fashion",
+                "price": 1450
+            },
+            {
+                "name": "MB",
+                "price": 1450
+            }
+        ],
+        "classic_cocktails": [
+            {
+                "name": "#528",
+                "price": 1450
+            },
+            {
+                "name": "Vodnila",
+                "price": 1400
+            },
+            {
+                "name": "El Güero",
+                "price": 1400
+            },
+            {
+                "name": "Rich People",
+                "price": 1550
+            },
+            {
+                "name": "Cachucha",
+                "price": 1450
+            },
+            {
+                "name": "Maui",
+                "price": 1550
+            },
+            {
+                "name": "Extasis",
+                "price": 1950
+            }
+        ],
+        "tiki_cocktails": [
+            {
+                "name": "Maitai",
+                "price": 1300
+            },
+            {
+                "name": "Zombie",
+                "price": 1450
+            },
+            {
+                "name": "Blue Hawaii",
+                "price": 1600
+            }
+        ],
+        "tiki_author_cocktails": [
+            {
+                "name": "Juanito",
+                "price": 1600
+            },
+            {
+                "name": "Aloha Havana",
+                "price": 1550
+            },
+            {
+                "name": "San Tiki",
+                "price": 1500
+            },
+            {
+                "name": "Gran Kahuna",
+                "price": 1500
+            },
+            {
+                "name": "El Popi",
+                "price": 1300
+            },
+            {
+                "name": "Kala",
+                "price": 1650
+            }
+        ],
+        "drinks": null,
+        "others": [
+            {
+                "name": "Servicio de Hookah",
+                "price": 4000
+            },
+            {
+                "name": "Cambio de Carbon",
+                "price": 1500
+            }
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "name": "D'kmino",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "caribena",
+        "latina",
+        "cubana"
+    ],
+    "municipality": "Playa",
+    "services": [
+        "plant",
+        "child_care",
+        "parking",
+        "delivery",
+        "reserves",
+        "takeaway",
+        "interactive_act"
+    ],
+    "address": "Avenida 41, Playa",
+    "qualification": 4.0,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "72090437",
+        "email": null,
+        "website": null,
+        "facebook": "DKmino",
+        "instagram": "https://www.instagram.com/@dkaminocomidasaludable"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "pan con chicharrones carnudos y guacamole",
+                "price": 1655
+            },
+            {
+                "name": "pan cubano el guapo",
+                "price": 3555
+            },
+            {
+                "name": "croquetas de la abuela",
+                "price": 1000
+            },
+            {
+                "name": "frituras de malanga y jamon",
+                "price": 1700
+            },
+            {
+                "name": "empanadas de la casa",
+                "price": 1700
+            },
+            {
+                "name": "carpaccio de ternera aceite trufas y destellos de parmesano",
+                "price": 1700
+            },
+            {
+                "name": "berenjenas a la parmesana",
+                "price": 1700
+            },
+            {
+                "name": "quesadilla marinera",
+                "price": 1700
+            },
+            {
+                "name": "tostas y tacos de res o camaron",
+                "price": 1700
+            },
+            {
+                "name": "ensalada cesar con dados de pollo show",
+                "price": 1700
+            },
+            {
+                "name": "chorizo gallego al carbon con queso manchego",
+                "price": 1700
+            },
+            {
+                "name": "ceviche de pescado y calamares crujientes",
+                "price": 1700
+            },
+            {
+                "name": "steak tartar show",
+                "price": 1700
+            },
+            {
+                "name": "calamares a la romana con salsa tartara y aceite de sesamo",
+                "price": 945
+            },
+            {
+                "name": "burrata fresca con aceite de truffas tomate y aguacate",
+                "price": 2100
+            },
+            {
+                "name": "yaquitori de langosta crujiente con salsa chipotle",
+                "price": 2255
+            },
+            {
+                "name": "provoleta con blanqueta tomate y pimiento asado",
+                "price": 3335
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "cookies recien horneadas con helado y cremas",
+                "price": 2000
+            },
+            {
+                "name": "cheesecake",
+                "price": 2000
+            },
+            {
+                "name": "tres leche con fanguito y helado",
+                "price": 2000
+            },
+            {
+                "name": "brownie de nueces y helado de pistacho",
+                "price": 2000
+            },
+            {
+                "name": "es mas que un flan",
+                "price": 2000
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": null,
+        "others": []
+    }
+}

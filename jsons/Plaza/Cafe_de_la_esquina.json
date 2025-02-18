@@ -1,0 +1,317 @@
+{
+    "name": "Cafe De la Esquina",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "Comida cubana",
+        "caribena",
+        "americana"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "privado",
+        "reservation",
+        "parking",
+        "delivery",
+        "power_generator"
+    ],
+    "address": "Paseo #101, esq. a 5ta., Vedado",
+    "qualification": 4.0,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "21:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "21:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "21:00"
+        }
+    },
+    "contact": {
+        "phone": "78362565",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Pizza Tacos Mix",
+                "price": 2600
+            },
+            {
+                "name": "Tabla de la casa",
+                "price": 4200
+            },
+            {
+                "name": "Canoa de Olga",
+                "price": 800
+            },
+            {
+                "name": "Trio de pizzeta Margarita",
+                "price": 1000
+            },
+            {
+                "name": "Tapa Hot Dog",
+                "price": 2200
+            },
+            {
+                "name": "Trio de pizzeta especial",
+                "price": 1300
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Tarta de la casa",
+                "price": 700
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "Mojito",
+                "price": 700
+            },
+            {
+                "name": "Mojito Especial",
+                "price": 750
+            },
+            {
+                "name": "Pina Colada",
+                "price": 900
+            },
+            {
+                "name": "Daikiri",
+                "price": 700
+            },
+            {
+                "name": "Margarita",
+                "price": 1000
+            },
+            {
+                "name": "Sangria",
+                "price": 750
+            },
+            {
+                "name": "Caipirina",
+                "price": 750
+            },
+            {
+                "name": "Caipiroska",
+                "price": 750
+            },
+            {
+                "name": "Gin Tonic",
+                "price": 900
+            },
+            {
+                "name": "Vodka Tonic",
+                "price": 900
+            },
+            {
+                "name": "Limonada natural",
+                "price": 450
+            },
+            {
+                "name": "Limonada Lizzie sin ron",
+                "price": 700
+            },
+            {
+                "name": "Limonada Lizzie con ron",
+                "price": 750
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Agua gaseada importada",
+                "price": 1050
+            },
+            {
+                "name": "Agua natural pequena",
+                "price": 300
+            },
+            {
+                "name": "Agua natural grande",
+                "price": 500
+            },
+            {
+                "name": "Agua gaseada nacional",
+                "price": 500
+            },
+            {
+                "name": "Agua Tonica nacional",
+                "price": 350
+            },
+            {
+                "name": "Refresco nacional",
+                "price": 350
+            },
+            {
+                "name": "Refresco importado",
+                "price": 350
+            },
+            {
+                "name": "Cerveza importada",
+                "price": 400
+            },
+            {
+                "name": "Cerveza nacional superior",
+                "price": 550
+            },
+            {
+                "name": "jugo de frutas naturales",
+                "price": 250
+            },
+            {
+                "name": "Copa de vino tinto",
+                "price": 600
+            },
+            {
+                "name": "Copa de vino blanco",
+                "price": 600
+            },
+            {
+                "name": "Energizante",
+                "price": 600
+            },
+            {
+                "name": "Malta",
+                "price": 450
+            },
+            {
+                "name": "Batido de helado",
+                "price": 650
+            },
+            {
+                "name": "Batido de frutas",
+                "price": 450
+            }
+        ],
+        "others": [
+            {
+                "name": "Falso Sushi",
+                "price": 2600
+            },
+            {
+                "name": "Rollo Criollo",
+                "price": 1900
+            },
+            {
+                "name": "Rollo La Esquina",
+                "price": 1900
+            },
+            {
+                "name": "Plato Campesino",
+                "price": 2500
+            },
+            {
+                "name": "Pasta clásica",
+                "price": 1300
+            },
+            {
+                "name": "Pasta al pesto",
+                "price": 1500
+            },
+            {
+                "name": "Pasta Ragu/Bolognesa",
+                "price": 1800
+            },
+            {
+                "name": "Pasta Carbonara",
+                "price": 2200
+            },
+            {
+                "name": "Cebolla",
+                "price": 120
+            },
+            {
+                "name": "Champinon",
+                "price": 170
+            },
+            {
+                "name": "Queso Gouda",
+                "price": 200
+            },
+            {
+                "name": "Jamon Embuchado",
+                "price": 100
+            },
+            {
+                "name": "Bacon",
+                "price": 150
+            },
+            {
+                "name": "expresso",
+                "price": 200
+            },
+            {
+                "name": "Capuccino",
+                "price": 350
+            },
+            {
+                "name": "Frapuccino",
+                "price": 700
+            },
+            {
+                "name": "Americano",
+                "price": 220
+            },
+            {
+                "name": "Cortado",
+                "price": 260
+            },
+            {
+                "name": "Cafe con leche",
+                "price": 350
+            },
+            {
+                "name": "Carajillo",
+                "price": 360
+            },
+            {
+                "name": "Cafe Bombon",
+                "price": 600
+            },
+            {
+                "name": "Cafe frio",
+                "price": 300
+            },
+            {
+                "name": "Te",
+                "price": 250
+            }
+        ]
+    }
+}

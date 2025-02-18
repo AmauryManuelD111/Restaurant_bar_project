@@ -1,0 +1,146 @@
+{
+    "name": "Buenissimo heladeria",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana",
+        "italiana"
+    ],
+    "municipality": "Centro Habana",
+    "services": [
+        "plant",
+        "child_care",
+        "parking"
+    ],
+    "address": "Calle 4 entre 15 y 17, Vedado",
+    "qualification": 5.0,
+    "hours": {
+        "monday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "09:30",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "09:30",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "09:30",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "09:30",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": "https://buennissimo.com/",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/buenissimo.heladeria"
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "1/2 kg de helado",
+                "price": 1800
+            },
+            {
+                "name": "1 kg de helado",
+                "price": 3600
+            },
+            {
+                "name": "cono (1bola 95gr)",
+                "price": 280
+            },
+            {
+                "name": "cono doble",
+                "price": 560
+            },
+            {
+                "name": "cono maxi",
+                "price": 850
+            },
+            {
+                "name": "copa buenissimo",
+                "price": 1500
+            },
+            {
+                "name": "copa family",
+                "price": 2100
+            },
+            {
+                "name": "copa firenze",
+                "price": 1200
+            },
+            {
+                "name": "copa habana",
+                "price": 620
+            },
+            {
+                "name": "copa roma",
+                "price": 950
+            },
+            {
+                "name": "copeta 1 bola",
+                "price": 300
+            },
+            {
+                "name": "copeta 2 sabores",
+                "price": 630
+            },
+            {
+                "name": "copeta 3 sabores",
+                "price": 920
+            },
+            {
+                "name": "copeta 4 sabores",
+                "price": 1200
+            },
+            {
+                "name": "tulipan",
+                "price": 1300
+            },
+            {
+                "name": "tulipan max",
+                "price": 1500
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "batido",
+                "price": 900
+            },
+            {
+                "name": "batido maxi",
+                "price": 1000
+            }
+        ],
+        "others": []
+    }
+}

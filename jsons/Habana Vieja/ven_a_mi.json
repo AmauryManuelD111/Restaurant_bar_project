@@ -1,0 +1,295 @@
+{
+    "name": "Venami",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "italian",
+        "pizza",
+        "mediterranean",
+        "european"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Sanitario"
+    ],
+    "address": "Monserrate #435 e/ Teniente Rey y Lamparilla, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:30",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:30",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": "78605156",
+        "email": null,
+        "website": "http://venamihabana.com",
+        "facebook": "https://m.facebook.com/100066988458475/?profile_tab_item_selected=about",
+        "instagram": "https://www.instagram.com/venami_habana?igsh=MWh3a25mb3B2NmMxcw=="
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Focaccia a las Hierbas",
+                "price": 300
+            },
+            {
+                "name": "Brusquetas",
+                "price": 350
+            },
+            {
+                "name": "Melanzane Bolonesa",
+                "price": 450
+            },
+            {
+                "name": "Melanzane Vegetales",
+                "price": 400
+            },
+            {
+                "name": "Focaccia Rellena",
+                "price": 350
+            },
+            {
+                "name": "Ensalada Capresi",
+                "price": 350
+            },
+            {
+                "name": "Ensalada Vegetales",
+                "price": 1350
+            },
+            {
+                "name": "Estrofolino Vegetal",
+                "price": 850
+            },
+            {
+                "name": "Estrofolino Jamon",
+                "price": 900
+            },
+            {
+                "name": "Estrofolino Natural",
+                "price": 650
+            },
+            {
+                "name": "Focaccia con Jamon Serrano",
+                "price": 1100
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Pollo al Limon",
+                "price": 1210
+            },
+            {
+                "name": "Pollo a la Piazzola",
+                "price": 1250
+            },
+            {
+                "name": "Cerdo al Limon",
+                "price": 1300
+            }
+        ],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "Pescado Livonnesa",
+                "price": 1310
+            },
+            {
+                "name": "Pescado al Camaron",
+                "price": 1400
+            },
+            {
+                "name": "Spaghetti Fruto del Mar",
+                "price": 1450
+            },
+            {
+                "name": "Spaghetti al Camaron",
+                "price": 1250
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Flan",
+                "price": 400
+            },
+            {
+                "name": "Tarta con Helado",
+                "price": 450
+            },
+            {
+                "name": "Helado",
+                "price": 300
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "Cocteles",
+                "price": 450
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Agua Natural (500ml)",
+                "price": 150
+            },
+            {
+                "name": "Agua Natural (1500ml)",
+                "price": 300
+            },
+            {
+                "name": "Refresco",
+                "price": 400
+            },
+            {
+                "name": "Malta",
+                "price": 310
+            },
+            {
+                "name": "Jugo de Frutas Naturales",
+                "price": 250
+            },
+            {
+                "name": "Limonada",
+                "price": 200
+            },
+            {
+                "name": "Cerveza Nacional",
+                "price": 330
+            },
+            {
+                "name": "Cafe",
+                "price": 150
+            },
+            {
+                "name": "Cafe Capuchino",
+                "price": 350
+            },
+            {
+                "name": "Cafe Cortadito",
+                "price": 350
+            },
+            {
+                "name": "Cafe con Leche",
+                "price": 350
+            },
+            {
+                "name": "Cafe Americano",
+                "price": 150
+            },
+            {
+                "name": "Te",
+                "price": 110
+            }
+        ],
+        "others": [
+            {
+                "name": "Crema de Queso",
+                "price": 600
+            },
+            {
+                "name": "Crema Virginia",
+                "price": 630
+            },
+            {
+                "name": "Crema Champinon",
+                "price": 650
+            },
+            {
+                "name": "Al Fungi",
+                "price": 1100
+            },
+            {
+                "name": "Al Fruto del Mar",
+                "price": 1350
+            },
+            {
+                "name": "Al Venami",
+                "price": 1050
+            },
+            {
+                "name": "Penne Champinon/Serrano",
+                "price": 1380
+            },
+            {
+                "name": "Spaghetti Amatriciana",
+                "price": 1100
+            },
+            {
+                "name": "Spaghetti Alfredo (Jamon)",
+                "price": 1050
+            },
+            {
+                "name": "Spaghetti a la Carbonara",
+                "price": 1200
+            },
+            {
+                "name": "Penne Arrabiatta",
+                "price": 950
+            },
+            {
+                "name": "Penne a la Bolonesa",
+                "price": 1050
+            },
+            {
+                "name": "Spaghetti de Atún/Alcaparras",
+                "price": 1000
+            },
+            {
+                "name": "Spaghetti Pomodoro Basilico",
+                "price": 800
+            },
+            {
+                "name": "Spaghetti al Pesto",
+                "price": 950
+            },
+            {
+                "name": "Spaghetti al Venami",
+                "price": 1250
+            },
+            {
+                "name": "Spaghetti Ajo/Peperonchino",
+                "price": 850
+            },
+            {
+                "name": "Timbal de Pollo",
+                "price": 1200
+            },
+            {
+                "name": "Timbal de Bolonesa",
+                "price": 1100
+            }
+        ]
+    }
+}

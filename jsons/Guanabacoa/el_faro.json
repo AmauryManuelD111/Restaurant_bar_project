@@ -1,0 +1,162 @@
+{
+    "name": "El Faro",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "cuban",
+        "pizza",
+        "others"
+    ],
+    "municipality": "Guanabacoa",
+    "services": [
+        "A la Carta",
+        "Entretenimiento",
+        "Reservations",
+        "payment_methods",
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "4MFW+P84, Maximo Gomez, La Habana, Cuba",
+    "qualification": 3.7,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Enchilado de Cangrejo",
+                "price": 750
+            },
+            {
+                "name": "Croqueta de la Casa",
+                "price": 180
+            },
+            {
+                "name": "Ensalada Fria de Jamon",
+                "price": 700
+            },
+            {
+                "name": "Ensalada Fria de Atun",
+                "price": 1200
+            },
+            {
+                "name": "Picadera Tropical",
+                "price": 850
+            },
+            {
+                "name": "Plato a lo Cubano",
+                "price": 800
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "Pan con Hamburguesa",
+                "price": 500
+            },
+            {
+                "name": "Hamburguesa Faro",
+                "price": 900
+            }
+        ],
+        "desserts": [
+            null
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Costillas de Cerdo",
+                "price": 1200
+            },
+            {
+                "name": "Ruedas de Pescado Grille",
+                "price": 1400
+            },
+            {
+                "name": "Pollo Grille",
+                "price": 950
+            },
+            {
+                "name": "Pizza El Faro",
+                "price": 900
+            },
+            {
+                "name": "Pizza Combinada",
+                "price": 900
+            },
+            {
+                "name": "Pizza Hawaiana",
+                "price": 900
+            },
+            {
+                "name": "Pizza de Cebolla",
+                "price": 900
+            },
+            {
+                "name": "Pizza de Pimiento",
+                "price": 900
+            },
+            {
+                "name": "Pizza Gustazo (Doble Queso)",
+                "price": 900
+            },
+            {
+                "name": "Pizza Jamon",
+                "price": 900
+            },
+            {
+                "name": "Spaguetti Napolitano",
+                "price": 750
+            },
+            {
+                "name": "Spaguetti de Jamon",
+                "price": 850
+            }
+        ]
+    }
+}

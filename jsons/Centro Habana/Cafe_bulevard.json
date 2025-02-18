@@ -1,0 +1,145 @@
+{
+    "name": "Cafe Bulevar",
+    "type": [
+        "bar",
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Centro Habana",
+    "services": [
+        "reservations"
+    ],
+    "address": "Calle 4 entre 15 y 17, Vedado",
+    "qualification": 3.4,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "ensalada de estacion",
+                "price": 200
+            },
+            {
+                "name": "papas fritas",
+                "price": 150
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "jugo de fruta",
+                "price": 100
+            },
+            {
+                "name": "cerveza importada",
+                "price": 180
+            },
+            {
+                "name": "vino tinto cabernet",
+                "price": 1340
+            },
+            {
+                "name": "licor paso pondal (30ml)",
+                "price": 75
+            },
+            {
+                "name": "licor fenet blanca (30ml)",
+                "price": 75
+            },
+            {
+                "name": "grappa carolina bianca (30ml)",
+                "price": 75
+            },
+            {
+                "name": "ron legendario anejo (45ml)",
+                "price": 90
+            },
+            {
+                "name": "ron legendario dorado (45ml)",
+                "price": 100
+            },
+            {
+                "name": "trago legendario ronse (45ml)",
+                "price": 75
+            },
+            {
+                "name": "licor de cafe (30ml)",
+                "price": 75
+            },
+            {
+                "name": "copa de vino blanco (125ml)",
+                "price": 145
+            }
+        ],
+        "others": [
+            {
+                "name": "caldosa boulevard",
+                "price": 200
+            },
+            {
+                "name": "arroz con subproductos",
+                "price": 300
+            },
+            {
+                "name": "fajitas de cerdo",
+                "price": 1350
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 1300
+            },
+            {
+                "name": "filete de merluza",
+                "price": 550
+            }
+        ]
+    }
+}

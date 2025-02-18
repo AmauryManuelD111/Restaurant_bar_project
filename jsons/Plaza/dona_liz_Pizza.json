@@ -1,0 +1,276 @@
+{
+    "name": "Dona Lis Pizza",
+    "type": [
+        "restaurant",
+        "bar"
+    ],
+    "speciality": [
+        "Pizzas",
+        "Bar"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "A la carta"
+    ],
+    "address": "Esquina 23 y 12, Vedado, Plaza",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:30",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "10:30",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "10:30",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "10:30",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "10:30",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "10:30",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "10:30",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas",
+                "price": 400
+            },
+            {
+                "name": "Bolitas de queso/jamon",
+                "price": 500
+            },
+            {
+                "name": "Bolitas de pescado",
+                "price": 450
+            },
+            {
+                "name": "Frituras Malanga",
+                "price": 350
+            },
+            {
+                "name": "Papas fritas",
+                "price": 500
+            },
+            {
+                "name": "Fajitas de pollo",
+                "price": 600
+            },
+            {
+                "name": "Tostones rellenos",
+                "price": 500
+            },
+            {
+                "name": "Nachos",
+                "price": 300
+            },
+            {
+                "name": "Racion Yuca/Mojo",
+                "price": 250
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "Don Hamburgueso/Vianda frita",
+                "price": 550
+            },
+            {
+                "name": "Hamburguesa Dona Lis/Vianda frita",
+                "price": 1000
+            },
+            {
+                "name": "Cheeseburger/Vianda frita",
+                "price": 650
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Pote de helado",
+                "price": 750
+            },
+            {
+                "name": "Paleta de helado",
+                "price": 200
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "alcoholic_drinks": [
+                {
+                    "name": "Servicio Michelada",
+                    "price": 300
+                },
+                {
+                    "name": "Servicio Chelada",
+                    "price": 200
+                },
+                {
+                    "name": "Cerveza Nacional",
+                    "price": 300
+                },
+                {
+                    "name": "Cerveza de botella",
+                    "price": 300
+                },
+                {
+                    "name": "Cerveza Importada",
+                    "price": 280
+                }
+            ],
+            "non_alcoholic": [
+                {
+                    "name": "Jugo natural",
+                    "price": 150
+                },
+                {
+                    "name": "Batido de fruta",
+                    "price": 350
+                },
+                {
+                    "name": "Batido de Trigo",
+                    "price": 500
+                },
+                {
+                    "name": "Malteada",
+                    "price": 500
+                },
+                {
+                    "name": "Batido de Helado",
+                    "price": 500
+                },
+                {
+                    "name": "Limonada Frappe",
+                    "price": 300
+                },
+                {
+                    "name": "Malta",
+                    "price": 300
+                },
+                {
+                    "name": "Energizante",
+                    "price": 250
+                },
+                {
+                    "name": "Refresco",
+                    "price": 280
+                },
+                {
+                    "name": "Agua",
+                    "price": 180
+                }
+            ]
+        },
+        "others": [
+            {
+                "name": "Sandwich Atún/Vianda frita",
+                "price": 650
+            },
+            {
+                "name": "Sandwich Jamon y Queso/Vianda frita",
+                "price": 550
+            },
+            {
+                "name": "Sandwich Pollo y Vegetales/Vianda frita",
+                "price": 650
+            },
+            {
+                "name": "Tacos al Pastor",
+                "price": 700
+            },
+            {
+                "name": "Tacos Cerdo",
+                "price": 800
+            },
+            {
+                "name": "Tacos Pollo/Vegetales",
+                "price": 700
+            },
+            {
+                "name": "Tacos de pescado",
+                "price": 750
+            },
+            {
+                "name": "Pechuga Grille",
+                "price": 800
+            },
+            {
+                "name": "Pechuga empanada",
+                "price": 850
+            },
+            {
+                "name": "Fajitas salteadas",
+                "price": 700
+            },
+            {
+                "name": "Bistec de cerdo",
+                "price": 900
+            },
+            {
+                "name": "Bistec de cerdo gratinado",
+                "price": 1000
+            },
+            {
+                "name": "Filete de pescado grille",
+                "price": 900
+            },
+            {
+                "name": "Pizza napolitana",
+                "price": 650
+            },
+            {
+                "name": "Pizza Margarita",
+                "price": 700
+            },
+            {
+                "name": "Pizza Hawaiana",
+                "price": 900
+            },
+            {
+                "name": "Pizza Dona Lis",
+                "price": 1400
+            },
+            {
+                "name": "Pasta Napolitana",
+                "price": 500
+            },
+            {
+                "name": "Pasta Vegetariana",
+                "price": 650
+            },
+            {
+                "name": "Lasana",
+                "price": 800
+            }
+        ]
+    }
+}

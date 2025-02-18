@@ -1,0 +1,98 @@
+{
+    "name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "Habana Vieja",
+    "services": [],
+    "address": "Prado y Malecon, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "00:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "00:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Jugo de frutas / Fruit juice",
+                "price": 360
+            },
+            {
+                "name": "Refresco / Soda",
+                "price": 390
+            },
+            {
+                "name": "Agua tonica / Tonic water",
+                "price": 450
+            },
+            {
+                "name": "Agua natural / Natural water",
+                "price": 600
+            },
+            {
+                "name": "Agua gaseada / Sparkling water",
+                "price": 600
+            },
+            {
+                "name": "Cerveza nacional / National beer",
+                "price": 600
+            },
+            {
+                "name": "Cerveza importada / Imported beer",
+                "price": 750
+            },
+            {
+                "name": "Ron en miniatura (45ml) / Miniature rum (45ml)",
+                "price": 850
+            }
+        ],
+        "others": []
+    }
+}

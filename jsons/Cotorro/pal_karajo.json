@@ -1,0 +1,172 @@
+{
+    "name": "pal'karajo",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "Cotorro",
+    "services": [
+        "cash_national",
+        "digital_transfer_national",
+        "reservations"
+    ],
+    "address": "Avenida 101 Esquina 16 Centro Cotorro",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "chicarrita de boniato",
+                "price": 200
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "michelada con cristal",
+                "price": 550
+            },
+            {
+                "name": "chelada con cristal",
+                "price": 550
+            },
+            {
+                "name": "expresso",
+                "price": 100
+            },
+            {
+                "name": "cortado",
+                "price": 150
+            },
+            {
+                "name": "capuccino",
+                "price": 300
+            },
+            {
+                "name": "frapuccino",
+                "price": 400
+            },
+            {
+                "name": "bombon",
+                "price": 300
+            },
+            {
+                "name": "jugo de mango",
+                "price": 200
+            },
+            {
+                "name": "jugo de piña",
+                "price": 200
+            },
+            {
+                "name": "batido de mango",
+                "price": 380
+            },
+            {
+                "name": "batido de mamey",
+                "price": 400
+            },
+            {
+                "name": "batido de trigo",
+                "price": 380
+            },
+            {
+                "name": "batido de mani",
+                "price": 400
+            },
+            {
+                "name": "batido de mani con chocolate",
+                "price": 450
+            },
+            {
+                "name": "piña colada",
+                "price": 400
+            },
+            {
+                "name": "malteada",
+                "price": 500
+            },
+            {
+                "name": "limonada",
+                "price": 400
+            }
+        ],
+        "others": [
+            {
+                "name": "pan Pal'Karajo",
+                "price": 790
+            },
+            {
+                "name": "pan con lechon",
+                "price": 450
+            },
+            {
+                "name": "pan con jamon",
+                "price": 300
+            },
+            {
+                "name": "pan con chorizo",
+                "price": 250
+            },
+            {
+                "name": "pan con jamon y chorizo",
+                "price": 400
+            },
+            {
+                "name": "tacos de cerdo mechados",
+                "price": 890
+            },
+            {
+                "name": "tacos de cerdo estofados",
+                "price": 990
+            }
+        ]
+    }
+}

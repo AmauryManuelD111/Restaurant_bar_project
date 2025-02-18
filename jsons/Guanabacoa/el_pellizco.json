@@ -1,0 +1,169 @@
+{
+    "name": "El Pellizco",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cuban"
+    ],
+    "municipality": "Guanabacoa",
+    "services": [
+        "Transfermovil",
+        "Efectivo"
+    ],
+    "address": "3Q5F+6C6, La Habana",
+    "qualification": 3.6,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Racion de Chicharron",
+                "price": 150
+            },
+            {
+                "name": "Racion de Empella",
+                "price": 100
+            },
+            {
+                "name": "Caldoza de la Casa",
+                "price": 250
+            },
+            {
+                "name": "Racion de Tostones",
+                "price": 80
+            },
+            {
+                "name": "Racion de Mariquitas",
+                "price": 80
+            },
+            {
+                "name": "Platano maduro frito",
+                "price": 80
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Bistec de Higado",
+                "price": 400
+            },
+            {
+                "name": "Higado a la Italiana",
+                "price": 450
+            },
+            {
+                "name": "Bistec de Cerdo",
+                "price": 600
+            },
+            {
+                "name": "Masa de Cerdo",
+                "price": 650
+            },
+            {
+                "name": "Chuleta de Cerdo",
+                "price": 650
+            },
+            {
+                "name": "Lomo Ahumado",
+                "price": 650
+            },
+            {
+                "name": "Lonjas de Cerdo Asada",
+                "price": 600
+            },
+            {
+                "name": "Pollo Asado",
+                "price": 450
+            },
+            {
+                "name": "Costilla Asada",
+                "price": 650
+            },
+            {
+                "name": "Ropa Vieja de Cerdo",
+                "price": 650
+            },
+            {
+                "name": "Fricase de Costilla",
+                "price": 650
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Cerveza Nacional",
+                "price": 220
+            },
+            {
+                "name": "Cerveza Importada",
+                "price": 220
+            },
+            {
+                "name": "Jugo de Caja",
+                "price": 150
+            },
+            {
+                "name": "Jugo de Botella",
+                "price": 120
+            },
+            {
+                "name": "Malta",
+                "price": 150
+            },
+            {
+                "name": "Agua Natural",
+                "price": 100
+            },
+            {
+                "name": "Energizante",
+                "price": 220
+            }
+        ],
+        "others": []
+    }
+}

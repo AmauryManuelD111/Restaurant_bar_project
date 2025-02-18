@@ -1,0 +1,137 @@
+{
+    "name": "La casa del campesino",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "La Lisa",
+    "services": [
+        "Parking"
+    ],
+    "address": "Null",
+    "qualification": 2.5,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "23:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "Null",
+        "website": "Null",
+        "facebook": "Null",
+        "instagram": "Null"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "entremes de embuido y queso",
+                "price": 350
+            },
+            {
+                "name": "ensalada fria",
+                "price": 150
+            },
+            {
+                "name": "croquetas",
+                "price": 200
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "chuleta de cerdo",
+                "price": 1600
+            },
+            {
+                "name": "bistec de cerdo",
+                "price": 1350
+            },
+            {
+                "name": "costilla de cerdo",
+                "price": 1600
+            },
+            {
+                "name": "pollo asado",
+                "price": 650
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "mermelada de mango con queso",
+                "price": 190
+            },
+            {
+                "name": "fruta en almibar",
+                "price": 160
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "agua mineral",
+                "price": 150
+            },
+            {
+                "name": "cerveza presidente",
+                "price": 180
+            },
+            {
+                "name": "cerveza parranda",
+                "price": 180
+            },
+            {
+                "name": "cerveza bucanero",
+                "price": 180
+            },
+            {
+                "name": "cerveza moosehead",
+                "price": 180
+            },
+            {
+                "name": "cerveza cristal",
+                "price": 180
+            },
+            {
+                "name": "cerveza super bock",
+                "price": 180
+            }
+        ],
+        "others": []
+    }
+}

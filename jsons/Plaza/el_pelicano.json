@@ -1,0 +1,205 @@
+{
+    "name": "El Pelicano",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "A domicilio",
+        "Zoologico"
+    ],
+    "address": null,
+    "qualification": 4.5,
+    "hours": {
+        "monday": {
+            "open": null,
+            "close": null
+        },
+        "tuesday": {
+            "open": null,
+            "close": null
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "18:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "18:00"
+        }
+    },
+    "contact": {
+        "phone": "63960310",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Croquetas",
+                "price": 350
+            },
+            {
+                "name": "Picadera de Jamon y Queso",
+                "price": 450
+            },
+            {
+                "name": "Papas Fritas",
+                "price": 550
+            },
+            {
+                "name": "Bolitas de Queso",
+                "price": 650
+            },
+            {
+                "name": "Salchipapa",
+                "price": 750
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Pollo Frito",
+                "price": 420
+            },
+            {
+                "name": "Pollo Chiflado",
+                "price": 520
+            },
+            {
+                "name": "Brochetas de Pollo y Vegetales",
+                "price": 580
+            },
+            {
+                "name": "Brochetas Mixtas",
+                "price": 700
+            },
+            {
+                "name": "Brochetas de Cerdo",
+                "price": 950
+            },
+            {
+                "name": "Bistec de Cerdo",
+                "price": 950
+            },
+            {
+                "name": "Lonja de Cerdo",
+                "price": 950
+            },
+            {
+                "name": "Masa de Cerdo",
+                "price": 990
+            },
+            {
+                "name": "Arroz Moro",
+                "price": 150
+            },
+            {
+                "name": "Arroz Blanco",
+                "price": 150
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Paleta de Chocolate",
+                "price": 260
+            },
+            {
+                "name": "Pote de Helado",
+                "price": 495
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Cerveza",
+                "price": 190
+            },
+            {
+                "name": "Chelada",
+                "price": 290
+            },
+            {
+                "name": "Cuba Libre",
+                "price": 380
+            },
+            {
+                "name": "Michelada",
+                "price": 390
+            },
+            {
+                "name": "Cafe Expresso",
+                "price": 90
+            },
+            {
+                "name": "Cafe Cortado",
+                "price": 110
+            },
+            {
+                "name": "Cafe Bombon",
+                "price": 150
+            },
+            {
+                "name": "Jugo de Cajita",
+                "price": 190
+            },
+            {
+                "name": "Agua",
+                "price": 120
+            },
+            {
+                "name": "Refresco de L ata",
+                "price": 195
+            },
+            {
+                "name": "Limonada Frape",
+                "price": 250
+            },
+            {
+                "name": "Energizante",
+                "price": 220
+            }
+        ],
+        "others": [
+            {
+                "name": "Pan con Jamon y Queso",
+                "price": 350
+            },
+            {
+                "name": "Pan con Perro",
+                "price": 360
+            },
+            {
+                "name": "Pan con Lechon",
+                "price": 500
+            },
+            {
+                "name": "Pan con Hamburguesa",
+                "price": 550
+            }
+        ]
+    }
+}

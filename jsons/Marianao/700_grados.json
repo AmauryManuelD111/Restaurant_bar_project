@@ -1,0 +1,344 @@
+{
+    "name": "700Grados",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Variada"
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "avenida 41 esquina 86",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "03:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "03:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "03:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "03:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "03:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "03:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "03:00"
+        }
+    },
+    "contact": {
+        "phone": "54063906",
+        "email": null,
+        "website": "700gradoshabana",
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Tostones rellenos jamon y queso",
+                "price": 890
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 890
+            },
+            {
+                "name": "Finger de pollo empanizado",
+                "price": 890
+            },
+            {
+                "name": "Tacos de pollo",
+                "price": 990
+            },
+            {
+                "name": "Tacos de cerdo",
+                "price": 1100
+            },
+            {
+                "name": "Frituras de malanga",
+                "price": 790
+            },
+            {
+                "name": "Entremes de aceituna",
+                "price": 1130
+            },
+            {
+                "name": "Papas fritas",
+                "price": 890
+            },
+            {
+                "name": "Eperlan de pescado",
+                "price": 1380
+            },
+            {
+                "name": "Coctel de langosta",
+                "price": 1600
+            },
+            {
+                "name": "Coctel de camaron",
+                "price": 1600
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [
+            {
+                "name": "Bistec uruguayo",
+                "price": 1850
+            },
+            {
+                "name": "Ropa vieja de res",
+                "price": 2200
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Filete de pescado",
+                "price": 1850
+            },
+            {
+                "name": "Camaron al gusto",
+                "price": 2800
+            },
+            {
+                "name": "Enchil ado de langosta",
+                "price": 2800
+            },
+            {
+                "name": "Paella de marisco",
+                "price": 3550
+            },
+            {
+                "name": "Cazuela de marisco",
+                "price": 3600
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Agua natural",
+                "price": 290
+            },
+            {
+                "name": "Refresco internacional",
+                "price": 380
+            },
+            {
+                "name": "Malta internacional",
+                "price": 440
+            },
+            {
+                "name": "Energizante",
+                "price": 550
+            },
+            {
+                "name": "Red bull",
+                "price": 830
+            },
+            {
+                "name": "Cerveza internacional",
+                "price": 350
+            },
+            {
+                "name": "Dispensada cristal",
+                "price": 350
+            },
+            {
+                "name": "Cerveza bucanero",
+                "price": 550
+            },
+            {
+                "name": "Cerveza cristal",
+                "price": 550
+            },
+            {
+                "name": "Cerveza corona",
+                "price": 750
+            },
+            {
+                "name": "Cerveza sol",
+                "price": 750
+            },
+            {
+                "name": "Cerveza heineken",
+                "price": 750
+            },
+            {
+                "name": "Servicio michelada",
+                "price": 490
+            },
+            {
+                "name": "Servicio de chelada",
+                "price": 300
+            },
+            {
+                "name": "Caipiroska",
+                "price": 380
+            },
+            {
+                "name": "Caipirisima",
+                "price": 380
+            },
+            {
+                "name": "Mojito",
+                "price": 450
+            },
+            {
+                "name": "Caipirina",
+                "price": 380
+            },
+            {
+                "name": "Sangria",
+                "price": 400
+            },
+            {
+                "name": "Vodca tonic",
+                "price": 480
+            },
+            {
+                "name": "Gin tonic",
+                "price": 550
+            },
+            {
+                "name": "Cuba libre",
+                "price": 480
+            },
+            {
+                "name": "Cubata especial",
+                "price": 490
+            },
+            {
+                "name": "Daiquiri",
+                "price": 380
+            },
+            {
+                "name": "Pina colada",
+                "price": 450
+            },
+            {
+                "name": "Vino tinto",
+                "price": 400
+            },
+            {
+                "name": "Limonada frescura",
+                "price": 250
+            },
+            {
+                "name": "Limonada natural",
+                "price": 250
+            }
+        ],
+        "others": [
+            {
+                "name": "Espaguetis napolitano",
+                "price": 1100
+            },
+            {
+                "name": "Espaguetis con camaron",
+                "price": 2500
+            },
+            {
+                "name": "Espaguetis de langosta",
+                "price": 2500
+            },
+            {
+                "name": "Espaguetis marineros",
+                "price": 1100
+            },
+            {
+                "name": "Napolitana",
+                "price": 1200
+            },
+            {
+                "name": "Hawaiana",
+                "price": 1450
+            },
+            {
+                "name": "Lonjas de cerdo al carbon",
+                "price": 1850
+            },
+            {
+                "name": "Saltimboca de cerdo",
+                "price": 1750
+            },
+            {
+                "name": "Bistec de cerdo",
+                "price": 1650
+            },
+            {
+                "name": "Fajitas de cerdo salteadas",
+                "price": 1650
+            },
+            {
+                "name": "Solomillo de cerdo",
+                "price": 2900
+            },
+            {
+                "name": "Masas de cerdo en salsa teriyaki",
+                "price": 2200
+            },
+            {
+                "name": "Fricase de cerdo",
+                "price": 2200
+            },
+            {
+                "name": "Pechuga de pollo",
+                "price": 1650
+            },
+            {
+                "name": "Mar y tierra campesina",
+                "price": 3550
+            },
+            {
+                "name": "Filete john bill",
+                "price": 3550
+            },
+            {
+                "name": "Arroz moro",
+                "price": 100
+            },
+            {
+                "name": "Vianda frita",
+                "price": 100
+            },
+            {
+                "name": "Platano maduro frito",
+                "price": 100
+            },
+            {
+                "name": "Ensalada estacion",
+                "price": 100
+            },
+            {
+                "name": "Platano chatinos",
+                "price": 100
+            },
+            {
+                "name": "Arroz blanco",
+                "price": 100
+            }
+        ]
+    }
+}

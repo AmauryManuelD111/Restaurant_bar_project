@@ -1,0 +1,375 @@
+{
+    "name": "Entabla2",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "comida criolla",
+        "internacional"
+    ],
+    "municipality": "Boyeros",
+    "services": [
+        "Transfer",
+        "Take Away",
+        "Reservations",
+        "Cash National",
+        "Parking"
+    ],
+    "address": "carretera terminal 2, aeropuerto internacional jose marti",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "07:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "07:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "07:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "07:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "07:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "07:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "07:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": "51744817",
+        "email": null,
+        "website": null,
+        "facebook": "https://www.facebook.com/profile.php?id=61558469293972",
+        "instagram": "https://www.instagram.com/entablados.habana/"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "caldo de mariscos",
+                "price": 1200
+            },
+            {
+                "name": "eperlan",
+                "price": 1500
+            },
+            {
+                "name": "tacos de cerdo",
+                "price": 1150
+            },
+            {
+                "name": "tacos de langosta",
+                "price": 950
+            },
+            {
+                "name": "frituras de malanga",
+                "price": 350
+            },
+            {
+                "name": "crujientes de pollo",
+                "price": 800
+            },
+            {
+                "name": "coctel de camaron",
+                "price": 1150
+            },
+            {
+                "name": "ceviche de pescado",
+                "price": 1150
+            },
+            {
+                "name": "coctel de langosta",
+                "price": 1050
+            },
+            {
+                "name": "pan con lechon",
+                "price": 1100
+            },
+            {
+                "name": "huevo hervido",
+                "price": 300
+            },
+            {
+                "name": "huevos fritos",
+                "price": 380
+            },
+            {
+                "name": "revoltillo natural",
+                "price": 380
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [
+            {
+                "name": "langosta grille",
+                "price": 1950
+            },
+            {
+                "name": "langosta al ajillo",
+                "price": 1950
+            },
+            {
+                "name": "langosta enchilada",
+                "price": 2250
+            },
+            {
+                "name": "camaron enchilado",
+                "price": 2300
+            },
+            {
+                "name": "camaron grille",
+                "price": 2150
+            },
+            {
+                "name": "camaron al ajillo",
+                "price": 2150
+            },
+            {
+                "name": "filete de pescado al vino",
+                "price": 2000
+            },
+            {
+                "name": "filete de pescado mediterraneo",
+                "price": 2050
+            },
+            {
+                "name": "filete don pedro",
+                "price": 2900
+            }
+        ],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "copa de helado",
+                "price": 500
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "ron havana club anejo 3 anos",
+                "price": 300
+            },
+            {
+                "name": "ron havana club anejo especial",
+                "price": 300
+            },
+            {
+                "name": "ginebra gin mg",
+                "price": 140
+            },
+            {
+                "name": "ginebra beefeater",
+                "price": 240
+            },
+            {
+                "name": "ginebra le tribute",
+                "price": 490
+            },
+            {
+                "name": "licor sambuca extra molinari",
+                "price": 200
+            },
+            {
+                "name": "aguardiente black tears",
+                "price": 150
+            },
+            {
+                "name": "copa de vino blanco",
+                "price": 450
+            },
+            {
+                "name": "copa de vino tinto",
+                "price": 450
+            },
+            {
+                "name": "caipirisima",
+                "price": 650
+            },
+            {
+                "name": "cuba libre",
+                "price": 460
+            },
+            {
+                "name": "sangria",
+                "price": 650
+            },
+            {
+                "name": "cubata",
+                "price": 480
+            },
+            {
+                "name": "caipirinha",
+                "price": 550
+            },
+            {
+                "name": "canchanchara",
+                "price": 450
+            },
+            {
+                "name": "caipiroska",
+                "price": 550
+            },
+            {
+                "name": "tinto verano",
+                "price": 600
+            },
+            {
+                "name": "chelada",
+                "price": 120
+            },
+            {
+                "name": "jugos naturales",
+                "price": 350
+            },
+            {
+                "name": "suero de helado",
+                "price": 850
+            },
+            {
+                "name": "limonada frape",
+                "price": 500
+            },
+            {
+                "name": "batido de frutas naturales",
+                "price": 450
+            },
+            {
+                "name": "agua 600ml niagara",
+                "price": 250
+            },
+            {
+                "name": "refresco mirinda",
+                "price": 430
+            },
+            {
+                "name": "malteada",
+                "price": 430
+            },
+            {
+                "name": "malteada",
+                "price": 780
+            },
+            {
+                "name": "cerveza cristal",
+                "price": 600
+            },
+            {
+                "name": "jugo importado fruta fresca",
+                "price": 300
+            },
+            {
+                "name": "refresco pepsi",
+                "price": 430
+            },
+            {
+                "name": "refresco 7up",
+                "price": 430
+            },
+            {
+                "name": "cerveza blue",
+                "price": 450
+            },
+            {
+                "name": "malta turbo",
+                "price": 450
+            },
+            {
+                "name": "cafe expreso",
+                "price": 150
+            },
+            {
+                "name": "cafe cortadito",
+                "price": 250
+            },
+            {
+                "name": "cafe bombon",
+                "price": 550
+            },
+            {
+                "name": "capuchino",
+                "price": 400
+            },
+            {
+                "name": "cafe con leche",
+                "price": 400
+            }
+        ],
+        "others": [
+            {
+                "name": "costilla frita",
+                "price": 2600
+            },
+            {
+                "name": "fricase de cerdo",
+                "price": 2250
+            },
+            {
+                "name": "costilla en salsa bbq",
+                "price": 2680
+            },
+            {
+                "name": "bistec gratinado",
+                "price": 2150
+            },
+            {
+                "name": "bistec de cerdo",
+                "price": 1850
+            },
+            {
+                "name": "chuleta de cerdo",
+                "price": 1950
+            },
+            {
+                "name": "masa frita",
+                "price": 2150
+            },
+            {
+                "name": "chuleton de cerdo",
+                "price": 2500
+            },
+            {
+                "name": "super chuleton entabla2",
+                "price": 3200
+            },
+            {
+                "name": "lonja de cerdo",
+                "price": 2150
+            },
+            {
+                "name": "vianda hervida con mojo",
+                "price": 200
+            },
+            {
+                "name": "arroz moro",
+                "price": 250
+            },
+            {
+                "name": "ensalada de vegetales",
+                "price": 200
+            },
+            {
+                "name": "arroz blanco",
+                "price": 200
+            }
+        ]
+    }
+}

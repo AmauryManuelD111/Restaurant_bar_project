@@ -1,0 +1,373 @@
+{
+    "name": "Bocattas",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana",
+        "internacional"
+    ],
+    "municipality": "Playa",
+    "services": [
+        "plant",
+        "child_care",
+        "disable_support",
+        "parking",
+        "delivery",
+        "takeaway"
+    ],
+    "address": "Avenida 31 esquina a 18, Playa",
+    "qualification": 4.0,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "24:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "null",
+        "website": "https://linktr.ee/cafe_bocattas",
+        "facebook": "https://www.facebook.com/Cafe Bocattas",
+        "instagram": "https://www.instagram.com/@cafe_bocattas"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "tacos de hab c",
+                "price": 800
+            },
+            {
+                "name": "tacos de hamburguesa",
+                "price": 950
+            },
+            {
+                "name": "tacos de cerdo",
+                "price": 900
+            },
+            {
+                "name": "brusquetas",
+                "price": 500
+            },
+            {
+                "name": "chorizo parrillero",
+                "price": 2000
+            },
+            {
+                "name": "croquetas de pollo",
+                "price": 650
+            },
+            {
+                "name": "desayuno",
+                "price": 980
+            },
+            {
+                "name": "ensalada fria",
+                "price": 540
+            },
+            {
+                "name": "croquetas de jamon serrano",
+                "price": 750
+            },
+            {
+                "name": "huevos rotos",
+                "price": 1050
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "dulces finos",
+                "price": 1000
+            },
+            {
+                "name": "bola de helado",
+                "price": 150
+            },
+            {
+                "name": "copa golosa",
+                "price": 800
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "water": [
+                {
+                    "name": "agua natural 500 ml",
+                    "price": 200
+                }
+            ],
+            "soft_drinks": [
+                {
+                    "name": "refresco importado y nacional",
+                    "price": 260
+                },
+                {
+                    "name": "malta",
+                    "price": 300
+                },
+                {
+                    "name": "energizantes",
+                    "price": 400
+                }
+            ],
+            "juices": [
+                {
+                    "name": "limonada frappe",
+                    "price": 600
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 250
+                }
+            ],
+            "smoothie": [
+                {
+                    "name": "batido de fruta",
+                    "price": 350
+                }
+            ],
+            "ice_cream_shake": [
+                {
+                    "name": "suero bocatta",
+                    "price": 800
+                },
+                {
+                    "name": "suero de helado",
+                    "price": 650
+                }
+            ],
+            "alcoholic": [
+                {
+                    "name": "cerveza importada",
+                    "price": 280
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 400
+                },
+                {
+                    "name": "michelada con cerv import",
+                    "price": 660
+                },
+                {
+                    "name": "michelada con cerv nacional",
+                    "price": 750
+                },
+                {
+                    "name": "chelada",
+                    "price": 180
+                },
+                {
+                    "name": "preparado de michelada",
+                    "price": 340
+                }
+            ],
+            "coffee": [
+                {
+                    "name": "expresso",
+                    "price": 130
+                },
+                {
+                    "name": "capuchino",
+                    "price": 225
+                },
+                {
+                    "name": "cortado",
+                    "price": 150
+                },
+                {
+                    "name": "americano",
+                    "price": 210
+                },
+                {
+                    "name": "frappuccino",
+                    "price": 600
+                },
+                {
+                    "name": "cafe con leche",
+                    "price": 275
+                }
+            ]
+        },
+        "others": [
+            {
+                "name": "bistec con baguette",
+                "price": 1700
+            },
+            {
+                "name": "bistec con pan suave",
+                "price": 1500
+            },
+            {
+                "name": "hamburguesa de res",
+                "price": 1000
+            },
+            {
+                "name": "hamburguesa de cerdo",
+                "price": 780
+            },
+            {
+                "name": "pan con lechon",
+                "price": 840
+            },
+            {
+                "name": "pan redondo suave",
+                "price": 160
+            },
+            {
+                "name": "pan baguette",
+                "price": 240
+            },
+            {
+                "name": "pan suave",
+                "price": 160
+            },
+            {
+                "name": "tostadas",
+                "price": 240
+            },
+            {
+                "name": "smashburger bocattas de res",
+                "price": 1500
+            },
+            {
+                "name": "smashburger bocattas de cerdo",
+                "price": 1500
+            },
+            {
+                "name": "pasta napolitana",
+                "price": 900
+            },
+            {
+                "name": "pasta bolonesa",
+                "price": 2000
+            },
+            {
+                "name": "pasta con bacon",
+                "price": 1500
+            },
+            {
+                "name": "pasta con jamon pierna especial",
+                "price": 1800
+            },
+            {
+                "name": "pasta con jamon barra",
+                "price": 1100
+            },
+            {
+                "name": "queso gouda 100g",
+                "price": 430
+            },
+            {
+                "name": "jamon barra",
+                "price": 300
+            },
+            {
+                "name": "jamon serrano",
+                "price": 570
+            },
+            {
+                "name": "jamon pierna especial",
+                "price": 650
+            },
+            {
+                "name": "queso gouda",
+                "price": 380
+            },
+            {
+                "name": "queso azul",
+                "price": 500
+            },
+            {
+                "name": "chorizo espanol",
+                "price": 400
+            },
+            {
+                "name": "bacon",
+                "price": 500
+            },
+            {
+                "name": "huevo",
+                "price": 150
+            },
+            {
+                "name": "mantequilla",
+                "price": 75
+            },
+            {
+                "name": "agrego de cerdo",
+                "price": 400
+            },
+            {
+                "name": "atun",
+                "price": 500
+            },
+            {
+                "name": "vianda frita",
+                "price": 170
+            },
+            {
+                "name": "mayonesa",
+                "price": 50
+            },
+            {
+                "name": "tomate",
+                "price": 100
+            },
+            {
+                "name": "cebolla",
+                "price": 70
+            },
+            {
+                "name": "pepinillo",
+                "price": 35
+            },
+            {
+                "name": "pico de gallo",
+                "price": 70
+            },
+            {
+                "name": "lechuga",
+                "price": 35
+            },
+            {
+                "name": "pina",
+                "price": 35
+            }
+        ]
+    }
+}

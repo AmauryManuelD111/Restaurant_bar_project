@@ -1,0 +1,517 @@
+{
+    "name": "Marina",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cocteleria",
+        "criolla",
+        "italiana",
+        "espanola"
+    ],
+    "municipality": "Playa",
+    "services": [],
+    "address": "1ra Avenida entre calle 70 y 68",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "12:00",
+            "close": "04:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "close": "04:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "close": "04:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "close": "04:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "close": "04:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "close": "04:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "close": "04:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "bolitas de queso",
+                "price": 1000
+            },
+            {
+                "name": "croquetas marina",
+                "price": 1200
+            },
+            {
+                "name": "brusquetas",
+                "price": 1100
+            },
+            {
+                "name": "entremes surtido",
+                "price": 1900
+            },
+            {
+                "name": "papas fritas",
+                "price": 950
+            },
+            {
+                "name": "coctel de camaron",
+                "price": 3000
+            },
+            {
+                "name": "tequenos",
+                "price": 1140
+            },
+            {
+                "name": "tacos de la casa",
+                "price": 1600
+            },
+            {
+                "name": "escabeche de pescado",
+                "price": 2800
+            },
+            {
+                "name": "queso y frutos secos",
+                "price": 3000
+            },
+            {
+                "name": "tostones con mojo",
+                "price": 850
+            },
+            {
+                "name": "tostones rellenos",
+                "price": 950
+            },
+            {
+                "name": "fajitas de pollo",
+                "price": 1800
+            },
+            {
+                "name": "eperlan de pescado",
+                "price": 1800
+            },
+            {
+                "name": "frituras de malanga",
+                "price": 850
+            },
+            {
+                "name": "ceviche de pescado",
+                "price": 2300
+            },
+            {
+                "name": "nuggets",
+                "price": 1950
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "hamburguesa",
+                "price": 1900
+            },
+            {
+                "name": "cheese burguer",
+                "price": 2000
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "napolitana",
+                "price": 1100
+            },
+            {
+                "name": "margarita",
+                "price": 1250
+            },
+            {
+                "name": "hawaina",
+                "price": 1400
+            },
+            {
+                "name": "con serrano y aceitunas",
+                "price": 1800
+            },
+            {
+                "name": "super marina",
+                "price": 2200
+            },
+            {
+                "name": "napolitano",
+                "price": 1200
+            },
+            {
+                "name": "con jamon",
+                "price": 1400
+            },
+            {
+                "name": "carbonara",
+                "price": 2000
+            },
+            {
+                "name": "amatriciana",
+                "price": 2000
+            },
+            {
+                "name": "puttanesca",
+                "price": 1800
+            },
+            {
+                "name": "bolognesa",
+                "price": 2000
+            },
+            {
+                "name": "con salmon y salsa blanca",
+                "price": 2000
+            },
+            {
+                "name": "combo marina",
+                "price": 4500
+            },
+            {
+                "name": "de jamon y queso",
+                "price": 950
+            },
+            {
+                "name": "de atun",
+                "price": 1000
+            },
+            {
+                "name": "jamon/chorizo",
+                "price": 550
+            },
+            {
+                "name": "queso: gouda/azul",
+                "price": 650
+            },
+            {
+                "name": "picna. cebolla, aceitunas, pimiento",
+                "price": 600
+            },
+            {
+                "name": "jamon serrano",
+                "price": 1500
+            },
+            {
+                "name": "daiquiri",
+                "price": 900
+            },
+            {
+                "name": "daiquiri de frutas",
+                "price": 1000
+            },
+            {
+                "name": "cuba libre",
+                "price": 800
+            },
+            {
+                "name": "mojito",
+                "price": 900
+            },
+            {
+                "name": "pina colada",
+                "price": 1200
+            },
+            {
+                "name": "cubata",
+                "price": 900
+            },
+            {
+                "name": "cubanito",
+                "price": 1200
+            },
+            {
+                "name": "caipirisima",
+                "price": 850
+            },
+            {
+                "name": "canchanchara",
+                "price": 850
+            },
+            {
+                "name": "sex on the beach",
+                "price": 950
+            },
+            {
+                "name": "havana special",
+                "price": 800
+            },
+            {
+                "name": "calimocho",
+                "price": 990
+            },
+            {
+                "name": "tinto de verano",
+                "price": 1000
+            },
+            {
+                "name": "presidente",
+                "price": 800
+            },
+            {
+                "name": "san francisco",
+                "price": 950
+            },
+            {
+                "name": "ron collins",
+                "price": 850
+            },
+            {
+                "name": "whisky sour",
+                "price": 1500
+            },
+            {
+                "name": "mary pickford",
+                "price": 800
+            },
+            {
+                "name": "caipiroska",
+                "price": 950
+            },
+            {
+                "name": "bloddy mary",
+                "price": 950
+            },
+            {
+                "name": "screw driver",
+                "price": 850
+            },
+            {
+                "name": "blue lagoon",
+                "price": 800
+            },
+            {
+                "name": "gin tonic",
+                "price": 950
+            },
+            {
+                "name": "tom collins",
+                "price": 850
+            },
+            {
+                "name": "sangria",
+                "price": 1500
+            },
+            {
+                "name": "caipirinha",
+                "price": 900
+            },
+            {
+                "name": "tequila sunrise",
+                "price": 900
+            },
+            {
+                "name": "old fashioned",
+                "price": 900
+            },
+            {
+                "name": "manhattan",
+                "price": 900
+            },
+            {
+                "name": "martini",
+                "price": 900
+            },
+            {
+                "name": "negroni",
+                "price": 1000
+            },
+            {
+                "name": "vodkatonic",
+                "price": 950
+            },
+            {
+                "name": "orgasmo",
+                "price": 1000
+            },
+            {
+                "name": "margarita",
+                "price": 900
+            },
+            {
+                "name": "long island ice tea",
+                "price": 1000
+            },
+            {
+                "name": "god mother",
+                "price": 900
+            },
+            {
+                "name": "god father",
+                "price": 1000
+            },
+            {
+                "name": "aperol spritz",
+                "price": 1500
+            },
+            {
+                "name": "amaretto sour",
+                "price": 1200
+            },
+            {
+                "name": "agua natural nac.",
+                "price": 300
+            },
+            {
+                "name": "agua natural imp.",
+                "price": 400
+            },
+            {
+                "name": "agua gaseada nac.",
+                "price": 400
+            },
+            {
+                "name": "agua gaseada imp",
+                "price": 900
+            },
+            {
+                "name": "agua tonica nac",
+                "price": 500
+            },
+            {
+                "name": "agua tonica impo",
+                "price": 950
+            },
+            {
+                "name": "agua t. le tribute",
+                "price": 1150
+            },
+            {
+                "name": "limonada natural",
+                "price": 850
+            },
+            {
+                "name": "limonada frappe",
+                "price": 950
+            },
+            {
+                "name": "limonada frescura",
+                "price": 1000
+            },
+            {
+                "name": "limonada clarete",
+                "price": 1000
+            },
+            {
+                "name": "jugo natural",
+                "price": 750
+            },
+            {
+                "name": "malta",
+                "price": 700
+            },
+            {
+                "name": "refresco importado",
+                "price": 500
+            },
+            {
+                "name": "kermato",
+                "price": 900
+            },
+            {
+                "name": "heineken",
+                "price": 900
+            },
+            {
+                "name": "corona",
+                "price": 900
+            },
+            {
+                "name": "cristal/bucanero",
+                "price": 550
+            },
+            {
+                "name": "servicio chelada",
+                "price": 400
+            },
+            {
+                "name": "servicio michelada",
+                "price": 500
+            },
+            {
+                "name": "grille",
+                "price": 2300
+            },
+            {
+                "name": "a las finas hierbas",
+                "price": 2500
+            },
+            {
+                "name": "princesa",
+                "price": 2800
+            },
+            {
+                "name": "canciller",
+                "price": 3000
+            },
+            {
+                "name": "enchilada",
+                "price": 4000
+            },
+            {
+                "name": "grille",
+                "price": 4000
+            },
+            {
+                "name": "al ajillo",
+                "price": 4000
+            },
+            {
+                "name": "termidor",
+                "price": 4500
+            },
+            {
+                "name": "enchilado",
+                "price": 4600
+            },
+            {
+                "name": "al ajillo",
+                "price": 4600
+            },
+            {
+                "name": "grille",
+                "price": 4600
+            },
+            {
+                "name": "paella marina (2 pax)",
+                "price": 5500
+            },
+            {
+                "name": "mar y tierra",
+                "price": 5500
+            },
+            {
+                "name": "cazuela de mariscos",
+                "price": 5500
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "name": "shapuseros",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Hamburguesera"
+    ],
+    "municipality": "Cerro",
+    "services": [],
+    "address": "Calzada de Ayestaran entre San Pedro y Ayuntamineto",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "21:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "hamburguesa de pollo",
+                "price": 500
+            },
+            {
+                "name": "hamburguesa de cerdo",
+                "price": 550
+            },
+            {
+                "name": "hamburguesa de res",
+                "price": 600
+            },
+            {
+                "name": "hamburguesa Shapusero",
+                "price": 1200
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "queso",
+                "price": 150
+            },
+            {
+                "name": "jamon",
+                "price": 120
+            },
+            {
+                "name": "chorizo",
+                "price": 150
+            },
+            {
+                "name": "bacon",
+                "price": 155
+            },
+            {
+                "name": "huevo",
+                "price": 150
+            },
+            {
+                "name": "cebolla",
+                "price": 50
+            },
+            {
+                "name": "salsa BBQ",
+                "price": 30
+            }
+        ]
+    }
+}

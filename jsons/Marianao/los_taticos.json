@@ -1,0 +1,177 @@
+{
+    "name": "LosTaticos",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Variada"
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "27 y 27A",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Picadera Tatico",
+                "price": 2800
+            },
+            {
+                "name": "Entremes surtido",
+                "price": 800
+            },
+            {
+                "name": "Tostones rellenos",
+                "price": 800
+            },
+            {
+                "name": "Bolitas de queso",
+                "price": 800
+            },
+            {
+                "name": "Bolitas de carne",
+                "price": 800
+            },
+            {
+                "name": "Croquetas caseras",
+                "price": 800
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Taco de cerdo",
+                "price": 650
+            }
+        ],
+        "beef": [
+            {
+                "name": "Taco de carne",
+                "price": 800
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Taco de atun",
+                "price": 800
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Super Hamburguesa Tatico",
+                "price": 900
+            },
+            {
+                "name": "Hamburguesa Tatico",
+                "price": 750
+            },
+            {
+                "name": "Super hamburguesa queso",
+                "price": 800
+            },
+            {
+                "name": "Hamburguesa queso",
+                "price": 650
+            },
+            {
+                "name": "Super hamburguesa sencilla",
+                "price": 700
+            },
+            {
+                "name": "Hamburguesa sencilla",
+                "price": 600
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Lasagna",
+                "price": 1250
+            },
+            {
+                "name": "Pizza Tatico",
+                "price": 1200
+            },
+            {
+                "name": "Pizza mixta",
+                "price": 680
+            },
+            {
+                "name": "Pizza hawaiana",
+                "price": 680
+            },
+            {
+                "name": "Pizza jamon",
+                "price": 680
+            },
+            {
+                "name": "Pizza de queso",
+                "price": 680
+            },
+            {
+                "name": "Pollo al carbon",
+                "price": 1200
+            },
+            {
+                "name": "Sandwich Tatico",
+                "price": 650
+            },
+            {
+                "name": "Bocadito de atun",
+                "price": 600
+            },
+            {
+                "name": "Pan con lechon",
+                "price": 650
+            },
+            {
+                "name": "Pan con croqueta",
+                "price": 240
+            }
+        ]
+    }
+}

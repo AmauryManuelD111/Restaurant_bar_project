@@ -1,0 +1,191 @@
+{
+    "name": "pizzeria los atrevidos",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "italiana"
+    ],
+    "municipality": "Arroyo Naranjo",
+    "services": [
+        "Parking",
+        "Reservations",
+        "Payment_methods",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator"
+    ],
+    "address": "calzada de bejucal # 2639 e/ estrella y camilo sierra, arroyo naranjo",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "21:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "21:00"
+        }
+    },
+    "contact": {
+        "phone": "76470313",
+        "email": null,
+        "website": "https://atrevidospizzeria.com/",
+        "facebook": "https://www.facebook.com/pizzerialosatrevidos",
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "pizza napolitana",
+                "price": 1100
+            },
+            {
+                "name": "pizza de cebolla",
+                "price": 1250
+            },
+            {
+                "name": "pizza de champinones",
+                "price": 1300
+            },
+            {
+                "name": "pizza de pimiento",
+                "price": 1250
+            },
+            {
+                "name": "pizza de jamon",
+                "price": 1350
+            },
+            {
+                "name": "pizza de aceitunas",
+                "price": 1400
+            },
+            {
+                "name": "pizza de chorizo",
+                "price": 1350
+            },
+            {
+                "name": "pizza de chorizo vela",
+                "price": 1150
+            },
+            {
+                "name": "pizza hawaiana",
+                "price": 1400
+            },
+            {
+                "name": "pizza de bacon",
+                "price": 1400
+            },
+            {
+                "name": "pizza de atun",
+                "price": 1500
+            },
+            {
+                "name": "pizza bolonesa",
+                "price": 1600
+            },
+            {
+                "name": "pizza de jamon serrano",
+                "price": 1550
+            },
+            {
+                "name": "pizza de camarones",
+                "price": 1650
+            },
+            {
+                "name": "pizza 4 quesos",
+                "price": 1500
+            },
+            {
+                "name": "pizza atrevida",
+                "price": 1800
+            },
+            {
+                "name": "pizza jamon pernia",
+                "price": 1500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "others": [
+            {
+                "name": "lasagna",
+                "price": 1100
+            },
+            {
+                "name": "spaguetis napolitanos",
+                "price": 1000
+            },
+            {
+                "name": "spaguetis de parmesano",
+                "price": 1200
+            },
+            {
+                "name": "spaguetis de jamon",
+                "price": 1250
+            },
+            {
+                "name": "spaguetis de atun",
+                "price": 1350
+            },
+            {
+                "name": "spaguetis de chorizo",
+                "price": 1250
+            },
+            {
+                "name": "spaguetis de aceituna",
+                "price": 1300
+            },
+            {
+                "name": "spaguetis de cebolla",
+                "price": 1150
+            },
+            {
+                "name": "spaguetis hawaianos",
+                "price": 1300
+            },
+            {
+                "name": "spaguetis 4 quesos",
+                "price": 1400
+            },
+            {
+                "name": "spaguetis atrevidos",
+                "price": 1050
+            },
+            {
+                "name": "spaguetis bolonesa",
+                "price": 1450
+            }
+        ]
+    }
+}

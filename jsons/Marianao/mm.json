@@ -1,0 +1,358 @@
+{
+    "name": "MMCafeteria",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Variada"
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "Avenida 41",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": "72611382",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Papas fritas",
+                "price": 650
+            },
+            {
+                "name": "Croquetas",
+                "price": 550
+            },
+            {
+                "name": "Fritura de malanga",
+                "price": 550
+            },
+            {
+                "name": "Tostones rellenos",
+                "price": 650
+            },
+            {
+                "name": "Ensalada fria de jamon",
+                "price": 800
+            },
+            {
+                "name": "Ensalada fria de atun",
+                "price": 900
+            },
+            {
+                "name": "Fajitas de Pechuga salteada",
+                "price": 1200
+            },
+            {
+                "name": "Fajitas de Pechuga empanada",
+                "price": 1450
+            },
+            {
+                "name": "Fajitas de Cerdo salteadas",
+                "price": 1300
+            },
+            {
+                "name": "Fajitas de cerdo empanada",
+                "price": 1350
+            },
+            {
+                "name": "Eperlan",
+                "price": 1350
+            },
+            {
+                "name": "Coctel de camarones",
+                "price": 2100
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [
+            {
+                "name": "Vaca Frita",
+                "price": 1900
+            },
+            {
+                "name": "Ropa Vieja",
+                "price": 1900
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Pescado Grille",
+                "price": 1500
+            },
+            {
+                "name": "Pescado Empanizado",
+                "price": 1900
+            },
+            {
+                "name": "Enchilado de Camaron",
+                "price": 1400
+            },
+            {
+                "name": "Camaron al Ajillo",
+                "price": 1700
+            },
+            {
+                "name": "Camaron Empanado",
+                "price": 2000
+            },
+            {
+                "name": "Canciller 190Grs",
+                "price": 2000
+            },
+            {
+                "name": "Langosta",
+                "price": 2100
+            },
+            {
+                "name": "Cazuela de mariscos",
+                "price": 2100
+            },
+            {
+                "name": "Canciller 180 Grs",
+                "price": 2000
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Hamburguesa clasica",
+                "price": 400
+            },
+            {
+                "name": "Hamburguesa de queso",
+                "price": 600
+            },
+            {
+                "name": "Hamburguesa de jamon",
+                "price": 550
+            },
+            {
+                "name": "Hamburguesas jamon y queso",
+                "price": 700
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Helado CID",
+                "price": 850
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "agua",
+                "price": 130
+            },
+            {
+                "name": "Refresco Santa",
+                "price": 200
+            },
+            {
+                "name": "Sprite",
+                "price": 450
+            },
+            {
+                "name": "Santa isabel",
+                "price": 250
+            },
+            {
+                "name": "Energizante",
+                "price": 260
+            },
+            {
+                "name": "Cristal V",
+                "price": 245
+            },
+            {
+                "name": "Cristal B",
+                "price": 200
+            },
+            {
+                "name": "Bucanero",
+                "price": 240
+            },
+            {
+                "name": "Jugo Lata",
+                "price": 265
+            }
+        ],
+        "others": [
+            {
+                "name": "Taco de cerdo",
+                "price": 1200
+            },
+            {
+                "name": "Taco de camaron",
+                "price": 1400
+            },
+            {
+                "name": "Taco de pollo",
+                "price": 1100
+            },
+            {
+                "name": "Taco de res",
+                "price": 1300
+            },
+            {
+                "name": "Crema de queso",
+                "price": 800
+            },
+            {
+                "name": "Lasagña Boloñesa",
+                "price": 1700
+            },
+            {
+                "name": "Espaguettis napolitano",
+                "price": 700
+            },
+            {
+                "name": "Pizzas Napolitanas, 32 cm",
+                "price": 750
+            },
+            {
+                "name": "Pizzas jamon",
+                "price": 1100
+            },
+            {
+                "name": "Pizzas Bacon",
+                "price": 1650
+            },
+            {
+                "name": "Pizzas Pimiento",
+                "price": 1050
+            },
+            {
+                "name": "Pizzas Cebolla",
+                "price": 950
+            },
+            {
+                "name": "Pizzas Hawaiana",
+                "price": 1350
+            },
+            {
+                "name": "Pizzas Atún",
+                "price": 1650
+            },
+            {
+                "name": "Pizzas Camaron",
+                "price": 1350
+            },
+            {
+                "name": "Pizzas Ropa Vieja",
+                "price": 1500
+            },
+            {
+                "name": "Pizzas De Chorizo",
+                "price": 1100
+            },
+            {
+                "name": "Pizzas MM",
+                "price": 1800
+            },
+            {
+                "name": "Bistec de Cerdo Grille",
+                "price": 1400
+            },
+            {
+                "name": "Cerdo Bistec Empanizado",
+                "price": 1600
+            },
+            {
+                "name": "Bistec de Cerdo Uruguayo",
+                "price": 1950
+            },
+            {
+                "name": "Masa de Cerdo Salteada",
+                "price": 1350
+            },
+            {
+                "name": "Lomo de Cerdo",
+                "price": 1500
+            },
+            {
+                "name": "Fricase de Cerdo",
+                "price": 1400
+            },
+            {
+                "name": "Bistec de Pollo Gordon Blue",
+                "price": 1900
+            },
+            {
+                "name": "Bistec de Pechuga Gordon Blue",
+                "price": 1900
+            },
+            {
+                "name": "Pechuga de Pollo Grille",
+                "price": 1500
+            },
+            {
+                "name": "Pechuga de Pollo Empanada",
+                "price": 1400
+            },
+            {
+                "name": "Arroz Blanco",
+                "price": 200
+            },
+            {
+                "name": "Arroz Congrí",
+                "price": 300
+            },
+            {
+                "name": "Arroz Frito",
+                "price": 1550
+            },
+            {
+                "name": "Arroz Imperial",
+                "price": 1650
+            },
+            {
+                "name": "Paella",
+                "price": 2100
+            },
+            {
+                "name": "Arroz frito de cerdo, pollo y mejillon",
+                "price": 1450
+            }
+        ]
+    }
+}

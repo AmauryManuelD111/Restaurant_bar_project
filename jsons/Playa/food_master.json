@@ -1,0 +1,227 @@
+{
+    "name": "FoodMaster",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Mexicana",
+        "Americana",
+        "Cafe",
+        "Internacional",
+        "Bares para comer",
+        "Pizzas"
+    ],
+    "municipality": "Playa",
+    "services": [
+        "A la carta"
+    ],
+    "address": "Null",
+    "qualification": 4.4,
+    "hours": {
+        "monday": {
+            "open": "10:30",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "10:30",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "10:30",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "10:30",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "10:30",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "10:30",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "10:30",
+            "close": "21:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "Null",
+        "website": "Null",
+        "facebook": "Null",
+        "instagram": "Null"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Picadera Food Master",
+                "price": 2700
+            },
+            {
+                "name": "Salchichas al Grill",
+                "price": 1600
+            },
+            {
+                "name": "Quesadilla",
+                "price": 990
+            },
+            {
+                "name": "Tacos",
+                "price": 990
+            },
+            {
+                "name": "Croquetas",
+                "price": 700
+            },
+            {
+                "name": "Empanadas",
+                "price": 750
+            },
+            {
+                "name": "Papas Fritas",
+                "price": 690
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "Big Master Burger",
+                "price": 3500
+            },
+            {
+                "name": "Suiza",
+                "price": 2950
+            },
+            {
+                "name": "Max",
+                "price": 2700
+            },
+            {
+                "name": "La Granja",
+                "price": 2550
+            },
+            {
+                "name": "Italiana",
+                "price": 2450
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Empanadas de Pina y Queso",
+                "price": 750
+            },
+            {
+                "name": "Muffin",
+                "price": 550
+            },
+            {
+                "name": "Helado",
+                "price": 750
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "Vino por Copa",
+                "price": 900
+            },
+            {
+                "name": "Gin & Tonic",
+                "price": 1200
+            },
+            {
+                "name": "Chelada",
+                "price": 900
+            },
+            {
+                "name": "Michelada",
+                "price": 1000
+            },
+            {
+                "name": "Sangria",
+                "price": 1100
+            },
+            {
+                "name": "Sangria Blanca",
+                "price": 1100
+            },
+            {
+                "name": "Tinto de Verano",
+                "price": 900
+            },
+            {
+                "name": "Spirit Coctel",
+                "price": 800
+            },
+            {
+                "name": "Cerveza",
+                "price": 600
+            },
+            {
+                "name": "Cerveza Gama Alta",
+                "price": 800
+            },
+            {
+                "name": "Jugo Natural",
+                "price": 500
+            },
+            {
+                "name": "Jugo Cajita",
+                "price": 400
+            },
+            {
+                "name": "Batido de Helado",
+                "price": 750
+            },
+            {
+                "name": "Batido de Helado y Frutas",
+                "price": 750
+            },
+            {
+                "name": "Smoothie de Frutas",
+                "price": 600
+            },
+            {
+                "name": "Fresh de Pepino",
+                "price": 300
+            }
+        ],
+        "others": [
+            {
+                "name": "Margarita",
+                "price": 1900
+            },
+            {
+                "name": "Margarita con Jamon",
+                "price": 2400
+            },
+            {
+                "name": "Diavola",
+                "price": 2600
+            },
+            {
+                "name": "De Jamon Serrano",
+                "price": 3200
+            },
+            {
+                "name": "De Atun",
+                "price": 3100
+            },
+            {
+                "name": "La Prohibida en Italia",
+                "price": 3200
+            }
+        ]
+    }
+}

@@ -1,0 +1,430 @@
+{
+    "name": "La Vitrola",
+    "type": [
+        "restaurant",
+        "bar"
+    ],
+    "speciality": [
+        "cuban",
+        "caribbean"
+    ],
+    "municipality": "Habana Vieja",
+    "services": [
+        "Parking",
+        "reservations",
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "Muralla No.151 e/ San Ignacio y Cuba, Habana Vieja",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:30",
+            "close": "02:00"
+        },
+        "tuesday": {
+            "open": "08:30",
+            "close": "02:00"
+        },
+        "wednesday": {
+            "open": "08:30",
+            "close": "02:00"
+        },
+        "thursday": {
+            "open": "08:30",
+            "close": "02:00"
+        },
+        "friday": {
+            "open": "08:30",
+            "close": "02:00"
+        },
+        "saturday": {
+            "open": "08:30",
+            "close": "02:00"
+        },
+        "sunday": {
+            "open": "08:30",
+            "close": "02:00"
+        }
+    },
+    "contact": {
+        "phone": "78018264",
+        "email": null,
+        "website": "http://www.lavitrolacuba.com",
+        "facebook": "https://m.facebook.com/lavitrolacuba/",
+        "instagram": "https://www.instagram.com/lavitrolaa?igsh=MWZ3a2E5Y3Exd3BwbQ=="
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Bolitas de Queso",
+                "price": 1000
+            },
+            {
+                "name": "Bruschetta",
+                "price": 1250
+            },
+            {
+                "name": "Croquetas de la casa",
+                "price": 1000
+            },
+            {
+                "name": "Eperlan de pescado",
+                "price": 4000
+            },
+            {
+                "name": "Frituras de Malanga",
+                "price": 850
+            },
+            {
+                "name": "Hamburguesa de Res o de Cerdo",
+                "price": 1850
+            },
+            {
+                "name": " Con Agregos (Jamon, Queso, Vegetales, Viandas Fritas)",
+                "price": 2400
+            },
+            {
+                "name": "Sandwich de Jamon y Queso",
+                "price": 1750
+            },
+            {
+                "name": "Sandwich de Atun",
+                "price": 1750
+            },
+            {
+                "name": "Sandwich de Pollo",
+                "price": 1750
+            },
+            {
+                "name": "Sandwich Cubano",
+                "price": 2200
+            },
+            {
+                "name": "Sandwich Vitrola",
+                "price": 2200
+            },
+            {
+                "name": "Tacos de Cerdo o Pollo",
+                "price": 2400
+            },
+            {
+                "name": "Tacos de Camaron",
+                "price": 2850
+            },
+            {
+                "name": "Garbanzo Frito",
+                "price": 1850
+            },
+            {
+                "name": "Tostones Rellenos",
+                "price": 1450
+            },
+            {
+                "name": "Tamales",
+                "price": 950
+            },
+            {
+                "name": "Tamal Vitrola",
+                "price": 1600
+            },
+            {
+                "name": "Vitrola Mixta",
+                "price": 7750
+            },
+            {
+                "name": "Ensalada Vitrola",
+                "price": 1350
+            },
+            {
+                "name": "Ensalada Plaza Vieja",
+                "price": 1750
+            },
+            {
+                "name": "Picadera Vitrola",
+                "price": 4000
+            },
+            {
+                "name": "Picadera Surtida",
+                "price": 4000
+            },
+            {
+                "name": "Picadera Campesina",
+                "price": 4700
+            },
+            {
+                "name": "Coctel de Camarones",
+                "price": 3650
+            },
+            {
+                "name": "Ceviche de Pescado",
+                "price": 4350
+            },
+            {
+                "name": "Pulpo al ajillo / Grille",
+                "price": 6750
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [
+            {
+                "name": "Bistec de Res",
+                "price": 8000
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Mar y Tierra",
+                "price": 6000
+            },
+            {
+                "name": "Filete de Pescado",
+                "price": 4250
+            },
+            {
+                "name": "Filete de Pescado Empanado",
+                "price": 4400
+            },
+            {
+                "name": "Filete de Pescado gratinado",
+                "price": 4850
+            },
+            {
+                "name": "Camarones al gusto",
+                "price": 3650
+            },
+            {
+                "name": "Pescado frito",
+                "price": 6750
+            },
+            {
+                "name": "Pescado John Bill",
+                "price": 5450
+            },
+            {
+                "name": "Filete de Pescado Monte Toro",
+                "price": 5450
+            },
+            {
+                "name": "Filete de Pescado Canciller",
+                "price": 5900
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Patacon de la Abuela",
+                "price": 3500
+            },
+            {
+                "name": "Grillada Mixta",
+                "price": 7000
+            },
+            {
+                "name": "Trillada Campesina",
+                "price": 12000
+            },
+            {
+                "name": "Brocheta a su Eleccion",
+                "price": 2500
+            },
+            {
+                "name": "Suprema de Pollo",
+                "price": 2750
+            },
+            {
+                "name": "Pollo Cordon Blue",
+                "price": 3400
+            },
+            {
+                "name": "Fajitas de Pollo/Cerdo",
+                "price": 2750
+            },
+            {
+                "name": "Pollo Grille",
+                "price": 2750
+            },
+            {
+                "name": "Pollo Frito",
+                "price": 3400
+            },
+            {
+                "name": "Pollo Asado en su Jugo con Papas",
+                "price": 4000
+            },
+            {
+                "name": "Bistec Uruguayo",
+                "price": 3400
+            },
+            {
+                "name": "Bistec de Cerdo Encebollado",
+                "price": 2500
+            },
+            {
+                "name": "Vaca Frita",
+                "price": 3400
+            },
+            {
+                "name": " Ropa Vieja",
+                "price": 3400
+            },
+            {
+                "name": "Chilindron de Cordero",
+                "price": 6250
+            },
+            {
+                "name": "Masa de Cerdo",
+                "price": 3100
+            },
+            {
+                "name": "Costillas de Cerdo",
+                "price": 4000
+            },
+            {
+                "name": "Arroz frito",
+                "price": 1950
+            },
+            {
+                "name": "Camarones",
+                "price": 2400
+            },
+            {
+                "name": "Tres Lomitos",
+                "price": 3700
+            },
+            {
+                "name": "Costilla Americana / Criolla",
+                "price": 8750
+            },
+            {
+                "name": "Vianda Frita",
+                "price": 550
+            },
+            {
+                "name": "Papas Fritas",
+                "price": 1250
+            },
+            {
+                "name": "Ensalada Vegetales",
+                "price": 700
+            },
+            {
+                "name": "Arroz Blanco",
+                "price": 400
+            },
+            {
+                "name": "Arroz Moro/Arroz con Vegetales",
+                "price": 600
+            },
+            {
+                "name": "Frijoles Negros",
+                "price": 600
+            },
+            {
+                "name": "Cuatro Quesos",
+                "price": 3200
+            },
+            {
+                "name": "Alfredo",
+                "price": 1600
+            },
+            {
+                "name": "Bolonesa",
+                "price": 2750
+            },
+            {
+                "name": "Carbonara",
+                "price": 1900
+            },
+            {
+                "name": "Puttanesca",
+                "price": 1550
+            },
+            {
+                "name": "Al Pesto",
+                "price": 2400
+            },
+            {
+                "name": "Chorizo",
+                "price": 2750
+            },
+            {
+                "name": "Al Ajo",
+                "price": 1800
+            },
+            {
+                "name": "Pomodoro",
+                "price": 1800
+            },
+            {
+                "name": "Pasta Retro",
+                "price": 3000
+            },
+            {
+                "name": "Pasta al Horno",
+                "price": 2750
+            },
+            {
+                "name": "Amatriciana",
+                "price": 3500
+            },
+            {
+                "name": "Frutti di mare",
+                "price": 4100
+            },
+            {
+                "name": "Margarita",
+                "price": 1500
+            },
+            {
+                "name": "Jamon Visking",
+                "price": 2100
+            },
+            {
+                "name": "Jamon Pierna",
+                "price": 2900
+            },
+            {
+                "name": "Jamon Serrano",
+                "price": 3500
+            },
+            {
+                "name": "Hawaiana",
+                "price": 2200
+            },
+            {
+                "name": "Atun",
+                "price": 2500
+            },
+            {
+                "name": "Cuatro Estaciones",
+                "price": 2500
+            },
+            {
+                "name": "Salame",
+                "price": 3000
+            },
+            {
+                "name": "Cebolla",
+                "price": 1600
+            },
+            {
+                "name": "Champinones",
+                "price": 2300
+            },
+            {
+                "name": "Calzone",
+                "price": 3200
+            }
+        ]
+    }
+}

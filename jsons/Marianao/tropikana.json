@@ -1,0 +1,190 @@
+{
+    "name": "Tropikana",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Variada"
+    ],
+    "municipality": "Marianao",
+    "services": [],
+    "address": "Avenida 41, calle 72",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "22:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "22:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Tostones",
+                "price": 350
+            },
+            {
+                "name": "Tostones rellenos",
+                "price": 450
+            },
+            {
+                "name": "Crema de queso",
+                "price": 450
+            },
+            {
+                "name": "Crema aurora",
+                "price": 450
+            },
+            {
+                "name": "Crema de jamon",
+                "price": 450
+            },
+            {
+                "name": "Consome",
+                "price": 450
+            },
+            {
+                "name": "Eperlan",
+                "price": 500
+            },
+            {
+                "name": "Croquetas",
+                "price": 500
+            },
+            {
+                "name": "Picadera de la casa",
+                "price": 100
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "Bistec de cerdo",
+                "price": 1300
+            },
+            {
+                "name": "Bistec de cerdo a la milanesa",
+                "price": 1800
+            }
+        ],
+        "beef": [
+            {
+                "name": "Ropa vieja",
+                "price": 1550
+            }
+        ],
+        "seafood": [
+            {
+                "name": "Canciller",
+                "price": 2500
+            },
+            {
+                "name": "Pescado entero",
+                "price": 2000
+            },
+            {
+                "name": "Rueda de atun",
+                "price": 1700
+            },
+            {
+                "name": "Camarones",
+                "price": 1700
+            },
+            {
+                "name": "Filete de pescado",
+                "price": 1500
+            }
+        ],
+        "burgers": [
+            {
+                "name": "Super hamburguesa",
+                "price": 560
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Helado gusto 1L",
+                "price": 1000
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "Espaguettis a la carbonara",
+                "price": 750
+            },
+            {
+                "name": "Espaguettis queso gouda",
+                "price": 650
+            },
+            {
+                "name": "Pizza de queso gouda",
+                "price": 750
+            },
+            {
+                "name": "Pizza Hawaiana",
+                "price": 800
+            },
+            {
+                "name": "Pizza tropicana",
+                "price": 950
+            },
+            {
+                "name": "Bistec de pollo",
+                "price": 1000
+            },
+            {
+                "name": "Pollo frito",
+                "price": 1000
+            },
+            {
+                "name": "Pollo a la milanesa",
+                "price": 1500
+            },
+            {
+                "name": "Arroz frito",
+                "price": 700
+            },
+            {
+                "name": "Pan con jamon y queso",
+                "price": 280
+            }
+        ]
+    }
+}

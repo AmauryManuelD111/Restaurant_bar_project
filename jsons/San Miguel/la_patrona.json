@@ -1,0 +1,185 @@
+{
+    "name": "La Patrona",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "criolla",
+        "italiana"
+    ],
+    "municipality": "San Miguel del Padron",
+    "services": [
+        "delivery_areas"
+    ],
+    "address": "Calzada de Guines en San Francisco de Paula",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": null,
+            "close": null
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            "bistec uruguayo",
+            "ropa vieja",
+            "escalope de cerdo",
+            "bistec de cerdo"
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            "hamburguesa clasica",
+            "hamburguesa sencilla",
+            "hamburguesa grosera",
+            "hamburguesa patrona"
+        ],
+        "desserts": [
+            "flan",
+            "copa lolita",
+            "cesta helado",
+            "tres gracias"
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": null,
+            "price": null
+        },
+        "others": [
+            {
+                "name": "arroz frito",
+                "price": 1000
+            },
+            {
+                "name": "lasana",
+                "price": 1250
+            },
+            {
+                "name": "canelones",
+                "price": 1100
+            },
+            {
+                "name": "espaguetti carbonara",
+                "price": 1500
+            },
+            {
+                "name": "pizza La Patrona",
+                "price": 1800
+            },
+            {
+                "name": "jamon serrano",
+                "price": 800
+            },
+            {
+                "name": "jamon",
+                "price": 400
+            },
+            {
+                "name": "chorizo",
+                "price": 400
+            },
+            {
+                "name": "bacon",
+                "price": 400
+            },
+            {
+                "name": "pepperoni",
+                "price": 400
+            },
+            {
+                "name": "queso parmesano",
+                "price": 400
+            },
+            {
+                "name": "queso blanco",
+                "price": 300
+            },
+            {
+                "name": "queso gouda",
+                "price": 400
+            },
+            {
+                "name": "cebolla",
+                "price": 300
+            },
+            {
+                "name": "pina",
+                "price": 300
+            },
+            {
+                "name": "aceitunas",
+                "price": 300
+            },
+            {
+                "name": "atun",
+                "price": 500
+            },
+            {
+                "name": "cafe express",
+                "price": 150
+            },
+            {
+                "name": "cafe con crema",
+                "price": 180
+            },
+            {
+                "name": "cafe La Patrona",
+                "price": 250
+            },
+            {
+                "name": "frapuchino",
+                "price": 250
+            },
+            {
+                "name": "jugos",
+                "price": 100
+            },
+            {
+                "name": "suero helado",
+                "price": 350
+            },
+            {
+                "name": "batidos",
+                "price": 300
+            }
+        ]
+    }
+}

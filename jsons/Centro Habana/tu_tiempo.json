@@ -1,0 +1,201 @@
+{
+    "name": "Tu Tiempo",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "cubana"
+    ],
+    "municipality": "Centro Habana",
+    "services": [
+        "A la carta",
+        "A domicilio",
+        "cash_national",
+        "digital_transfer_national"
+    ],
+    "address": "Null",
+    "qualification": 4.6,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "20:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "20:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": "Null",
+        "website": "Null",
+        "facebook": "Null",
+        "instagram": "Null"
+    },
+    "menu": {
+        "starters": [],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "arroz con leche",
+                "price": 300
+            },
+            {
+                "name": "coctel de frutas",
+                "price": 150
+            }
+        ],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": "batido de helado",
+            "price": 400
+        },
+        "others": [
+            {
+                "name": "combo 17",
+                "price": 2000
+            },
+            {
+                "name": "combo 18",
+                "price": 2000
+            },
+            {
+                "name": "combo 19",
+                "price": 2300
+            },
+            {
+                "name": "combo 20",
+                "price": 2300
+            },
+            {
+                "name": "combo 21",
+                "price": 3000
+            },
+            {
+                "name": "combo 22",
+                "price": 3000
+            },
+            {
+                "name": "combo 23",
+                "price": 3000
+            },
+            {
+                "name": "combo 24",
+                "price": 2000
+            },
+            {
+                "name": "combo 25",
+                "price": 2500
+            },
+            {
+                "name": "combo 26 (tu tiempo)",
+                "price": 5000
+            },
+            {
+                "name": "fricase de pollo",
+                "price": 2000
+            },
+            {
+                "name": "bistec de res",
+                "price": 3300
+            },
+            {
+                "name": "arroz con pollo",
+                "price": 2000
+            },
+            {
+                "name": "combo 1",
+                "price": 1500
+            },
+            {
+                "name": "combo 2",
+                "price": 1800
+            },
+            {
+                "name": "combo 3",
+                "price": 2000
+            },
+            {
+                "name": "combo 4",
+                "price": 2000
+            },
+            {
+                "name": "combo 5",
+                "price": 2300
+            },
+            {
+                "name": "combo 6",
+                "price": 2600
+            },
+            {
+                "name": "combo 7",
+                "price": 3000
+            },
+            {
+                "name": "combo 8",
+                "price": 2000
+            },
+            {
+                "name": "combo 9",
+                "price": 2000
+            },
+            {
+                "name": "combo 10",
+                "price": 2100
+            },
+            {
+                "name": "combo 11",
+                "price": 2000
+            },
+            {
+                "name": "combo 12",
+                "price": 2000
+            },
+            {
+                "name": "combo 13",
+                "price": 2000
+            },
+            {
+                "name": "combo 14",
+                "price": 2000
+            },
+            {
+                "name": "combo 15",
+                "price": 2000
+            },
+            {
+                "name": "combo 16",
+                "price": 2300
+            }
+        ]
+    }
+}

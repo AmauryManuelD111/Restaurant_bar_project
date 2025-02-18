@@ -1,0 +1,190 @@
+{
+    "name": "martinez club",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [],
+    "municipality": "Cotorro",
+    "services": [
+        "transferencia",
+        "online_reservation",
+        "delivery",
+        "cash_national"
+    ],
+    "address": null,
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "21:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "21:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": "Facebook",
+        "instagram": "Instagram"
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "fritura de malanga",
+                "price": 300
+            },
+            {
+                "name": "ensalada fria",
+                "price": 150
+            },
+            {
+                "name": "croquetas",
+                "price": 300
+            },
+            {
+                "name": "tostones al ajillo",
+                "price": 300
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "pollo chiflado",
+                "price": 700
+            },
+            {
+                "name": "masa de cerdo frita",
+                "price": 1100
+            }
+        ],
+        "beef": [],
+        "seafood": [],
+        "burgers": [
+            {
+                "name": "hamburguesa simple",
+                "price": 230
+            },
+            {
+                "name": "hamburguesa con mayonesa",
+                "price": 280
+            },
+            {
+                "name": "hamburguesa con jamon",
+                "price": 350
+            },
+            {
+                "name": "hamburguesa con chorizo",
+                "price": 350
+            },
+            {
+                "name": "hamburguesa con cebolla",
+                "price": 330
+            },
+            {
+                "name": "hamburguesa con queso blanco",
+                "price": 330
+            },
+            {
+                "name": "hamburguesa con queso gouda",
+                "price": 430
+            }
+        ],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [],
+        "others": [
+            {
+                "name": "pan con jamon",
+                "price": 250
+            },
+            {
+                "name": "pan con perro",
+                "price": 200
+            },
+            {
+                "name": "pan con croqueta",
+                "price": 100
+            },
+            {
+                "name": "espaguetti con queso blanco",
+                "price": 350
+            },
+            {
+                "name": "espaguetti con queso gouda",
+                "price": 500
+            },
+            {
+                "name": "pizza con queso blanco",
+                "price": 200
+            },
+            {
+                "name": "pizza con queso gouda",
+                "price": 350
+            },
+            {
+                "name": "pizza familiar con queso blanco",
+                "price": 450
+            },
+            {
+                "name": "pizza familiar con queso gouda",
+                "price": 650
+            },
+            {
+                "name": "jamon",
+                "price": 120
+            },
+            {
+                "name": "perrito",
+                "price": 120
+            },
+            {
+                "name": "chorizo",
+                "price": 120
+            },
+            {
+                "name": "cebolla",
+                "price": 100
+            },
+            {
+                "name": "queso blanco",
+                "price": 100
+            },
+            {
+                "name": "queso gouda",
+                "price": 200
+            },
+            {
+                "name": "pina",
+                "price": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,947 @@
+{
+    "name": "Tablazo",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Italiana",
+        "caribena",
+        "latina",
+        "internacional",
+        "cubana"
+    ],
+    "municipality": "Plaza de la Revolucion",
+    "services": [
+        "Parking",
+        "Reservations",
+        "Delivery",
+        "Power_generator"
+    ],
+    "address": "Calle 1era entre C y D, Vedado.",
+    "qualification": 4.5,
+    "hours": {
+        "monday": {
+            "open": "09:00",
+            "close": "00:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "close": "00:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "close": "00:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "close": "00:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "close": "00:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "close": "00:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "close": "00:00"
+        }
+    },
+    "contact": {
+        "phone": "78351321",
+        "email": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "Desayuno Tablazo",
+                "price": 1100
+            },
+            {
+                "name": "Desayuno Pura Vida",
+                "price": 850
+            },
+            {
+                "name": "Tostadas Francesas",
+                "price": 900
+            },
+            {
+                "name": "Cesta de pan",
+                "price": 490
+            },
+            {
+                "name": "Frituras de Malanga",
+                "price": 790
+            },
+            {
+                "name": "Croquetas de la Casa",
+                "price": 495
+            },
+            {
+                "name": "Papas Fritas",
+                "price": 890
+            },
+            {
+                "name": "Empanadas de espinacas y queso trufado",
+                "price": 750
+            },
+            {
+                "name": "Eperlan de pescado",
+                "price": 1300
+            },
+            {
+                "name": "Empanadas de la casa",
+                "price": 890
+            },
+            {
+                "name": "Cremosa de la casa",
+                "price": 1300
+            },
+            {
+                "name": "Tamal en Cazuela",
+                "price": 890
+            },
+            {
+                "name": "Tostones rellenos de cangrejo",
+                "price": 950
+            },
+            {
+                "name": "Tostones rellenos de atun y pico de gallo",
+                "price": 1200
+            },
+            {
+                "name": "Ensalada rio arriba",
+                "price": 2100
+            },
+            {
+                "name": "Ensalada tablazo",
+                "price": 1700
+            },
+            {
+                "name": "Ensalada ranchera",
+                "price": 1450
+            },
+            {
+                "name": "Ensalada Capresse",
+                "price": 900
+            },
+            {
+                "name": "Ensalada estacion",
+                "price": 900
+            },
+            {
+                "name": "Ceviche de Pescado",
+                "price": 950
+            },
+            {
+                "name": "Ensalada fria",
+                "price": 700
+            },
+            {
+                "name": "Montaditos de Cangrejo",
+                "price": 750
+            },
+            {
+                "name": "Coctel de Langosta",
+                "price": 1300
+            },
+            {
+                "name": "Garbanzo Tablazo",
+                "price": 1200
+            },
+            {
+                "name": "Carbanzo de pulpo",
+                "price": 2700
+            },
+            {
+                "name": "Carpaccio de res mi chef",
+                "price": 2300
+            },
+            {
+                "name": "Picadera Tablazo",
+                "price": 2900
+            },
+            {
+                "name": "Tabla de jamon serrano y queso",
+                "price": 3000
+            },
+            {
+                "name": "Montaditos de salmon ahumado",
+                "price": 2800
+            },
+            {
+                "name": "Tabla cimarrona",
+                "price": 2500
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [],
+        "beef": [],
+        "seafood": [],
+        "burgers": [],
+        "desserts": [
+            {
+                "name": "Flan",
+                "price": 800
+            },
+            {
+                "name": "Copa Lolita",
+                "price": 990
+            },
+            {
+                "name": "Helado",
+                "price": 500
+            },
+            {
+                "name": "tarta de la casa",
+                "price": 800
+            },
+            {
+                "name": "Brownie con helado",
+                "price": 850
+            }
+        ],
+        "cocktails": [
+            {
+                "name": "Cuba libre",
+                "price": 690
+            },
+            {
+                "name": "Caipiroska",
+                "price": 690
+            },
+            {
+                "name": "Ron Collins",
+                "price": 690
+            },
+            {
+                "name": "Sangria",
+                "price": 750
+            },
+            {
+                "name": "Havana especial",
+                "price": 650
+            },
+            {
+                "name": "Caipirinha",
+                "price": 650
+            },
+            {
+                "name": "Cubata",
+                "price": 790
+            },
+            {
+                "name": "Aperol spritz",
+                "price": 1300
+            },
+            {
+                "name": "Cubanito",
+                "price": 750
+            },
+            {
+                "name": "Expresso Martini",
+                "price": 800
+            },
+            {
+                "name": "Margarita Rose",
+                "price": 1100
+            },
+            {
+                "name": "Margarita",
+                "price": 950
+            },
+            {
+                "name": "Mojito",
+                "price": 690
+            },
+            {
+                "name": "Mojito de frutas",
+                "price": 720
+            },
+            {
+                "name": "Pina colada sin alcohol",
+                "price": 850
+            },
+            {
+                "name": "Pina colada con alcohol",
+                "price": 950
+            },
+            {
+                "name": "Canchanchara",
+                "price": 690
+            },
+            {
+                "name": "Daiquiri",
+                "price": 690
+            },
+            {
+                "name": "Daiquiri de frutas",
+                "price": 720
+            },
+            {
+                "name": "Mimosa",
+                "price": 700
+            },
+            {
+                "name": "Bloody Mary",
+                "price": 750
+            },
+            {
+                "name": "Sangria Tablazo",
+                "price": 850
+            }
+        ],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": {
+            "name": "Refrescos",
+            "price": 420
+        },
+        "others": [
+            {
+                "name": "Cola de langosta a su eleccion",
+                "price": 3600
+            },
+            {
+                "name": "Causa de Calamar",
+                "price": 1950
+            },
+            {
+                "name": "Indeciso",
+                "price": 2500
+            },
+            {
+                "name": "Suprema solo en casa",
+                "price": 2700
+            },
+            {
+                "name": "Langostinos salteados en salsa cajun",
+                "price": 2200
+            },
+            {
+                "name": "Paisa Cubana",
+                "price": 2300
+            },
+            {
+                "name": "Calamar Recuerdo",
+                "price": 3500
+            },
+            {
+                "name": "Cordero estilo tablazo",
+                "price": 2700
+            },
+            {
+                "name": "Cordero Estofado",
+                "price": 2600
+            },
+            {
+                "name": "Ropa vieja de cordero",
+                "price": 2300
+            },
+            {
+                "name": "Jarrete de cordero en salsa de curry, leche de coco y aceitunas verdes",
+                "price": 2500
+            },
+            {
+                "name": "Ropa vieja entomatadad",
+                "price": 2400
+            },
+            {
+                "name": "Bistec de res encebollado con cilantro y aceite de oliva",
+                "price": 2850
+            },
+            {
+                "name": "Mignon de res con salsa cazadora",
+                "price": 4950
+            },
+            {
+                "name": "Solomillo de res con salsa de pimienta, champinones y trufas",
+                "price": 4950
+            },
+            {
+                "name": "Lomo saltado de res",
+                "price": 4500
+            },
+            {
+                "name": "Supremo de pollo con salsa cazadora",
+                "price": 2400
+            },
+            {
+                "name": "Cordon Bleu de pollo y agridulce de yogurt",
+                "price": 2700
+            },
+            {
+                "name": "Pechuga rellena con jamon y queso con salsa ahumada",
+                "price": 2600
+            },
+            {
+                "name": "Pollo grille deshuesado con mantequilla de ajo",
+                "price": 2400
+            },
+            {
+                "name": "Cordon bleu de cerdo y salsa ahumada",
+                "price": 3000
+            },
+            {
+                "name": "Bistec de cerdo con mojo criollo",
+                "price": 2500
+            },
+            {
+                "name": "Masas de cerdo frita con salsa chimichurri",
+                "price": 3100
+            },
+            {
+                "name": "Lomo de cerdo ahumado con salsa agridulce de yogurt",
+                "price": 2600
+            },
+            {
+                "name": "Costilla de cerdo con salsa barbacoa",
+                "price": 3600
+            },
+            {
+                "name": "Lomo salteado de cerdo",
+                "price": 2600
+            },
+            {
+                "name": "Wok de mariscos",
+                "price": 4000
+            },
+            {
+                "name": "Pescado grille con salsa maitre hotel",
+                "price": 2500
+            },
+            {
+                "name": "Maleconazo",
+                "price": 3000
+            },
+            {
+                "name": "Papillote de pescado",
+                "price": 2600
+            },
+            {
+                "name": "Camarones a su eleccion",
+                "price": 3300
+            },
+            {
+                "name": "Grill-Mar",
+                "price": 3400
+            },
+            {
+                "name": "Risotto de res y hongos",
+                "price": 3350
+            },
+            {
+                "name": "Arroz toque profundo",
+                "price": 3200
+            },
+            {
+                "name": "Arroz moro",
+                "price": 350
+            },
+            {
+                "name": "arroz blanco",
+                "price": 300
+            },
+            {
+                "name": "Frijoles del dia",
+                "price": 350
+            },
+            {
+                "name": "Yuca",
+                "price": 350
+            },
+            {
+                "name": "Ensalada de Vegetales",
+                "price": 3900
+            },
+            {
+                "name": "Pisto de Vegetales",
+                "price": 350
+            },
+            {
+                "name": "Vegetales grille",
+                "price": 350
+            },
+            {
+                "name": "Chicharritas de Boniato",
+                "price": 450
+            },
+            {
+                "name": "Tostones criollos",
+                "price": 500
+            },
+            {
+                "name": "Platano maduro frito",
+                "price": 500
+            },
+            {
+                "name": "Chicharritas de plátano",
+                "price": 500
+            },
+            {
+                "name": "Margarita",
+                "price": 1300
+            },
+            {
+                "name": "Habana 500",
+                "price": 1850
+            },
+            {
+                "name": "Calzone Tablazo",
+                "price": 2200
+            },
+            {
+                "name": "4 quesos",
+                "price": 1850
+            },
+            {
+                "name": "Pizza Top",
+                "price": 2400
+            },
+            {
+                "name": "Focaccia de jamon serrano",
+                "price": 1380
+            },
+            {
+                "name": "Pomodoro",
+                "price": 990
+            },
+            {
+                "name": "Amatriciana",
+                "price": 1200
+            },
+            {
+                "name": "Bolognesa",
+                "price": 1290
+            },
+            {
+                "name": "Carbonara",
+                "price": 1690
+            },
+            {
+                "name": "Cangrejo y camarones",
+                "price": 1750
+            },
+            {
+                "name": "Pasta Harakiri",
+                "price": 2100
+            },
+            {
+                "name": "Canelones",
+                "price": 1480
+            },
+            {
+                "name": "Lasagna bolognesa",
+                "price": 2500
+            },
+            {
+                "name": "Jamon viking",
+                "price": 400
+            },
+            {
+                "name": "Jamon pierna",
+                "price": 450
+            },
+            {
+                "name": "Jamon serrano",
+                "price": 850
+            },
+            {
+                "name": "Chorizo",
+                "price": 550
+            },
+            {
+                "name": "Cebolla",
+                "price": 250
+            },
+            {
+                "name": "Champinon",
+                "price": 450
+            },
+            {
+                "name": "Pimiento",
+                "price": 200
+            },
+            {
+                "name": "Aceitunas",
+                "price": 400
+            },
+            {
+                "name": "Pina Glaseada",
+                "price": 250
+            },
+            {
+                "name": "Queso gouda",
+                "price": 500
+            },
+            {
+                "name": "Queso parmesano",
+                "price": 550
+            },
+            {
+                "name": "Tomate natural",
+                "price": 200
+            },
+            {
+                "name": "Pollo",
+                "price": 500
+            },
+            {
+                "name": "Atun",
+                "price": 550
+            },
+            {
+                "name": "Bacon",
+                "price": 550
+            },
+            {
+                "name": "Bolonesa",
+                "price": 600
+            },
+            {
+                "name": "Camarones",
+                "price": 800
+            },
+            {
+                "name": "Baguete de jamon y queso",
+                "price": 950
+            },
+            {
+                "name": "Baguete con atun",
+                "price": 1200
+            },
+            {
+                "name": "Sandwich son cubano",
+                "price": 1950
+            },
+            {
+                "name": "Sandwich Salvaje",
+                "price": 2100
+            },
+            {
+                "name": "Pepito Ternera",
+                "price": 2300
+            },
+            {
+                "name": "Baguete catalan",
+                "price": 1600
+            },
+            {
+                "name": "Hamburguesa de res con queso",
+                "price": 1700
+            },
+            {
+                "name": "Hamburgues de res tablazo",
+                "price": 2100
+            },
+            {
+                "name": "Sandwich Club",
+                "price": 1500
+            },
+            {
+                "name": "Sandwich Elena Ruth",
+                "price": 1500
+            },
+            {
+                "name": "Sandwich Medio Oriente",
+                "price": 1950
+            },
+            {
+                "name": "Refrescos",
+                "price": 420
+            },
+            {
+                "name": "Malta",
+                "price": 450
+            },
+            {
+                "name": "Malteada",
+                "price": 650
+            },
+            {
+                "name": "Limonada",
+                "price": 520
+            },
+            {
+                "name": "Limonada con hierba buena",
+                "price": 550
+            },
+            {
+                "name": "Limonada frescura",
+                "price": 580
+            },
+            {
+                "name": "Agua Natural",
+                "price": 350
+            },
+            {
+                "name": "Agua gaseada",
+                "price": 500
+            },
+            {
+                "name": "Juego Natural",
+                "price": 300
+            },
+            {
+                "name": "Jugo en conserva",
+                "price": 350
+            },
+            {
+                "name": "Batido de frutas",
+                "price": 650
+            },
+            {
+                "name": "Batido de galletas de chocolate",
+                "price": 890
+            },
+            {
+                "name": "Suero de Helado",
+                "price": 890
+            },
+            {
+                "name": "Cerveza",
+                "price": 600
+            },
+            {
+                "name": "Servicio Michelada",
+                "price": 300
+            },
+            {
+                "name": "Servicio Chelada",
+                "price": 150
+            },
+            {
+                "name": "Bebida energetica",
+                "price": 700
+            },
+            {
+                "name": "Kermato",
+                "price": 750
+            },
+            {
+                "name": "Beefeater",
+                "price": 600
+            },
+            {
+                "name": "Gordons",
+                "price": 700
+            },
+            {
+                "name": "Tanqueray",
+                "price": 800
+            },
+            {
+                "name": "Havana Club 3 anos",
+                "price": 450
+            },
+            {
+                "name": "Havana Club 7 anos",
+                "price": 600
+            },
+            {
+                "name": "Havana Club reserva",
+                "price": 550
+            },
+            {
+                "name": "Seleccion de Maestros",
+                "price": 800
+            },
+            {
+                "name": "Santiago 12 anos",
+                "price": 950
+            },
+            {
+                "name": "Santiago 11 anos",
+                "price": 900
+            },
+            {
+                "name": "Santiago 8 anos",
+                "price": 650
+            },
+            {
+                "name": "Santiago Tradicion",
+                "price": 600
+            },
+            {
+                "name": "Clan Campbell",
+                "price": 600
+            },
+            {
+                "name": "Jameson",
+                "price": 600
+            },
+            {
+                "name": "JB",
+                "price": 600
+            },
+            {
+                "name": "Ballantines",
+                "price": 650
+            },
+            {
+                "name": "Ballentine 12s",
+                "price": 900
+            },
+            {
+                "name": "Chivas Regal 12",
+                "price": 800
+            },
+            {
+                "name": "Jack Daniels",
+                "price": 950
+            },
+            {
+                "name": "Jonnie walker Etiqueta Roja",
+                "price": 700
+            },
+            {
+                "name": "Jonnie walker Etiqueta negra",
+                "price": 1000
+            },
+            {
+                "name": "Jonnie walker doble etiqueta negra",
+                "price": 1100
+            },
+            {
+                "name": "Jonnie walker etiqueta verde",
+                "price": 4000
+            },
+            {
+                "name": "Jonnie walker Etiqueta azul",
+                "price": 8000
+            },
+            {
+                "name": "Copa de vino tinto",
+                "price": 800
+            },
+            {
+                "name": "Copa de vino blanco",
+                "price": 800
+            },
+            {
+                "name": "Copa de vino rosado",
+                "price": 800
+            },
+            {
+                "name": "Botella de la casa",
+                "price": 3200
+            },
+            {
+                "name": "Botella premium",
+                "price": 4200
+            },
+            {
+                "name": "Licor Cointreau",
+                "price": 600
+            },
+            {
+                "name": "Crema baileys",
+                "price": 850
+            },
+            {
+                "name": "Sambuca",
+                "price": 550
+            },
+            {
+                "name": "Amareto",
+                "price": 600
+            },
+            {
+                "name": "Crema de Whisky",
+                "price": 600
+            },
+            {
+                "name": "Cinzano rojo",
+                "price": 500
+            },
+            {
+                "name": "Cinzano blanco",
+                "price": 500
+            },
+            {
+                "name": "Campari",
+                "price": 750
+            },
+            {
+                "name": "Crema Catalana",
+                "price": 650
+            },
+            {
+                "name": "Olmeca dorado",
+                "price": 850
+            },
+            {
+                "name": "Olmeca blanco",
+                "price": 800
+            },
+            {
+                "name": "Patron blanco",
+                "price": 1500
+            },
+            {
+                "name": "Patron Reposado",
+                "price": 1600
+            },
+            {
+                "name": "Vodka de la casa",
+                "price": 600
+            },
+            {
+                "name": "Absolut",
+                "price": 650
+            },
+            {
+                "name": "Absolut Raspberry",
+                "price": 700
+            },
+            {
+                "name": "Expresso",
+                "price": 220
+            },
+            {
+                "name": "Americano",
+                "price": 220
+            },
+            {
+                "name": "Carajillo",
+                "price": 400
+            },
+            {
+                "name": "Cortado",
+                "price": 250
+            },
+            {
+                "name": "Descafeinado",
+                "price": 220
+            },
+            {
+                "name": "Cappuccino",
+                "price": 500
+            },
+            {
+                "name": "Te",
+                "price": 250
+            },
+            {
+                "name": "cafe con leche",
+                "price": 350
+            },
+            {
+                "name": "Frappuccino",
+                "price": 550
+            },
+            {
+                "name": "Bombon",
+                "price": 550
+            }
+        ]
+    }
+}

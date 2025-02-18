@@ -1,0 +1,271 @@
+{
+    "name": "the place",
+    "type": [
+        "restaurant"
+    ],
+    "speciality": [
+        "Caribena",
+        "Cubana"
+    ],
+    "municipality": "Boyeros",
+    "services": [
+        "Parking",
+        "Reservations",
+        "cash_national",
+        "digital_transfer_national",
+        "power_generator"
+    ],
+    "address": "calle 100, pasando aldabo, boyeros",
+    "qualification": null,
+    "hours": {
+        "monday": {
+            "open": "08:00",
+            "close": "03:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "close": "03:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "close": "03:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "close": "03:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "close": "03:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "close": "03:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "close": "03:00"
+        }
+    },
+    "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "facebook": "https://www.facebook.com/ThePlaceCuba/",
+        "instagram": null
+    },
+    "menu": {
+        "starters": [
+            {
+                "name": "croquetas",
+                "price": 600
+            },
+            {
+                "name": "eperlan",
+                "price": 900
+            },
+            {
+                "name": "tostones",
+                "price": 500
+            },
+            {
+                "name": "frituras malanga",
+                "price": 500
+            },
+            {
+                "name": "garbanzos fritos",
+                "price": 1950
+            },
+            {
+                "name": "sopon imperial",
+                "price": 1300
+            },
+            {
+                "name": "picadera the place",
+                "price": 2300
+            },
+            {
+                "name": "papas fritas",
+                "price": 800
+            }
+        ],
+        "salads": [],
+        "vegetables": [],
+        "meats": [
+            {
+                "name": "pechuga pollo grille",
+                "price": 1400
+            },
+            {
+                "name": "pollo frito",
+                "price": 1200
+            },
+            {
+                "name": "bistec cerdo grille",
+                "price": 1600
+            },
+            {
+                "name": "bistec uruguayo",
+                "price": 1800
+            },
+            {
+                "name": "costilla cerdo",
+                "price": 1700
+            },
+            {
+                "name": "masa cerdo frita",
+                "price": 1700
+            },
+            {
+                "name": "chilindron cordero",
+                "price": 1950
+            },
+            {
+                "name": "ropa vieja",
+                "price": 1500
+            }
+        ],
+        "beef": [
+            {
+                "name": "bistec res",
+                "price": 1800
+            },
+            {
+                "name": "chuleta cerdo",
+                "price": 1750
+            },
+            {
+                "name": "chuleton",
+                "price": 3000
+            }
+        ],
+        "seafood": [
+            {
+                "name": "pescado",
+                "price": 1500
+            },
+            {
+                "name": "canciller",
+                "price": 1800
+            },
+            {
+                "name": "langosta en sus variedades",
+                "price": 1950
+            },
+            {
+                "name": "camaron",
+                "price": 1500
+            }
+        ],
+        "burgers": [],
+        "desserts": [],
+        "cocktails": [],
+        "twist_cocktails": [],
+        "classic_cocktails": [],
+        "tiki_cocktails": [],
+        "tiki_author_cocktails": [],
+        "drinks": [
+            {
+                "name": "jarra cerveza cristal",
+                "price": 300
+            },
+            {
+                "name": "termo cerveza cristal",
+                "price": 2000
+            },
+            {
+                "name": "cerveza cristal",
+                "price": 300
+            },
+            {
+                "name": "cerveza importada",
+                "price": 250
+            },
+            {
+                "name": "malta bucanero",
+                "price": 300
+            },
+            {
+                "name": "lata refresco",
+                "price": 290
+            },
+            {
+                "name": "caja jugos",
+                "price": 260
+            },
+            {
+                "name": "pomo agua",
+                "price": 200
+            },
+            {
+                "name": "energizante",
+                "price": 330
+            },
+            {
+                "name": "caipiroska",
+                "price": 500
+            },
+            {
+                "name": "caipirisima",
+                "price": 500
+            },
+            {
+                "name": "mojito",
+                "price": 520
+            },
+            {
+                "name": "gin tonic",
+                "price": 500
+            },
+            {
+                "name": "sangria",
+                "price": 600
+            },
+            {
+                "name": "michelada",
+                "price": 900
+            },
+            {
+                "name": "chelada",
+                "price": 500
+            },
+            {
+                "name": "limonada frappe",
+                "price": 600
+            },
+            {
+                "name": "margarita",
+                "price": 550
+            },
+            {
+                "name": "red label",
+                "price": 550
+            },
+            {
+                "name": "old pard",
+                "price": 950
+            },
+            {
+                "name": "jamerson",
+                "price": 600
+            },
+            {
+                "name": "tequila",
+                "price": 450
+            },
+            {
+                "name": "tequila reposado",
+                "price": 500
+            },
+            {
+                "name": "seleccion maestro",
+                "price": 1150
+            },
+            {
+                "name": "pacto navio",
+                "price": 1150
+            }
+        ],
+        "others": []
+    }
+}
