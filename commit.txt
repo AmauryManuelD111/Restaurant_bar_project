@@ -1,0 +1,37 @@
+import sys
+import subprocess
+
+if __name__ == "__main__":
+    args = sys.argv
+    val = 0
+    if len(args) <=1:
+        try:
+            with open('.git/COMMIT_VERSION', 'r') as f:
+                val = f.read()
+        except FileNotFoundError:
+            print('El archivo COMMIT_VERSION no se encuentra, creelo y escriba en el la version o pasa la version como argumento...')
+            return
+    else:
+        val = args[-1]
+    try:
+        val = int(val)
+    except ValueError:
+        print('El valor de entrada no es un valor numerico, asegurese de que lo sea y vuelva a intentar...')
+        return
+    val += 1
+    val_str = str(val).strip()
+    subprocess.run(['git', 'add', '.'])
+    subprocess.run(['git', 'commit', '-m', 'v' + '.'.join(map(str,val_str))])
+    subprocess.run(['git', 'push', 'origin', 'main'])
+
+    for i in range(10):
+        try:
+            with open('.git/COMMIT_VERSION', 'w') as f:
+                f.write(val_str)
+            break
+        except Exception as e:
+            print(f'An error ocurred on save: {e}')
+        if i == 10:
+            raise IOError(f"Error al guardar el archivo: {nombre_archivo}")
+        print('\n(Try: {i})Trying again...')
+    print('Version',val, 'Guardada satisfactoriamente...')
