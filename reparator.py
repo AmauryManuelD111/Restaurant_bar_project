@@ -156,11 +156,61 @@ def repair_prices(value):
                 print(f"Error al convertir el precio: {v['price']} en el archivo.")
                 value[k]['price'] = None
     return value
+
+def repair_speciality(value):
+    dict = {
+        'cuban': 'Cubana',
+        'cubana': 'Cubana',
+        'Cuban': 'Cubana',
+        'pizza': 'Pizza',
+        'seafood': 'Maritima',
+        'others': 'Otros',
+        'Comida mixta': 'Otros',
+        'Comida Mixta': 'Otros',
+        'tapas': 'Tapas',
+        'Bar': 'Tapas',
+        'bar': 'Tapas',
+        'celianesa': None,
+        'mediterranea': 'Mediterranea',
+        'others' : 'Otros',
+        'Others' : 'Otros',
+        'carribbean': 'Caribena',
+        'Caribena':'caribena',
+        'caribena':'Caribena'
+        
+    }
+
+    def repair_services(value):
+        dict = {
+            'a la carta': 'transferencia',
+
+
+
+
+
+
+
+
+
+        },
+    list = []
+    for v in value:
+        actual = v
+        if v in dict.keys():
+            actual = dict[v]
+        if not v in list and not v == None:
+            list.append(actual)
+    #return value
+    return list
+
 if __name__ == "__main__":
     clean_json_files('jsons',{
-        'contact': clean_phone_number,
-        'municipality': repair_municipality,
-        'type': repair_type,
+        #'contact': clean_phone_number,
+        #'municipality': repair_municipality,
+        #'type': repair_type,
+        #'speciality': repair_speciality,
+        'services': "repair_services"
+
     },
     verb=True
     )
